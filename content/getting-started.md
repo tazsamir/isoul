@@ -33,16 +33,18 @@ These days I usually return to plain **Debian** or **Fedora**, rather than heavi
 
 ### 1. Start with one real problem
 
-Choose one thing you genuinely want to improve:
+Choose one thing you genuinely want to improve. These are good first projects:
 
-- Back up family photos
-- Store and stream media locally
-- Share files between devices
-- Run a password manager
-- Host notes or documents
-- Learn Linux and Docker
+- **Photos and phone backups** → [Immich](https://immich.app/)
+- **Films and TV** → [Jellyfin](https://jellyfin.org/)
+- **Music** → [Navidrome](https://www.navidrome.org/)
+- **Audiobooks and podcasts** → [Audiobookshelf](https://www.audiobookshelf.org/)
+- **Files between your own devices** → [Syncthing](https://syncthing.net/)
+- **Passwords** → [Vaultwarden](https://github.com/dani-garcia/vaultwarden) or the official [Bitwarden self-hosted release](https://github.com/bitwarden/self-host)
+- **Encrypted backups** → [Restic](https://restic.net/)
+- **Notes and documents** → [Outline](https://www.getoutline.com/) or [SilverBullet](https://silverbullet.md/)
 
-Do not start by installing every service you find interesting. Install one, use it for a while and learn how it works.
+Do not start by installing every service you find interesting. Pick one, use it for a while and learn how it works. The [Resources page](/resources/) contains more options and official project links.
 
 ### 2. Use hardware you already own
 
