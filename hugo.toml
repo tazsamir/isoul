@@ -1,7 +1,55 @@
 baseURL = 'https://isoul.uk/'
 languageCode = 'en-gb'
 title = 'isoul.uk'
-disableKinds = ['taxonomy', 'term']
+theme = 'PaperMod'
+
 [params]
-  description = 'Simple notes on digital ownership, privacy, piracy, and self-hosting.'
+  env = 'production'
+  title = 'isoul.uk'
+  description = 'Practical notes on digital ownership, privacy, self-hosting and preservation.'
   author = 'Samir'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+  hidemeta = false
+  hideSummary = false
+  ShowToc = true
+  TocOpen = false
+  homeInfoParams = { Title = 'Keep it yours.', Content = 'Practical notes on digital ownership, privacy, self-hosting and preservation. Keep it simple. Keep it local. Keep a copy.' }
+  socialIcons = [
+    { name = 'github', url = 'https://github.com/tazsamir' }
+  ]
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[menu]
+  [[menu.main]]
+    name = 'Notes'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    name = 'Projects'
+    url = '/projects/'
+    weight = 20
+  [[menu.main]]
+    name = 'Resources'
+    url = '/resources/'
+    weight = 30
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 40
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
