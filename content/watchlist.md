@@ -12,14 +12,22 @@ This is a **watchlist**, not an automatic recommendation engine. New projects ar
 - **Watching** — interesting or early; not ready to recommend.
 - **Rejected** — reviewed and not suitable at this time.
 
-## Current watchlist
+## Already recommended or in active use
+
+[Jellyfin](https://jellyfin.org/), [Immich](https://immich.app/), [Syncthing](https://syncthing.net/), [Paperless-ngx](https://docs.paperless-ngx.com/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AdGuard Home](https://adguard.com/en/adguard-home/overview.html), [Pi-hole](https://pi-hole.net/) and [Beszel](https://github.com/henrygd/beszel/) have practical experience behind them here. Their individual notes are on the [app shelf](/app-shelf/).
+
+## Under review
 
 | Project | Status | Why it is here |
 |---|---|---|
+| [Open WebUI](https://github.com/open-webui/open-webui) | Watching | Interesting local-AI interface, but not yet tested here. |
+| [Karakeep](https://github.com/karakeep-app/karakeep) | Watching | Interesting bookmark and web-archive project; needs testing for imports, exports and long-term preservation. |
+| [Linkwarden](https://linkwarden.app/) | Watching | Similar preservation use case, but not tested here. |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Watching | Capable PDF toolkit, but it appears heavier than [BentoPDF](https://github.com/alam00000/bentopdf) for this use case. |
+| [Miniflux](https://miniflux.app/) | Watching | A focused RSS reader, but FreshRSS has been used here instead. |
+| [Forgejo](https://forgejo.org/) | Worth testing | Other people use it, although it is not a personal choice here. |
+| [Mealie](https://mealie.io/) | Worth testing | Works well, but adding food and recipes can be tedious. |
 | [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Watching | A useful catalogue, but entries still need individual checking. |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | Recommended | Mature personal media server that I use. |
-| [Immich](https://github.com/immich-app/immich) | Recommended | Active personal photo and video library. |
-| [Syncthing](https://github.com/syncthing/syncthing) | Recommended | Direct device synchronisation without a central cloud account. |
 
 ## How something gets recommended
 
