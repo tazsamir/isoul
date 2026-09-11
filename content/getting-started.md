@@ -42,7 +42,7 @@ Choose one thing you genuinely want to improve. These are good first projects:
 - **Files between your own devices** → [Syncthing](https://syncthing.net/)
 - **Passwords** → [Vaultwarden](https://github.com/dani-garcia/vaultwarden) or the official [Bitwarden self-hosted release](https://github.com/bitwarden/self-host)
 - **Encrypted backups** → [Restic](https://restic.net/)
-- **Notes and documents** → [Joplin](https://joplinapp.org/) or [Simplenote](https://simplenote.com/)
+- **Notes and documents** → [Simplenote](https://simplenote.com/) *(the service I use)*; [Joplin](https://joplinapp.org/) is another open-source alternative, but not one I currently use.
 
 Do not start by installing every service you find interesting. Pick one, use it for a while and learn how it works. The [Resources page](/resources/) contains more options and official project links.
 
