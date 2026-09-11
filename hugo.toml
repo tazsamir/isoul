@@ -1,0 +1,7 @@
+baseURL = 'https://isoul.uk/'
+languageCode = 'en-gb'
+title = 'isoul.uk'
+disableKinds = ['taxonomy', 'term']
+[params]
+  description = 'Simple notes on digital ownership, privacy, piracy, and self-hosting.'
+  author = 'Samir'

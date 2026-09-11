@@ -1,0 +1,4 @@
+{{ define "main" }}
+<section class="hero"><p class="eyebrow">DIGITAL OWNERSHIP · PRIVACY · SELF-HOSTING</p><h1>{{ .Title }}</h1><div class="intro">{{ .Content }}</div></section>
+<section class="cards"><h2>Latest notes</h2>{{ range first 10 (where site.RegularPages "Type" "posts") }}<article class="card"><p class="eyebrow">{{ .Date.Format "02 Jan 2006" }}</p><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3><p>{{ .Description }}</p></article>{{ end }}</section>
+{{ end }}

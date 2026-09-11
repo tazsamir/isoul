@@ -1,0 +1,1 @@
+{{ define "main" }}<section class="post"><p class="eyebrow">ARCHIVE</p><h1>{{ .Title }}</h1>{{ range .Pages }}<article class="card"><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><p>{{ .Description }}</p></article>{{ end }}</section>{{ end }}
