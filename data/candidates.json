@@ -1,0 +1,40 @@
+{
+  "generated": "2026-09-11T10:00:53.887584+00:00",
+  "items": [
+    {
+      "repository": "awesome-selfhosted/awesome-selfhosted",
+      "release": "1.0.0",
+      "released": "2023-08-22T13:54:23Z",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted/releases/tag/1.0.0",
+      "status": "review"
+    },
+    {
+      "repository": "jellyfin/jellyfin",
+      "release": "v12.0",
+      "released": "2026-09-08T01:38:39Z",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.0",
+      "status": "review"
+    },
+    {
+      "repository": "immich-app/immich",
+      "release": "v3.2.0",
+      "released": "2026-09-10T16:00:52Z",
+      "url": "https://github.com/immich-app/immich/releases/tag/v3.2.0",
+      "status": "review"
+    },
+    {
+      "repository": "syncthing/syncthing",
+      "release": "v2.1.5",
+      "released": "2026-09-08T07:35:00Z",
+      "url": "https://github.com/syncthing/syncthing/releases/tag/v2.1.5",
+      "status": "review"
+    },
+    {
+      "repository": "dani-garcia/vaultwarden",
+      "release": "1.37.2",
+      "released": "2026-08-22T12:29:13Z",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.2",
+      "status": "review"
+    }
+  ]
+}

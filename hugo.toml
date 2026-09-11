@@ -30,17 +30,25 @@ theme = 'PaperMod'
     url = '/posts/'
     weight = 10
   [[menu.main]]
+    name = 'App shelf'
+    url = '/app-shelf/'
+    weight = 20
+  [[menu.main]]
+    name = 'What’s new'
+    url = '/watchlist/'
+    weight = 30
+  [[menu.main]]
     name = 'Projects'
     url = '/projects/'
-    weight = 20
+    weight = 40
   [[menu.main]]
     name = 'Resources'
     url = '/resources/'
-    weight = 30
+    weight = 50
   [[menu.main]]
     name = 'About'
     url = '/about/'
-    weight = 40
+    weight = 60
 
 [markup.goldmark.renderer]
   unsafe = false

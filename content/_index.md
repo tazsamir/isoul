@@ -16,6 +16,8 @@ Piracy is often discussed as a legal or moral issue. It is also a symptom of bro
 ## Start here
 
 - [New to homelabs? Start here](/getting-started/)
+- [My app shelf](/app-shelf/)
+- [What’s new](/watchlist/)
 - [Why digital ownership matters](/posts/digital-ownership-matters/)
 - [Self-hosting without the rabbit hole](/posts/self-hosting-without-the-rabbit-hole/)
 - [A simple personal archive](/posts/a-simple-personal-archive/)

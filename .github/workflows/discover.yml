@@ -1,0 +1,33 @@
+name: Discover candidates
+
+on:
+  schedule:
+    - cron: '17 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Collect release candidates
+        run: python scripts/discover.py
+      - name: Open review pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'Update software review candidates'
+          title: 'Review: updated software candidates'
+          body: |
+            Automated discovery only. Review every item before changing a published page.
+            This pull request must not publish recommendations by itself.
+          branch: automation/review-candidates
+          delete-branch: true
+          draft: true
+          add-paths: data/candidates.json
