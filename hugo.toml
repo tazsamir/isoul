@@ -7,7 +7,6 @@ theme = 'PaperMod'
   env = 'production'
   title = 'isoul.uk'
   description = 'Practical notes on digital ownership, privacy, self-hosting and preservation.'
-  author = 'Samir'
   defaultTheme = 'auto'
   disableThemeToggle = false
   ShowReadingTime = true
@@ -22,10 +21,6 @@ theme = 'PaperMod'
   ShowToc = true
   TocOpen = false
   homeInfoParams = { Title = 'Keep it yours.', Content = 'Practical notes on digital ownership, privacy, self-hosting and preservation. Keep it simple. Keep it local. Keep a copy.' }
-  socialIcons = [
-    { name = 'github', url = 'https://github.com/tazsamir' }
-  ]
-
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
 
