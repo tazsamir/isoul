@@ -20,6 +20,8 @@ Piracy is often discussed as a legal or moral issue. It is also a symptom of bro
 - [What’s new](/watchlist/)
 - [Why digital ownership matters](/posts/digital-ownership-matters/)
 - [Enshittification and the case for self-hosting](/posts/enshittification-and-the-case-for-self-hosting/)
+- [What I choose not to self-host](/posts/what-i-choose-not-to-self-host/)
+- [Backup, synchronisation or preservation?](/posts/backup-synchronisation-or-preservation/)
 - [Self-hosting without the rabbit hole](/posts/self-hosting-without-the-rabbit-hole/)
 - [A simple personal archive](/posts/a-simple-personal-archive/)
 
