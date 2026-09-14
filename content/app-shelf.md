@@ -30,6 +30,7 @@ This is a record of practical choices in my own setup, not a catalogue of every 
 | Personal document management | [Papra](https://github.com/baptisteArno/papra) | The document application I currently use. |
 | Bookmarks and saved web content | [Karakeep](https://github.com/karakeep-app/karakeep) | A project I actively use and rate positively for keeping bookmarks, notes and saved material. |
 | Service monitoring | [Uptime Kuma](https://github.com/louislam/uptime-kuma/) | Used in the lab for service monitoring. |
+| RSS reader | [FreshRSS](https://freshrss.org/) | Current RSS reader on my stack. |
 | Container and server monitoring | [Beszel](https://github.com/henrygd/beszel) | Used for server and PC information with a useful lightweight interface. |
 | Container update visibility | [What's Up Docker](https://github.com/getwud/wud) | Checks container images and sends update notifications without taking over Compose management. |
 | Notifications | [Gotify](https://gotify.net/) | Receives local health and update notifications. |
@@ -53,7 +54,6 @@ The N100 also hosts other media-management and download components. They are int
 
 ## Tested, but not current choices
 
-- **[FreshRSS](https://freshrss.org/)** — used before as an RSS reader, but not currently deployed.
 - **[Forgejo](https://forgejo.org/)** — tested, but not something I personally use; still useful to understand as a self-hosted Git option.
 - **[Mealie](https://mealie.io/)** — tested and works well. Adding food and recipes can be tedious, which is an important practical limitation.
 
