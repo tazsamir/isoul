@@ -16,6 +16,7 @@ Before recommending anything, check:
 - Documentation that explains installation and recovery
 - Issues and pull requests receiving reasonable responses
 - Data export or standard formats
+- A usable exit path if the provider changes pricing, access or licence
 - Backup and restore instructions
 - Security history and release process
 - Resource requirements and update risk
