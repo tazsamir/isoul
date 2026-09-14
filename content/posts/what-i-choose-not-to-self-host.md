@@ -16,6 +16,12 @@ I am cautious about services that handle especially sensitive information, need 
 
 That is not a failure of self-hosting. It is the point of making a deliberate choice instead of following a slogan.
 
+## Email is where I draw the line
+
+I deliberately do not self-host email. Reliable delivery requires reputation management, filtering, authentication, security, storage, backups and recovery. AI-powered filtering and mailbox automation add another layer of risk because sensitive messages may be processed by systems that can be manipulated by malicious content or given too much access.
+
+For me, hosted email with my own domain, clear export options and independent backups is the more sensible choice. That is not giving up on digital ownership; it is choosing not to operate a difficult and security-sensitive service when the benefit is not worth the work.
+
 ## Questions I ask first
 
 Before adding a service, I ask:

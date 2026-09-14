@@ -7,6 +7,14 @@ The internet was sold as convenience. Too often, it became dependence: a licence
 
 This is a small, practical space for **digital ownership, preservation, privacy and self-hosting** — without making life unnecessarily complicated.
 
+## What this site is for
+
+This site is about choosing where technology should live and who should control it. I document practical self-hosting, local copies, privacy, backups and digital preservation — while being honest about the services I deliberately leave hosted.
+
+Self-hosting is not a badge of honour and it is not the answer to every problem. I use it where local control, resilience or privacy is worth the maintenance. I do not self-host complexity for its own sake. Email is a good example: reliable delivery, reputation, filtering, authentication, security and recovery are too much operational work for the benefit I would gain.
+
+The useful question is not “Can this be self-hosted?” It is “Does running it myself give me enough control to justify the work, and can I leave later without losing my data?”
+
 ## The principle
 
 > Keep it simple. Keep it local. Keep a copy.
