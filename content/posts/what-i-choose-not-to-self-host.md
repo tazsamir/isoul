@@ -1,6 +1,6 @@
 ---
 title: "What I choose not to self-host"
-date: 2026-09-15T10:00:00+01:00
+date: 2026-09-14T10:00:00+01:00
 draft: false
 description: "Self-hosting is useful, but it is not the right answer for every service."
 tags: [self-hosting, privacy, homelab, digital-ownership]

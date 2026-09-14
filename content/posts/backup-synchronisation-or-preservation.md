@@ -1,6 +1,6 @@
 ---
 title: "Backup, synchronisation or preservation?"
-date: 2026-09-15T10:05:00+01:00
+date: 2026-09-14T10:05:00+01:00
 draft: false
 description: "Three different jobs that are often confused in self-hosted setups."
 tags: [backups, digital-preservation, self-hosting, homelab]
