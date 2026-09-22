@@ -32,11 +32,13 @@ This is a record of practical choices in my own setup, not a catalogue of every 
 | Service monitoring | [Uptime Kuma](https://github.com/louislam/uptime-kuma/) | Used in the lab for service monitoring. |
 | RSS reader | [FreshRSS](https://freshrss.org/) | Current RSS reader on my stack. |
 | Container and server monitoring | [Beszel](https://github.com/henrygd/beszel) | Used for server and PC information with a useful lightweight interface. |
+| Network device monitoring | [NetAlertX](https://github.com/jokobsk/netalertx) | Used to see what is connected and active on the homelab network. |
 | Container update visibility | [What's Up Docker](https://github.com/getwud/wud) | Checks container images and sends update notifications without taking over Compose management. |
 | Notifications | [Gotify](https://gotify.net/) | Receives local health and update notifications. |
 | Container API isolation | [Docker Socket Proxy](https://github.com/Tecnativa/docker-socket-proxy) | Keeps monitoring access to Docker's socket narrower than exposing the raw socket directly. |
 | Homelab dashboard | [Glance](https://github.com/glanceapp/glance) | Provides a single local dashboard for the services and useful links. |
 | PDF tools | [BentoPDF](https://github.com/alam00000/bentopdf) | A lightweight PDF tool I prefer over heavier platforms. |
+| Ebook library | [Calibre-web](https://github.com/jOeA28/calibre-web) | Testing whether a Kindle can download books directly; separate from Lazylibrarian's audiobook focus. |
 | Foreign-media downloads | [MeTube](https://github.com/alexta69/metube) | A simple web interface around yt-dlp for controlled downloads. |
 | Network access | [Tailscale](https://tailscale.com/) | Used for private access between trusted devices; it is not treated as a replacement for local DNS or backups. |
 
