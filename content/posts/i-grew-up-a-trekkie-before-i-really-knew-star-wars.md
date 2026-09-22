@@ -8,7 +8,6 @@ tags:
   - science-fiction
   - television
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** We grew up in a house where the television was always on — older siblings, wrestling tapes, sci-fi reruns and films brought back from the video shop. Television wasn't background noise. It was the recommendation engine.
