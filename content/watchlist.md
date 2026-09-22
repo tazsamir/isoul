@@ -29,7 +29,7 @@ This is a **watchlist**, not an automatic recommendation engine. New projects ar
 | [Mealie](https://mealie.io/) | Worth testing | Works well, but adding food and recipes can be tedious. |
 | [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Watching | A useful catalogue, but entries still need individual checking. |
 | [Plausible Community Edition](https://plausible.io/self-hosted-web-analytics) | Worth testing | A cookie-free, privacy-first analytics option under AGPLv3. Fits the privacy stance here, but still needs hands-on testing. |
-| [Blinko](https://github.com/blinkospace/blinko) | Watching | A self-hosted, privacy-first AI note tool using a local model. Early-stage and security-sensitive; AGPL-licensed and not yet tested here. |
+| [Blinko](https://github.com/blinkospace/blinko) | Watching | A self-hosted, privacy-first AI note tool using a local model. Early-stage and security-sensitive; AGPL-licensed (network-clause applies to modified deployments) and not yet tested here. |
 
 ## How something gets recommended
 
