@@ -8,6 +8,7 @@ tags:
   - nostalgia
   - 2000s
   - personal
+draft: true
 ---
 
 > **Previously on isoul.uk:** Toonami changed what we watched. Dragon Ball Z, Tenchi Muyo, Zoids — television opened a door before the internet blew it off its hinges. For the first time, anime felt like something worth actively looking for rather than something that might happen to be on.
