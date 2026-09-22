@@ -3,7 +3,7 @@ title: "About"
 description: "Why isoul.uk exists."
 ---
 
-isoul.uk is a personal notebook about digital ownership, privacy, self-hosting and preservation.
+isoul.uk is a personal notebook about digital ownership, privacy, self-hosting and preservation — and a place where personal stories about growing up with technology sit alongside the practical notes.
 
 The approach is deliberately simple:
 

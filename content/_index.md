@@ -7,6 +7,8 @@ The internet was sold as convenience. Too often, it became dependence: a licence
 
 This is a small, practical space for **digital ownership, preservation, privacy and self-hosting** — without making life unnecessarily complicated.
 
+There is also a series of personal stories: **["Off the stack"](/off-the-stack/)** — memoir and nostalgia pieces about growing up with television, finding anime on the early internet, and how the things we watched and used become the things we eventually try to keep.
+
 ## What this site is for
 
 This site is about choosing where technology should live and who should control it. I document practical self-hosting, local copies, privacy, backups and digital preservation — while being honest about the services I deliberately leave hosted.
