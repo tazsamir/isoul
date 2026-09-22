@@ -1,0 +1,18 @@
+# Hugo build directory
+public/
+
+# Build cache
+.cache/
+.cache_bak/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugo lock file
+.hugo_build.lock
+
+# Editor files
+*.swp
+*.swo
+*~
