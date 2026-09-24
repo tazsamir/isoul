@@ -51,7 +51,7 @@ The N100 also hosts other media-management and download components. They are int
 | Storage platform | [TrueNAS](https://www.truenas.com/) | Normandy is the active TrueNAS server and the live storage system. |
 | Photo-library storage | [Immich](https://immich.app/) data and PostgreSQL data | The live Immich library is stored under the `Shepard` dataset on Normandy. |
 | Network file storage | SMB and NFS | Used to make storage available to the PC and Docker services; permissions and identity mapping are part of the design. |
-| Local replication target | TrueNAS replication | Normandy is the live copy; Voyager is the separate recovery copy. |
+| Local replication target | TrueNAS replication | Normandy is the live copy; Borgcube is the separate recovery copy. |
 | Encrypted backup workflow | [Restic](https://restic.net/) | Used for encrypted, verifiable backups of important configuration and service data. |
 
 ## Tested, but not current choices

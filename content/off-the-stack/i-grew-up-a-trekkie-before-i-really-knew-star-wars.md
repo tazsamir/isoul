@@ -79,7 +79,7 @@ Which, when I look at my hobbies now, feels incredibly predictable.
 
 Years later I started naming machines in my homelab after things I liked.
 
-One server became **Voyager**. Another became **Deltaflyer**. The names weren't part of some carefully planned naming scheme at first. They were simply references that felt natural.
+One server became **Borgcube**. Another became **Deltaflyer**. The names weren't part of some carefully planned naming scheme at first. They were simply references that felt natural.
 
 Then more appeared.
 

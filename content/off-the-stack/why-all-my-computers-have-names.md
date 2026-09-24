@@ -1,7 +1,7 @@
 ---
 title: "Why All My Computers Have Names"
 date: 2026-09-22
-description: "Voyager, Deltaflyer, Normandy and Bebop: why naming homelab machines makes the infrastructure feel a little more personal."
+description: "Borgcube, Deltaflyer, Normandy and Bebop: why naming homelab machines makes the infrastructure feel a little more personal."
 tags:
   - homelab
   - self-hosting
@@ -23,7 +23,7 @@ Some people name servers after their function.
 
 That is sensible.
 
-I have machines called **Voyager**, **Deltaflyer**, **Normandy** and **Bebop**.
+I have machines called **Borgcube**, **Deltaflyer**, **Normandy** and **Bebop**.
 
 This is less sensible.
 
@@ -41,23 +41,19 @@ I wanted names I would actually enjoy seeing.
 
 Science fiction supplied plenty.
 
-## Voyager
+## Borgcube
 
-**Voyager** is one of my NAS names.
+**Borgcube** is one of my NAS names.
 
-That one is fairly obvious.
+The name comes from the Borg cubes in *Star Trek*: huge, functional ships built around storage, resilience and redundancy rather than elegance.
 
-I grew up in a house where *Star Trek* was part of the normal television landscape. My brothers were much more into *Star Trek* than *Star Wars*, and *Voyager* became one of the versions of the series I most associate with growing up.
-
-Years later the name ended up attached to storage hardware.
-
-That feels appropriate for a machine designed to quietly carry important things for a very long time.
+That makes it a good fit for the square Node 804 case and for a machine whose job is to hold a separate recovery copy.
 
 ## Deltaflyer
 
 My Proxmox host is **Deltaflyer**.
 
-The Delta Flyer was the custom shuttle from *Star Trek: Voyager*, which makes the name fit nicely alongside Voyager while still being a separate machine.
+The Delta Flyer was the custom shuttle from *Star Trek: Voyager*, so the name still keeps part of the original *Star Trek* thread while belonging to a separate machine.
 
 It also sounds much better than `pve01`.
 

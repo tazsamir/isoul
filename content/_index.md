@@ -3,38 +3,25 @@ title: "Keep it yours"
 description: "Notes on digital ownership, preservation, privacy and self-hosting."
 ---
 
-The internet was sold as convenience. Too often, it became dependence: a licence instead of a purchase, a login instead of a shelf, and a remote switch someone else controls.
+Technology is convenient until an account closes, a purchase disappears or the only copy of something important stops working. This is a small, practical space about keeping meaningful parts of a digital life under your own control.
 
-This is a small, practical space for **digital ownership, preservation, privacy and self-hosting** — without making life unnecessarily complicated.
+I write about digital ownership, preservation, privacy and selective self-hosting, alongside personal stories about growing up with technology and media. The aim is not to host everything. It is to make deliberate choices, keep useful exit routes and avoid trusting one service with the only copy.
 
-There is also a series of personal stories: **["Off the stack"](/off-the-stack/)** — memoir and nostalgia pieces about growing up with television, finding anime on the early internet, and how the things we watched and used become the things we eventually try to keep.
-
-## What this site is for
-
-This site is about choosing where technology should live and who should control it. I document practical self-hosting, local copies, privacy, backups and digital preservation — while being honest about the services I deliberately leave hosted.
-
-Self-hosting is not a badge of honour and it is not the answer to every problem. I use it where local control, resilience or privacy is worth the maintenance. I do not self-host complexity for its own sake. Email is a good example: reliable delivery, reputation, filtering, authentication, security and recovery are too much operational work for the benefit I would gain.
-
-The useful question is not “Can this be self-hosted?” It is “Does running it myself give me enough control to justify the work, and can I leave later without losing my data?”
-
-## The principle
-
-> Keep it simple. Keep it local. Keep a copy.
-
-Piracy is often discussed as a legal or moral issue. It is also a symptom of broken access: delisted films, disappearing software, disabled hardware, region locks and products that stop working when a company changes its mind. This site is about understanding that problem and building resilient, lawful alternatives where possible.
+> **Keep it simple. Keep it local. Keep a copy.**
 
 ## Start here
 
 - [New to homelabs? Start here](/getting-started/)
-- [My app shelf](/app-shelf/)
-- [What’s new](/watchlist/)
 - [Why digital ownership matters](/posts/digital-ownership-matters/)
-- [Enshittification and the case for self-hosting](/posts/enshittification-and-the-case-for-self-hosting/)
 - [What I choose not to self-host](/posts/what-i-choose-not-to-self-host/)
+- [My app shelf](/app-shelf/)
+
+## Latest notes
+
+- [How I watch without hoarding](/posts/how-i-watch-without-hoarding/)
 - [Backup, synchronisation or preservation?](/posts/backup-synchronisation-or-preservation/)
-- [Self-hosting without the rabbit hole](/posts/self-hosting-without-the-rabbit-hole/)
-- [A simple personal archive](/posts/a-simple-personal-archive/)
+- [Enshittification and the case for self-hosting](/posts/enshittification-and-the-case-for-self-hosting/)
 
-## What this site is not
+## Off the stack
 
-This is not a place for piracy links, stolen material, circumvention instructions or commercial infringement. It is a place to think clearly about ownership, preservation, interoperability and control — and to share straightforward ways to reduce dependence on platforms.
+[Off the Stack](/off-the-stack/) is where I write about the culture around the technology: television, anime, the early internet, old hardware and the things that shaped how I think about keeping media and memories.
