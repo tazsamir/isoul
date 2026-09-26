@@ -234,7 +234,7 @@ Treat this as an optional transport, not as the source of permission. Search res
 
 Automation does not need to make the final decision. My preferred manual loop is:
 
-1. Open the Weekly Exploration playlist in Navidrome.
+1. Open Weekly Exploration on ListenBrainz.
 2. Play unfamiliar artists without adding them permanently.
 3. Look up an artist's official site, Bandcamp page or label.
 4. Buy or download an authorised release.

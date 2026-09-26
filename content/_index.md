@@ -18,9 +18,9 @@ I write about digital ownership, preservation, privacy and selective self-hostin
 
 ## Latest notes
 
-- [How I watch without hoarding](/posts/how-i-watch-without-hoarding/)
-- [Backup, synchronisation or preservation?](/posts/backup-synchronisation-or-preservation/)
-- [Enshittification and the case for self-hosting](/posts/enshittification-and-the-case-for-self-hosting/)
+- [A Careful Self-Hosted Music Discovery Pipeline](/posts/a-careful-self-hosted-music-discovery-pipeline/)
+- [The Quiet Work Behind Owning Your Media](/posts/the-quiet-work-behind-owning-your-media/)
+- [It Only Took Me Twenty-Odd Years to Listen to Harry Potter](/off-the-stack/it-only-took-me-twenty-odd-years-to-listen-to-harry-potter/)
 
 ## Off the stack
 
