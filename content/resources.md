@@ -56,9 +56,3 @@ Old build guides are useful for the approach, but their prices and buying links 
 - [Internet Archive](https://archive.org/)
 - [EFF](https://www.eff.org/) — digital rights and civil liberties.
 - [UK digital content rights](https://www.gov.uk/government/news/new-rights-for-consumers-when-buying-digital-content)
-
-## Piracy resources
-
-- [FMHY](https://fmhy.net/) — a community-maintained index of free material and online resources.
-
-FMHY changes frequently. Check links carefully and follow the law where you live. This site does not host or distribute copyrighted material, and linking to a resource is not an endorsement of every item in it.

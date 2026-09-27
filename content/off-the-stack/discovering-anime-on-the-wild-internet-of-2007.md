@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** Toonami changed what we watched. Dragon Ball Z, Tenchi Muyo, Zoids — television opened a door before the internet blew it off its hinges. For the first time, anime felt like something worth actively looking for rather than something that might happen to be on.
+> **Previously on isoul.uk:** [How Toonami Changed What I Watched](/off-the-stack/how-toonami-changed-what-i-watched/) — television opened the door before the internet blew it off its hinges, and anime became something worth actively looking for.
 
 
 Around 2007, the internet stopped being just another way to look things up and became the place where I discovered what to watch.
@@ -20,9 +20,7 @@ For anime, that was a huge change.
 
 Television had introduced me to shows like *Dragon Ball Z*, *Tenchi Muyo* and *Zoids*. But television also imposed a hard limit: I could only watch what somebody had chosen to broadcast in the UK.
 
-The internet made that gate disappear.
-
-Or, more accurately, it replaced it with the chaotic, unreliable and fascinating web of the mid-2000s.
+The gate moved online, into the chaotic, unreliable and fascinating web of the mid-2000s.
 
 ## Veoh, Justin.tv and whatever worked
 
@@ -32,7 +30,7 @@ I remember sites like Veoh and Justin.tv.
 
 You would find streams, uploads and communities in places that felt temporary even while you were using them. Things disappeared. Links broke. Quality varied wildly.
 
-None of that mattered very much because the important part was access.
+At the time, access was what I noticed most, although availability and permission were not the same thing.
 
 Suddenly I could find shows because somebody online had mentioned them, not because a television scheduler had decided they belonged in a particular time slot.
 
@@ -82,7 +80,7 @@ There was always another season, another list and another series to try.
 
 Then real life changed.
 
-I got married in 2016 and naturally had less time to keep up with everything. Anime didn't disappear, but the habit of systematically following seasons faded.
+Adult responsibilities grew and I naturally had less time to keep up with everything. Anime didn't disappear, but the habit of systematically following seasons faded.
 
 ## The strange thing about digital memories
 

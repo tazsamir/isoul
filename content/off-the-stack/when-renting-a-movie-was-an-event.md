@@ -1,7 +1,7 @@
 ---
 title: "When Renting a Movie Was an Event"
 date: 2026-09-28
-description: "Remembering Blockbuster, local video shops, VHS covers and the strange excitement of not knowing what would come home."
+description: "Remembering Blockbuster, local video shops, VHS covers and the strange excitement of a film that had to come home and go back again."
 tags:
   - nostalgia
   - vhs
@@ -11,90 +11,56 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** Science fiction shaped one household. Star Trek, Quantum Leap and Stargate arrived via older brothers rather than personal discovery. The question of what came before Star Wars turned out to say more about a home than about films.
+> **Previously on isoul.uk:** [I Grew Up a Trekkie Before I Really Knew Star Wars](/off-the-stack/i-grew-up-a-trekkie-before-i-really-knew-star-wars/) — science fiction arrived through older brothers, and the question of what came before *Star Wars* said more about a home than about films.
 
+There was a time when watching a particular film began with somebody leaving the house.
 
-There was a time when getting a film meant somebody had to physically go somewhere and bring one home.
+My brothers would go to Blockbuster or one of the local video shops and return carrying whatever the household would be watching. I was younger and not always part of the choice, but that only made their return more interesting. A film did not simply appear in a menu. It arrived through the front door.
 
-That sounds ridiculously obvious when written down, but the experience was completely different from opening a streaming service.
+I have already written about the mixture of South Asian cinema, Hong Kong action and Hollywood that came into our house. What stays with me here is the rental itself: a temporary object, chosen in a shop, with a deadline attached to it.
 
-My brothers would go to Blockbuster or one of the local video shops and come back with films. I was younger, so I wasn't necessarily involved in choosing them. That made the moment they returned more interesting.
+## Browsing was part of the evening
 
-You didn't know exactly what was coming back through the door.
+A video shop made selection visible.
 
-## The pile of tapes
+Rows of cases showed what was available, what was popular and what somebody else had already taken. The cover had to earn your attention before reviews, trailers and personalised rows could do the work. A title, a painted image and a few lines on the back might be all you had.
 
-The films could be anything.
+The local shop and Blockbuster did not feel quite the same, but both turned choosing into an activity rather than a prelude to pressing play. You moved through a physical catalogue. You picked cases up. You compared a small number of possibilities. Eventually somebody had to commit.
 
-South Asian movies. Kung-fu films. Golden Harvest movies. Hollywood films. Action. Science fiction. Things I had never heard of.
+Even when I was not standing in the shop, I felt the result of that process when the tapes came home. The choice had already been made. The evening now had a shape.
 
-That variety wasn't generated from my viewing history. It came from the tastes of the other people in the house.
+## The film came with a clock
 
-Sometimes that meant discovering something I loved.
+A rental was temporary in a very literal way.
 
-Sometimes it meant staring at the cover of a film I wasn't old enough to watch.
+It had to be watched before it went back. Keeping it longer could mean another charge. The tape also had to be rewound, an instruction so common that “be kind, rewind” became part of the culture around VHS.
 
-I remember *Alien* being one of those.
-
-I didn't need to see the whole film for it to occupy space in my imagination. The artwork, the conversations and the fact that older people were watching something I couldn't were enough.
-
-## VHS artwork mattered
-
-Video covers used to do a lot of work.
-
-You could stand in a shop knowing almost nothing about a film and make a decision based on a title, a picture and a few lines on the back.
-
-Even at home the cases were objects worth looking at.
-
-That meant you often knew what films looked like before you knew what they were about.
-
-The same was true of posters. My brothers had film posters all over the place: *Jurassic Park*, *Barb Wire* and plenty of others.
-
-Movies existed around you even when you weren't watching them.
-
-## Scarcity made things memorable
-
-Today I can decide to watch something, find it and start it within seconds.
-
-That is objectively more convenient.
-
-But it also means individual films can feel disposable. If I don't like one after ten minutes, there are thousands more waiting behind it.
-
-A rented VHS had weight.
-
-Somebody had gone out, chosen it and paid for it. It had to go back. If the family was going to watch it, there was a good chance we were actually going to watch the whole thing.
+Those small obligations changed the way a film felt. Somebody had made the journey, chosen it and paid to borrow it. There was a good chance the household would actually sit down and finish it rather than abandon it after ten minutes for one of a thousand alternatives.
 
 The inconvenience created commitment.
 
-## Recommendations used to be people
+That did not make every rental good. Sometimes the cover had done a much better job than the film. But even a bad choice became part of the evening because there was no recommendation row waiting underneath it.
 
-My earliest movie recommendations weren't really recommendations at all.
+## A physical copy changed the room
 
-They were just other people's choices.
+A rented tape occupied space while it was with you.
 
-My brothers rented the films they wanted. My parents watched what they liked. I absorbed all of it.
+The case sat near the television. Somebody could pick it up, read the back or ask when it was going on. The object reminded everyone that there was something to watch and that it would not be there for long.
 
-That is how I ended up seeing a mixture of cinema that I doubt an algorithm would ever have deliberately assembled for me.
+Streaming has made access much easier, but it has made this kind of temporary presence less visible. A film in a digital watchlist can remain there for months without creating any urgency. It can also disappear when a catalogue changes, sometimes without anyone noticing.
 
-Indian cinema and Hong Kong action could sit next to American blockbusters and British television without anybody needing to define a genre profile.
+A rental announced both its arrival and its departure.
 
-It was messy and accidental.
+## Convenience removed the edges
 
-I think that was good.
+I would not seriously argue for returning to late fees, unavailable tapes or journeys made for a film that turned out to be terrible. Streaming and self-hosted libraries solve real problems, and I use both.
 
-## We gained everything and lost the ritual
+But modern convenience smooths away the edges that once made watching feel like an event.
 
-I wouldn't seriously argue that we should go back.
+There is no shop to enter, no finite shelf to browse and no return date. Starting a film is almost effortless, which also makes abandoning one almost effortless. The process has become better while the ritual has become thinner.
 
-Streaming, digital libraries and self-hosted media are incredibly convenient. I use them myself.
+What I miss is not the VHS format itself. It is the sequence around it: somebody going out, a choice becoming physical, the tape arriving home, the household making time for it, then the object leaving again.
 
-But I do miss the ritual.
+The film was only part of the memory.
 
-Going to the shop. Walking past rows of covers. Bringing the tapes home. Finding out whether somebody else's choice was brilliant or terrible. Rewinding. Returning them.
-
-The film was only part of it.
-
-The process itself became a memory.
-
-Maybe that is why, all these years later, I can barely remember what I watched last week but can still picture a pile of VHS tapes coming home with my brothers.
-
+The deadline, the case and the journey gave it a beginning and an end.

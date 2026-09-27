@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** Self-hosting started as a technical curiosity and became something more. Ownership, privacy, learning and keeping data in systems we control — the reasons accumulated quietly until they were difficult to ignore.
+> **Previously on isoul.uk:** [Why I Self-Host](/off-the-stack/why-i-self-host/) — a technical curiosity became a practical choice about ownership, privacy, learning and keeping data in systems I control.
 
 
 It is slightly ridiculous that one line can connect watching anime on Veoh around 2007 with running Docker containers on a mini PC in my house today.
@@ -34,7 +34,7 @@ Quality wasn't guaranteed.
 
 Availability definitely wasn't guaranteed.
 
-But for somebody who had previously depended on television schedules, the internet felt unlimited.
+Availability and permission were not the same thing, and broken links were only part of the uncertainty. But for somebody who had previously depended on television schedules, the internet felt unlimited.
 
 ## Then streaming became normal
 
@@ -62,11 +62,11 @@ The convenience remained, but the sense that a particular service was a permanen
 
 My answer wasn't to abandon streaming.
 
-It was to make sure I also had a way to organise and watch media I controlled.
+It was to make sure I also had a way to organise and watch media I controlled and had obtained from lawful sources.
 
 That eventually led to a self-hosted media setup.
 
-Jellyfin became part of my homelab, alongside the surrounding services needed to organise and manage the library.
+Jellyfin became part of my homelab, giving those files a library I could organise without tying them to one streaming account.
 
 The technology is obviously completely different from the web I used in 2007.
 
@@ -78,7 +78,7 @@ I decide how it is organised.
 
 I decide which device can access it.
 
-If I change the server, I can move the library with me.
+If I change the server, I can move the ordinary media files, metadata and backed-up configuration with me.
 
 ## Ownership changes the experience
 
@@ -102,15 +102,7 @@ It is also reassuring.
 
 The funniest part is that the infrastructure is now nearly as interesting to me as the media.
 
-The home server runs containers.
-
-DNS makes services available by sensible names.
-
-Monitoring tells me what the machines are doing.
-
-VPN routing handles traffic I want treated differently.
-
-Storage lives elsewhere on the network.
+The implementation matters less than keeping the files and metadata portable, but learning how the pieces fit together became part of the enjoyment.
 
 None of that helps me understand the ending of a film.
 

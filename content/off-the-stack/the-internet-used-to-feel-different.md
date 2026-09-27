@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** Around 2007 the internet stopped being a reference tool and became the place we went to find things. Veoh, Justin.tv and whatever else was working that week replaced television schedules as the guide to what to watch next.
+> **Previously on isoul.uk:** [Discovering Anime on the Wild Internet of 2007](/off-the-stack/discovering-anime-on-the-wild-internet-of-2007/) — the internet stopped being a reference tool and became the place we went to find what to watch next.
 
 
 I don't think the old internet was necessarily better.
@@ -114,7 +114,7 @@ It wasn't.
 
 What I would like to keep is the sense that the internet is something we can build, explore and own parts of.
 
-Not just five applications we endlessly scroll.
+Not just a small number of dominant feeds we endlessly scroll.
 
 That is one of the reasons self-hosting appeals to me.
 

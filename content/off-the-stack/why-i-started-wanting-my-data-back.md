@@ -10,14 +10,14 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** From hunting anime on the 2007 web to running Jellyfin at home, the thread stayed the same: I wanted to decide what was there, how it was organised and which devices could access it. Streaming solved the convenience problem. It didn't solve the ownership problem.
+> **Previously on isoul.uk:** [From Veoh and Justin.tv to Self-Hosting My Own Media](/off-the-stack/from-veoh-and-justintv-to-self-hosting-my-own-media/) — streaming solved the convenience problem, but it did not solve the ownership problem.
 
 
 For a long time I treated online accounts as permanent.
 
 Why wouldn't I?
 
-My main Gmail account is more than twenty years old. Over that kind of period an account stops feeling like an account and starts feeling like infrastructure.
+I had used the same main account for roughly two decades. Over that kind of period an account stops feeling like an account and starts feeling like infrastructure.
 
 Email goes there.
 
@@ -31,7 +31,7 @@ Other websites use it as an identity.
 
 Eventually you have so much history attached to one company that moving anything feels almost absurd.
 
-Recently I started moving some of it anyway.
+In recent years I started moving some of it anyway.
 
 ## Twenty years accumulates quietly
 
@@ -79,7 +79,7 @@ Contacts and calendars began moving into systems I control.
 
 My photos already had a home in Immich.
 
-Only after I knew I had the data did deleting old cloud copies feel sensible.
+Only after I had exported, verified and backed up the data did it make sense to decide which old cloud copies could safely be removed.
 
 That order matters.
 
@@ -87,9 +87,7 @@ Privacy isn't improved very much if the process of becoming more private causes 
 
 ## It isn't about disappearing
 
-I still use a Pixel.
-
-I still use online services.
+I still use online services and mainstream devices.
 
 I still have accounts with large companies.
 
@@ -119,7 +117,7 @@ It means encryption keys.
 
 It means testing restores instead of merely assuming they work.
 
-I learned that lesson the unpleasant way after wiping my primary NAS and having to recover my family photo library.
+I learned that lesson through a difficult recovery, described in [Why digital ownership matters](/posts/digital-ownership-matters/).
 
 So "I want my data back" isn't really about moving files from one server to another.
 

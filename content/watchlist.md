@@ -5,6 +5,8 @@ description: "A cautious watchlist of self-hosted tools and changes worth invest
 
 This is a **watchlist**, not an automatic recommendation engine. New projects are collected for review first. Nothing should be treated as recommended until it has been checked.
 
+**Last reviewed: 27 September 2026.**
+
 ## Review status
 
 - **Recommended** — tested or carefully reviewed and suitable for normal use.
@@ -14,19 +16,18 @@ This is a **watchlist**, not an automatic recommendation engine. New projects ar
 
 ## Already recommended or in active use
 
-[Jellyfin](https://jellyfin.org/), [Immich](https://immich.app/), [Syncthing](https://syncthing.net/), [Paperless-ngx](https://docs.paperless-ngx.com/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AdGuard Home](https://adguard.com/en/adguard-home/overview.html), [Pi-hole](https://pi-hole.net/) and [Beszel](https://github.com/henrygd/beszel/) have practical experience behind them here. Their individual notes are on the [app shelf](/app-shelf/).
+[Jellyfin](https://jellyfin.org/), [Immich](https://immich.app/), [Syncthing](https://syncthing.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Beszel](https://github.com/henrygd/beszel/) and [Karakeep](https://github.com/karakeep-app/karakeep) are in active use. Their notes are on the [app shelf](/app-shelf/).
+
+Forgejo and Mealie have also been tested but are not current choices; the app shelf records that distinction.
 
 ## Under review
 
 | Project | Status | Why it is here |
 |---|---|---|
 | [Open WebUI](https://github.com/open-webui/open-webui) | Watching | Interesting local-AI interface, but not yet tested here. |
-| [Karakeep](https://github.com/karakeep-app/karakeep) | Watching | Interesting bookmark and web-archive project; needs testing for imports, exports and long-term preservation. |
 | [Linkwarden](https://linkwarden.app/) | Watching | Similar preservation use case, but not tested here. |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Watching | Capable PDF toolkit, but it appears heavier than [BentoPDF](https://github.com/alam00000/bentopdf) for this use case. |
 | [Miniflux](https://miniflux.app/) | Watching | A focused RSS reader, but FreshRSS has been used here instead. |
-| [Forgejo](https://forgejo.org/) | Worth testing | Other people use it, although it is not a personal choice here. |
-| [Mealie](https://mealie.io/) | Worth testing | Works well, but adding food and recipes can be tedious. |
 | [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Watching | A useful catalogue, but entries still need individual checking. |
 | [Plausible Community Edition](https://plausible.io/self-hosted-web-analytics) | Worth testing | A cookie-free, privacy-first analytics option under AGPLv3. Fits the privacy stance here, but still needs hands-on testing. |
 | [Blinko](https://github.com/blinkospace/blinko) | Watching | A self-hosted, privacy-first AI note tool using a local model. Early-stage and security-sensitive; AGPL-licensed (network-clause applies to modified deployments) and not yet tested here. |

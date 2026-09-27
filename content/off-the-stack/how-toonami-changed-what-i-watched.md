@@ -11,14 +11,14 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** Renting a VHS was a physical event. You waited for somebody to come home. You didn't know what was in the bag until the tape appeared. That ritual, the artwork, the scarcity — it made individual films matter in a way that streaming has made difficult to remember.
+> **Previously on isoul.uk:** [When Renting a Movie Was an Event](/off-the-stack/when-renting-a-movie-was-an-event/) — the ritual, artwork and scarcity of rented VHS tapes made individual films matter in a way that streaming has made difficult to remember.
 
 
 I watched anime before I really knew what anime was.
 
 Like a lot of children growing up in the 1990s, *Pokémon* was simply a cartoon on television. *Sailor Moon* was another show. I wasn't thinking about where they came from, how they were produced or whether they belonged to a separate medium.
 
-Then Toonami came along and changed the way I looked at all of it.
+Then Toonami came along and changed the way I looked at all of it. In the UK, it began as a Cartoon Network programming block in 2000 before becoming a standalone channel in 2003; my memory is of that broader Toonami era rather than every programme belonging to one schedule.
 
 ## Before the label mattered
 
@@ -72,17 +72,9 @@ The frustration also created curiosity.
 
 If these few programmes were reaching British television, what else was out there?
 
-## Then the internet blew the doors open
+## Then the gate moved online
 
-By around 2007, I wasn't limited to whatever broadcasters selected for me.
-
-Sites such as Veoh and Justin.tv opened up an entirely different way of finding things. *Naruto* and *Death Note* were part of that next phase for me.
-
-I went from passively watching anime that happened to appear on television to deliberately searching for it.
-
-That changed everything.
-
-Eventually I was following seasonal anime and keeping up with new shows in a way that would have seemed impossible when I first watched *Pokémon*.
+By around 2007, broadcasters were no longer my only guide. I went from watching anime that happened to appear on television to deliberately searching for it online. That next phase deserves its own story.
 
 ## Looking back
 
@@ -98,7 +90,7 @@ Then the internet showed me there were far more than television had ever suggest
 
 For roughly the next decade, anime became one of my main hobbies.
 
-Life changed later. I got married in 2016, had more responsibilities and stopped following new seasons as obsessively.
+Life changed later. Adult responsibilities grew and I stopped following new seasons as obsessively.
 
 But I never really left it behind.
 

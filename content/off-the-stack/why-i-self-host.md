@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** The internet used to feel like something we moved through rather than something that moved content at us. Forums had addresses. Communities had places. Discovery was active. That feeling — of participating rather than consuming — has been harder to find as feeds took over.
+> **Previously on isoul.uk:** [The Internet Used to Feel Different](/off-the-stack/the-internet-used-to-feel-different/) — forums had addresses, communities had places and discovery was active before feeds took over.
 
 
 There are much easier ways to use technology than self-hosting.
@@ -76,15 +76,7 @@ If something contains years of personal history, I want to know where it is, how
 
 ## The restore changed my attitude
 
-The biggest lesson came when I accidentally wiped my primary NAS while moving house.
-
-Suddenly all the nice diagrams and backup ideas stopped being theoretical.
-
-I had family photos to recover.
-
-There was a secondary NAS. There was Backblaze. There were encrypted datasets, keys, database backups and plenty of moments when I discovered the difference between believing something was backed up and proving it could be restored.
-
-I eventually got the important data back.
+The biggest lesson came when I reset my NAS believing that another copy gave me enough protection. Suddenly all the nice diagrams and backup ideas stopped being theoretical. I eventually recovered the important family data, but the process exposed the difference between believing something was backed up and proving it could be restored. I wrote about that experience in [Why digital ownership matters](/posts/digital-ownership-matters/).
 
 The experience permanently changed how I think about self-hosting.
 
@@ -92,7 +84,7 @@ Running the service is only half the job.
 
 The other half is making sure the service can fail without taking your memories with it.
 
-That lesson now shapes the setup more than any individual application does. My main storage lives on Normandy, Borgcube keeps a separate recovery copy and encrypted Restic snapshots go off-site to a Raspberry Pi. The jobs are monitored, but the important test is whether the data can actually be restored.
+That lesson now shapes the setup more than any individual application does. I keep separate recovery copies and encrypted off-site backups, but the important test is whether the data can actually be restored.
 
 ## I also just enjoy it
 

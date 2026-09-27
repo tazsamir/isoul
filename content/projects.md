@@ -17,4 +17,4 @@ This site documents a real-world attempt to keep useful services, media and pers
 
 The goal is not to replace every cloud service. It is to avoid making any one company the only place where an important service or copy of a file exists.
 
-More detailed build notes will be added as each project is documented.
+The [app shelf](/app-shelf/) records what is currently in use. The longer [notes](/posts/) explain the ownership, preservation and maintenance decisions behind it. Detailed implementation guides are kept separately so this site can stay focused on the reasons and lessons.

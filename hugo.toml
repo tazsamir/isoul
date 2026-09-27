@@ -1,5 +1,5 @@
 baseURL = 'https://isoul.uk/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'isoul.uk'
 theme = 'PaperMod'
 

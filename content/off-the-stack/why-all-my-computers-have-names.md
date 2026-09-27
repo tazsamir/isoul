@@ -1,7 +1,7 @@
 ---
-title: "Why All My Computers Have Names"
+title: "Why I Name My Computers"
 date: 2026-11-16
-description: "Borgcube, Deltaflyer, Normandy and Bebop: why naming homelab machines makes the infrastructure feel a little more personal."
+description: "Why names borrowed from science fiction and anime make homelab infrastructure feel a little more personal."
 tags:
   - homelab
   - self-hosting
@@ -10,7 +10,7 @@ tags:
 draft: true
 ---
 
-> **Previously on isoul.uk:** Two decades of online accounts accumulate quietly until an account stops feeling like an account and starts feeling like infrastructure. Photos, files, contacts, calendars — once I started asking where all of it actually lived, moving some of it home started feeling less like a technical exercise and more like a deliberate choice.
+> **Previously on isoul.uk:** [Why I Started Wanting My Data Back](/off-the-stack/why-i-started-wanting-my-data-back/) — two decades of online accounts accumulate quietly until an account stops feeling like an account and starts feeling like infrastructure.
 
 
 Some people name servers after their function.
@@ -23,7 +23,7 @@ Some people name servers after their function.
 
 That is sensible.
 
-I have machines called **Borgcube**, **Deltaflyer**, **Normandy** and **Bebop**.
+I give my machines names borrowed from science fiction and anime.
 
 This is less sensible.
 
@@ -41,51 +41,15 @@ I wanted names I would actually enjoy seeing.
 
 Science fiction supplied plenty.
 
-## Borgcube
+## The themes matter more than a scheme
 
-**Borgcube** is one of my NAS names.
+Some names came from *Star Trek*, another from *Mass Effect*, and anime eventually joined the mix.
 
-The name comes from the Borg cubes in *Star Trek*: huge, functional ships built around storage, resilience and redundancy rather than elegance.
+There is no perfectly consistent taxonomy. The names accumulated from stories and worlds I liked, then stayed because each one felt right for the machine at the time.
 
-That makes it a good fit for the square Node 804 case and for a machine whose job is to hold a separate recovery copy.
+The computers do not care whether the pattern is consistent.
 
-## Deltaflyer
-
-My Proxmox host is **Deltaflyer**.
-
-The Delta Flyer was the custom shuttle from *Star Trek: Voyager*, so the name still keeps part of the original *Star Trek* thread while belonging to a separate machine.
-
-It also sounds much better than `pve01`.
-
-The server doesn't care.
-
-I do.
-
-## Normandy
-
-My main NAS is **Normandy**.
-
-That one comes from *Mass Effect* rather than *Star Trek*.
-
-Again, the theme isn't perfectly consistent.
-
-I am not running a real datacentre, so this has never concerned me.
-
-Normandy has become one of the important machines in the house because it holds files and photos and acts as a central point for a lot of the things I run.
-
-The name gives it an identity that "main NAS" never would.
-
-## Bebop
-
-My little Intel N100 Docker host is **Bebop**.
-
-That came later.
-
-Bebop is the always-on machine doing a surprising amount of work for something so small: containers, hosted services, DNS-related jobs and monitoring all live around it.
-
-The name comes from another bit of science-fiction/anime history rather than following the *Star Trek* pattern.
-
-That is fine.
+I do care that the names are memorable and enjoyable.
 
 A good naming scheme should survive contact with things you like.
 
@@ -95,11 +59,7 @@ There is actually one practical benefit.
 
 I remember names more easily than numbered hosts.
 
-"SSH to Bebop" is instantly clear in my head.
-
-"Check Deltaflyer" tells me exactly which physical machine I mean.
-
-"Normandy backup" means something.
+Mentioning one of those names is instantly clearer in my head than referring to another numbered host.
 
 That matters once a homelab grows beyond a single PC under a desk.
 
@@ -119,5 +79,5 @@ None of that was planned.
 
 But it makes the whole setup feel more personal.
 
-And if I am going to spend an evening troubleshooting why a Linux bridge refuses to behave, I would much rather be angry at **Deltaflyer** than `pve01`.
+And if I am going to spend an evening troubleshooting a machine that refuses to behave, I would much rather be angry at a fictional spacecraft than `server01`.
 

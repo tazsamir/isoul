@@ -16,7 +16,7 @@ I write about digital ownership, preservation, privacy and selective self-hostin
 - [What I choose not to self-host](/posts/what-i-choose-not-to-self-host/)
 - [My app shelf](/app-shelf/)
 
-## Latest notes
+## Featured notes
 
 - [A Careful Self-Hosted Music Discovery Pipeline](/posts/a-careful-self-hosted-music-discovery-pipeline/)
 - [The Quiet Work Behind Owning Your Media](/posts/the-quiet-work-behind-owning-your-media/)

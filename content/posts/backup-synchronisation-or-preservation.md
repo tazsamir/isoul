@@ -47,7 +47,7 @@ The same file may need all three, but the design is different for each job.
 
 ## How this applies to my lab
 
-The live data on TrueNAS-Normandy is the working copy. Replication to another system can provide another local recovery path, but it should not be treated as the only backup. Restic configuration backups protect the information needed to rebuild services, while service data and databases need their own explicit inclusion and restore plans.
+The live data on the primary NAS is the working copy. Replication to another system can provide another local recovery path, but it should not be treated as the only backup. Restic configuration backups protect the information needed to rebuild services, while service data and databases need their own explicit inclusion and restore plans.
 
 The most important question is not “Where is the copy?” It is:
 
