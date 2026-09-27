@@ -24,7 +24,9 @@ It was not one tidy genre or one kind of listening. Qawwali, film songs, remixes
 
 ## Nusrat at the centre
 
-I usually shorten his name to NFAK. The initials are convenient, but nothing about the music itself feels abbreviated.
+We simply called him Nusrat. There was no need for initials or a formal introduction; everyone knew who we meant.
+
+The familiarity of using his first name suited the place his music held in the house. He was not an entry in a genre guide or a distant figure to be explained. His voice was already part of the room.
 
 It is difficult to leave Nusrat playing in the background. Even when a performance begins gently, there is a sense that it is heading somewhere. The harmonium establishes the melody, the clapping finds its pulse and the responding voices build a frame around him. Then his voice pushes through it.
 
