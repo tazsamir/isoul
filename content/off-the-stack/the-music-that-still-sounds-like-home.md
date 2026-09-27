@@ -1,11 +1,14 @@
 ---
 title: "The Music That Still Sounds Like Home"
 date: 2026-11-23
-description: "Nusrat Fateh Ali Khan, Bally Sagoo and the Bollywood songs that made South Asian music part of the atmosphere at home."
+description: "Nusrat Fateh Ali Khan, Bally Sagoo, Bollywood, music television and the YouTube AMVs that widened what I heard."
 tags:
   - nusrat-fateh-ali-khan
   - bally-sagoo
   - bollywood
+  - music-television
+  - anime
+  - youtube
   - music
   - nostalgia
   - personal
@@ -17,7 +20,7 @@ When I think about music that sounds like home, Nusrat Fateh Ali Khan is at the 
 
 There was plenty of Bollywood music too. Udit Narayan, Kumar Sanu, Alka Yagnik and Lata Mangeshkar were familiar voices, and film soundtracks became part of the atmosphere rather than something that needed to be deliberately chosen. Bally Sagoo belonged there as well, taking songs people already knew and placing them inside a British Asian sound that felt connected to more than one world.
 
-It was not one tidy genre or one kind of listening. Qawwali, film songs, remixes and pop all sat near each other. Looking back, that mixture makes more sense to me than any carefully organised category ever could.
+It was not one tidy genre or one kind of listening. Qawwali, film songs, remixes and pop all sat near each other. Then, around 1999 and into the 2000s, Kerrang! and MTV brought a different stream of music through the television. Looking back, that mixture makes more sense to me than any carefully organised category ever could.
 
 ## Nusrat at the centre
 
@@ -53,6 +56,28 @@ Those playback voices linked films that otherwise had different actors, stories 
 
 The songs took their time. Introductions could run for a while, instrumental passages had room to breathe and a duet felt like two people responding to one another. They were built for films, but the best of them never needed the pictures to survive.
 
+## Kerrang! and MTV opened another door
+
+By the end of the 1990s and into the 2000s, I was also watching Kerrang! and MTV.
+
+Music television made discovery feel accidental. I did not have to know what I was looking for. I could leave the channel on, hear something unfamiliar and wait for the caption to tell me the artist and title. Some songs disappeared from rotation almost as quickly as they arrived. Others sent me looking for more.
+
+Kerrang! brought guitars and a much louder visual language into the room. MTV cast a wider net, moving between pop, rock, hip-hop and whatever else belonged in its schedule that day. The channels did some of the work that playlists and recommendation systems do now, but the experience felt less private. Everyone near the television heard the same thing, whether they had chosen it or not.
+
+None of this replaced Nusrat, Bally Sagoo or Bollywood. It sat beside them. That is probably why my musical memory of the period does not divide neatly into “music from home” and “music from outside.” It all came through the same speakers eventually.
+
+## Then YouTube and AMVs changed discovery again
+
+YouTube opened another route into music through anime music videos.
+
+AMVs were fan-made edits that paired scenes from anime with songs chosen by the editor. The combination did not need any official connection. A track could come from rock, metal, electronic music or somewhere completely unexpected, then become permanently attached to a series in the mind of whoever watched it.
+
+That was part of the fun. On music television, the artist and label supplied the images. In an AMV, a fan heard a connection and built the video around it. The editing might be carefully timed or wonderfully rough, but either way it gave the song another life.
+
+I could arrive because of the anime and leave wanting to know who made the music. Sometimes it worked in the other direction, with a familiar track pointing towards a series I had not seen. YouTube made those accidental connections easier to follow because the next search was already in the same browser window.
+
+The videos could disappear, audio could be muted and uploads could be scattered across several accounts. Even so, AMVs became part of how I discovered music in the 2000s. They occupied the space between the scheduled surprise of MTV and the personalised recommendations that came later.
+
 ## Looking after the music
 
 Keeping this music in a personal library can be untidy.
@@ -71,6 +96,6 @@ I listen to newer music too. This is not an argument that everything became wors
 
 These songs simply do a different job. New music can surprise me. Older music can place me.
 
-Nusrat remains at the centre, with Bally Sagoo and all that Bollywood music around him. Together they form something broader than a favourites list. They preserve the overlap between family, culture and memory without asking those things to remain separate.
+Nusrat remains at the centre, with Bally Sagoo and all that Bollywood music around him. Kerrang! and MTV widened the picture, then YouTube and AMVs made the path through it far less predictable. Together, those sounds form something broader than a favourites list. They preserve the overlap between family, culture, curiosity and memory without asking those things to remain separate.
 
 The equipment has changed. The formats have changed. The music still sounds like home.
