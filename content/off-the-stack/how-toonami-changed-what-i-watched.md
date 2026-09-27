@@ -8,7 +8,6 @@ tags:
   - nostalgia
   - television
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [When Renting a Movie Was an Event](/off-the-stack/when-renting-a-movie-was-an-event/) — the ritual, artwork and scarcity of rented VHS tapes made individual films matter in a way that streaming has made difficult to remember.

@@ -7,7 +7,6 @@ tags:
   - self-hosting
   - data
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [From Veoh and Justin.tv to Self-Hosting My Own Media](/off-the-stack/from-veoh-and-justintv-to-self-hosting-my-own-media/) — streaming solved the convenience problem, but it did not solve the ownership problem.

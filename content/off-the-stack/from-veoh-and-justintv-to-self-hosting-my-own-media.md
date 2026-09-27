@@ -8,7 +8,6 @@ tags:
   - anime
   - nostalgia
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [Why I Self-Host](/off-the-stack/why-i-self-host/) — a technical curiosity became a practical choice about ownership, privacy, learning and keeping data in systems I control.

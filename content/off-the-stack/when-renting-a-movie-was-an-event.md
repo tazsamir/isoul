@@ -8,7 +8,6 @@ tags:
   - movies
   - 1990s
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [I Grew Up a Trekkie Before I Really Knew Star Wars](/off-the-stack/i-grew-up-a-trekkie-before-i-really-knew-star-wars/) — science fiction arrived through older brothers, and the question of what came before *Star Wars* said more about a home than about films.

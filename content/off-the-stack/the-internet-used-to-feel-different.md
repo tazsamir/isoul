@@ -8,7 +8,6 @@ tags:
   - privacy
   - self-hosting
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [Discovering Anime on the Wild Internet of 2007](/off-the-stack/discovering-anime-on-the-wild-internet-of-2007/) — the internet stopped being a reference tool and became the place we went to find what to watch next.

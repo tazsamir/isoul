@@ -8,7 +8,6 @@ tags:
   - privacy
   - linux
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [The Internet Used to Feel Different](/off-the-stack/the-internet-used-to-feel-different/) — forums had addresses, communities had places and discovery was active before feeds took over.

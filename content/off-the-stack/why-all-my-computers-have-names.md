@@ -7,7 +7,6 @@ tags:
   - self-hosting
   - science-fiction
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [Why I Started Wanting My Data Back](/off-the-stack/why-i-started-wanting-my-data-back/) — two decades of online accounts accumulate quietly until an account stops feeling like an account and starts feeling like infrastructure.

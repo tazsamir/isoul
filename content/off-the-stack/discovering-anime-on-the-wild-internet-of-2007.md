@@ -8,7 +8,6 @@ tags:
   - nostalgia
   - 2000s
   - personal
-draft: true
 ---
 
 > **Previously on isoul.uk:** [How Toonami Changed What I Watched](/off-the-stack/how-toonami-changed-what-i-watched/) — television opened the door before the internet blew it off its hinges, and anime became something worth actively looking for.
