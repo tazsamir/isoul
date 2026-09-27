@@ -84,7 +84,9 @@ Keeping this music in a personal library can be untidy.
 
 Nusrat's name and song titles are transliterated in different ways. The same performance can appear on several releases with different titles, lengths or artwork. A shortened recording may sit beside a much longer one without a clear explanation. Remixes add another layer because the singer, original composer and producer can all be credited inconsistently.
 
-Streaming services do not always make those relationships easier to understand.
+Streaming services do not always make those relationships easier to understand. Availability is another problem. Hi-Tech Music closed, and some of the songs I remember are now difficult to get legitimately. A catalogue that once felt ordinary and available can quietly become scattered across old CDs, second-hand listings and incomplete digital releases.
+
+That changes preservation from an abstract concern into something personal. If I already own a recording, I want to keep a reliable copy rather than assume it will always be waiting on a streaming service. The loss is not only the audio: artwork, credits and the original track order can disappear with it.
 
 That makes curation useful. I want to know which recording I am playing, whether it is complete and where it belongs. Correcting an album title or separating two releases is mundane work, but it stops the collection from becoming a pile of near-duplicates.
 
