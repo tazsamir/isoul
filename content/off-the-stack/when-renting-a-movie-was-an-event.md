@@ -1,6 +1,6 @@
 ---
 title: "When Renting a Movie Was an Event"
-date: 2026-09-22
+date: 2026-09-28
 description: "Remembering Blockbuster, local video shops, VHS covers and the strange excitement of not knowing what would come home."
 tags:
   - nostalgia

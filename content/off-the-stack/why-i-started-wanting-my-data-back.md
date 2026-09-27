@@ -1,6 +1,6 @@
 ---
 title: "Why I Started Wanting My Data Back"
-date: 2026-09-22
+date: 2026-11-09
 description: "After decades of online accounts, I started moving photos, files, contacts and calendars back into systems I control."
 tags:
   - privacy
@@ -75,7 +75,7 @@ Google Takeout gave me exports.
 
 I imported old mail into Thunderbird and kept the MBOX backup on my NAS.
 
-Contacts and calendars moved into systems I control.
+Contacts and calendars began moving into systems I control.
 
 My photos already had a home in Immich.
 

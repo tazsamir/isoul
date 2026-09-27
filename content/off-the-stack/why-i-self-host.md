@@ -1,6 +1,6 @@
 ---
 title: "Why I Self-Host"
-date: 2026-09-22
+date: 2026-10-26
 description: "Self-hosting started as a technical hobby, but ownership, privacy, learning and keeping my own data are why I keep doing it."
 tags:
   - self-hosting
@@ -91,6 +91,8 @@ The experience permanently changed how I think about self-hosting.
 Running the service is only half the job.
 
 The other half is making sure the service can fail without taking your memories with it.
+
+That lesson now shapes the setup more than any individual application does. My main storage lives on Normandy, Borgcube keeps a separate recovery copy and encrypted Restic snapshots go off-site to a Raspberry Pi. The jobs are monitored, but the important test is whether the data can actually be restored.
 
 ## I also just enjoy it
 

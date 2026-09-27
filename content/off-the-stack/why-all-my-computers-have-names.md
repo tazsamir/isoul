@@ -1,6 +1,6 @@
 ---
 title: "Why All My Computers Have Names"
-date: 2026-09-22
+date: 2026-11-16
 description: "Borgcube, Deltaflyer, Normandy and Bebop: why naming homelab machines makes the infrastructure feel a little more personal."
 tags:
   - homelab

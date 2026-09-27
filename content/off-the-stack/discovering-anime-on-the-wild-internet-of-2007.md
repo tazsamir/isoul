@@ -1,6 +1,6 @@
 ---
 title: "Discovering Anime on the Wild Internet of 2007"
-date: 2026-09-22
+date: 2026-10-12
 description: "Veoh, Justin.tv, Naruto, Death Note and the moment the internet replaced television as my guide to anime."
 tags:
   - anime
