@@ -1,0 +1,31 @@
+{{- if in (slice "posts" "off-the-stack") .Section }}
+<section class="comments" aria-labelledby="comments-heading">
+  <h2 id="comments-heading">Comments</h2>
+  <p class="comments-note">No account needed. Choose “Anonymous” to leave a comment. Please keep it civil and on topic.</p>
+  <div id="remark42"></div>
+</section>
+<script>
+  var remark_config = {
+    host: 'https://deltaflyer.tarpon-rattlesnake.ts.net',
+    site_id: 'isoul',
+    components: ['embed'],
+    url: '{{ .Permalink }}',
+    page_title: {{ .Title | jsonify }},
+    locale: 'en',
+    theme: document.body.classList.contains('dark') ? 'dark' : 'light',
+    no_footer: true
+  };
+</script>
+<script type="module" async src="https://deltaflyer.tarpon-rattlesnake.ts.net/web/embed.mjs"></script>
+<script>
+  new MutationObserver(function () {
+    if (window.REMARK42) {
+      window.REMARK42.changeTheme(document.body.classList.contains('dark') ? 'dark' : 'light');
+    }
+  }).observe(document.body, { attributes: true, attributeFilter: ['class'] });
+</script>
+<style>
+  .comments { margin-top: 2.5rem; }
+  .comments-note { color: var(--secondary); font-size: 0.9rem; }
+</style>
+{{- end }}
