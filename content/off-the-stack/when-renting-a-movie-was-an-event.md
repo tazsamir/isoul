@@ -54,6 +54,8 @@ A rental announced both its arrival and its departure.
 
 I would not seriously argue for returning to late fees, unavailable tapes or journeys made for a film that turned out to be terrible. Streaming and self-hosted libraries solve real problems, and I use both.
 
+There was a stage between the video shop and streaming for me. I was one of the relatively few people who actually bought DVDs and Blu-rays from LoveFilm, rather than only renting through it, before eventually moving over to Netflix. The delivery method changed, then ownership gave way to instant access, but each step made the act of choosing a film feel a little less physical.
+
 But modern convenience smooths away the edges that once made watching feel like an event.
 
 There is no shop to enter, no finite shelf to browse and no return date. Starting a film is almost effortless, which also makes abandoning one almost effortless. The process has become better while the ritual has become thinner.

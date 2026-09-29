@@ -1,0 +1,121 @@
+name: Publish next weekly article
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Publish the next queued article'
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event_name == 'schedule' || inputs.publish == true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Select the next queued article
+        id: article
+        run: bash .github/scripts/publish-next-article.sh
+
+      - name: Commit and push the publication
+        if: steps.article.outputs.has_article == 'true'
+        env:
+          ARTICLE_FILE: ${{ steps.article.outputs.article_file }}
+          ARTICLE_TITLE: ${{ steps.article.outputs.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$ARTICLE_FILE"
+          git commit -m "Publish: $ARTICLE_TITLE"
+          git push origin HEAD:main
+
+      - name: Setup Hugo
+        if: steps.article.outputs.has_article == 'true'
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.148.2'
+          extended: true
+
+      - name: Build
+        if: steps.article.outputs.has_article == 'true'
+        run: hugo --minify
+
+      - name: Confirm the article is in the build
+        if: steps.article.outputs.has_article == 'true'
+        env:
+          SLUG: ${{ steps.article.outputs.slug }}
+          NEXT_SLUG: ${{ steps.article.outputs.next_slug }}
+        run: |
+          test -f "public/off-the-stack/$SLUG/index.html"
+          if [[ -n "$NEXT_SLUG" ]]; then
+            test ! -e "public/off-the-stack/$NEXT_SLUG/index.html"
+            ! grep -Rqs "$NEXT_SLUG" public
+          fi
+
+      - name: Upload Pages artifact
+        if: steps.article.outputs.has_article == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        if: steps.article.outputs.has_article == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Verify the live article
+        if: steps.article.outputs.has_article == 'true'
+        env:
+          SLUG: ${{ steps.article.outputs.slug }}
+          TITLE: ${{ steps.article.outputs.title }}
+          NEXT_SLUG: ${{ steps.article.outputs.next_slug }}
+        run: |
+          article_url="https://isoul.uk/off-the-stack/$SLUG/"
+          landing_url="https://isoul.uk/off-the-stack/"
+          article_html="$RUNNER_TEMP/article.html"
+          landing_html="$RUNNER_TEMP/landing.html"
+
+          for attempt in {1..12}; do
+            if curl --fail --silent --show-error --location \
+              --output "$article_html" "$article_url" && \
+              grep -Fq "$TITLE" "$article_html"; then
+              break
+            fi
+            if [[ "$attempt" == 12 ]]; then
+              echo "The deployed article was not verifiable at $article_url" >&2
+              exit 1
+            fi
+            sleep 10
+          done
+
+          curl --fail --silent --show-error --location \
+            --output "$landing_html" "$landing_url"
+          grep -Fq "/off-the-stack/$SLUG/" "$landing_html"
+
+          if [[ -n "$NEXT_SLUG" ]]; then
+            status=$(curl --silent --location --output /dev/null \
+              --write-out '%{http_code}' \
+              "https://isoul.uk/off-the-stack/$NEXT_SLUG/")
+            test "$status" = "404"
+          fi
+
+          echo "Verified live: $article_url"
