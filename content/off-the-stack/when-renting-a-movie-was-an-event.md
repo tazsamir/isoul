@@ -10,7 +10,7 @@ tags:
   - personal
 ---
 
-> **Previously on isoul.uk:** [I Grew Up a Trekkie Before I Really Knew Star Wars](/off-the-stack/i-grew-up-a-trekkie-before-i-really-knew-star-wars/) — science fiction arrived through older brothers, and the question of what came before *Star Wars* said more about a home than about films.
+> **Previously on isoul.uk:** [It Only Took Me Twenty-Odd Years to Listen to Harry Potter](/off-the-stack/it-only-took-me-twenty-odd-years-to-listen-to-harry-potter/) — a Year 6 recommendation I ignored finally found me through audiobooks more than twenty years later.
 
 There was a time when watching a particular film began with somebody leaving the house.
 
