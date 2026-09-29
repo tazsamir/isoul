@@ -21,7 +21,12 @@ theme = 'PaperMod'
   hideSummary = false
   ShowToc = true
   TocOpen = false
+  comments = true
   homeInfoParams = { Title = 'Keep it yours.', Content = 'Practical writing about digital ownership, preservation, selective self-hosting and the technology that shaped me.' }
+
+[services.disqus]
+  shortname = 'isoul-1'
+
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
 

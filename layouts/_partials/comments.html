@@ -1,0 +1,9 @@
+{{- if in (slice "posts" "off-the-stack") .Section }}
+<section class="comments" aria-labelledby="comments-heading">
+  <h2 id="comments-heading">Comments</h2>
+  {{ template "_internal/disqus.html" . }}
+</section>
+<style>
+  .comments { margin-top: 2.5rem; }
+</style>
+{{- end }}
