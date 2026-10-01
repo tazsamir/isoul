@@ -27,6 +27,16 @@ Returning to Rudeus's family after Eris makes that even clearer. The season give
 
 The series rarely stops to announce that it is doing world-building. Politics comes through conversation, magic through experimentation, and history through the way people speak about the past. Rudeus gets to live in the world rather than having it explained to him. Then a Turning Point arrives, and all those small conversations suddenly matter.
 
+## The unease inside Chaos Breaker
+
+I also cannot overlook Perugius and the time spent in his floating fortress, Chaos Breaker. The artwork throughout the castle is striking, but there is something foreboding about it. It makes the place feel as though it is carrying a history that Rudeus can see without yet being able to understand.
+
+Perugius himself has that same weight. Rudeus is so caught off guard that he forgets to bow, while Nanahoshi is already comfortable enough with Perugius to have a friendly conversation with him. Seeing someone Rudeus knows being so chummy with this imposing figure makes the meeting feel oddly normal and intimidating at the same time.
+
+What I particularly like is how Perugius gradually seems to warm to Rudeus. He does not suddenly become friendly, but there is a growing interest there. It feels significant because Perugius is not simply another powerful person for Rudeus to meet. His presence, his castle and the way everyone behaves around him all suggest that he matters far beyond this visit.
+
+His response to Ariel makes that even clearer. He refuses to support her claim and instead asks her a strange but unique question: **what is the most important quality of a king?** It is not the sort of test that can be passed by listing policies or making promises. He is asking what it actually means to be a ruler. That one question makes the politics more interesting because Ariel does not merely need his approval; she has to show him what kind of queen she intends to become.
+
 ## A detour that refuses to stay a detour
 
 The return to the Demon Continent fascinated me because of how quickly it seemed to pass. Meeting Atofe and Kishirika could almost be another strange detour through this enormous world. Atofe is dangerous, absurd and memorable. Kishirika is simply Kishirika. Then, surprisingly quickly, Rudeus is home again.
@@ -67,7 +77,7 @@ This is why I enjoy the slower parts of *Mushoku Tensei* so much. The conversati
 
 The series is willing to let him live. It allows a home, a family and a collection of strained or repaired relationships to take shape around him. When a Turning Point arrives, there is something there to lose.
 
-Season 3's first part has had almost everything I like about the series: Eris finally returning, Rudeus's family dynamic, Sara, Nanahoshi, Atofe and Kishirika, more of the world opening up, and Oldeus showing how badly all of it could have gone.
+Season 3's first part has had almost everything I like about the series: Eris finally returning, Rudeus's family dynamic, Sara, Nanahoshi, the unease of Chaos Breaker, Perugius slowly warming to Rudeus, Atofe and Kishirika, more of the world opening up, and Oldeus showing how badly all of it could have gone.
 
 Whenever I see the words **Turning Point** now, I know I am about to have a bad time.
 
