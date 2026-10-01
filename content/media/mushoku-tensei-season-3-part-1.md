@@ -2,6 +2,7 @@
 title: "Mushoku Tensei Season 3: The World Keeps Moving Beyond Rudeus"
 date: 2026-10-01
 description: "The quiet episodes, returning characters and Oldeus show why every Turning Point in Mushoku Tensei hurts so much."
+comments: true
 tags:
   - anime
   - mushoku-tensei

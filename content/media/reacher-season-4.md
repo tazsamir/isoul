@@ -2,6 +2,7 @@
 title: "Why Reacher's Formula Still Works for Me"
 date: 2026-10-01
 description: "Reacher may be formulaic, but changing the people, place and mystery each season is precisely why the formula keeps working for me."
+comments: true
 tags:
   - tv
   - reacher

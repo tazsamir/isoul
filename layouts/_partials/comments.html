@@ -1,4 +1,4 @@
-{{- if in (slice "posts" "off-the-stack") .Section }}
+{{- if in (slice "posts" "off-the-stack" "media") .Section }}
 <section class="comments" aria-labelledby="comments-heading">
   <h2 id="comments-heading">Comments</h2>
   {{ template "_internal/disqus.html" . }}
