@@ -7,7 +7,7 @@ theme = 'PaperMod'
   env = 'production'
   title = 'isoul.uk'
   description = 'Keep it simple. Keep it local. Keep a copy.'
-  mainSections = ['posts', 'off-the-stack']
+  mainSections = ['posts', 'off-the-stack', 'media']
   defaultTheme = 'auto'
   disableThemeToggle = false
   ShowReadingTime = true
@@ -22,7 +22,7 @@ theme = 'PaperMod'
   ShowToc = true
   TocOpen = false
   comments = true
-  homeInfoParams = { Title = 'Keep it yours.', Content = 'Practical writing about digital ownership, preservation, selective self-hosting and the technology that shaped me.' }
+  homeInfoParams = { Title = 'Keep it yours.', Content = 'Practical writing about digital ownership, preservation and selective self-hosting, alongside personal stories and notes on the media I spend time with.' }
 
 [services.disqus]
   shortname = 'isoul-1'
@@ -39,6 +39,10 @@ theme = 'PaperMod'
     name = 'Off the stack'
     url = '/off-the-stack/'
     weight = 15
+  [[menu.main]]
+    name = 'Media'
+    url = '/media/'
+    weight = 17
   [[menu.main]]
     name = 'App shelf'
     url = '/app-shelf/'
