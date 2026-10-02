@@ -75,9 +75,8 @@
     const filterButtons = Array.from(app.querySelectorAll("[data-filter-type]"));
     const status = app.querySelector("[data-filter-status]");
     const randomButton = app.querySelector("[data-random]");
-    const regionSelect = app.querySelector("[data-region]");
+    const globalRegionSelect = app.querySelector("[data-global-region]");
     const regionPanels = Array.from(app.querySelectorAll("[data-region-code]"));
-    const calendarRegionSelect = app.querySelector("[data-calendar-region]");
     const calendarSeasonSelect = app.querySelector("[data-calendar-season]");
     const calendarMediumButtons = Array.from(app.querySelectorAll("[data-calendar-medium]"));
     const calendarPanels = Array.from(app.querySelectorAll("[data-calendar-panel]"));
@@ -118,7 +117,7 @@
         savePreferences(storage, preferences);
       }
       regionPanels.forEach((panel) => { panel.hidden = !regionIsSelected(panel.dataset.regionCode, preferences.region); });
-      if (regionSelect) regionSelect.value = preferences.region;
+      if (globalRegionSelect) globalRegionSelect.value = preferences.region;
     }
 
     function applyCalendar() {
@@ -143,7 +142,6 @@
       calendarMediumButtons.forEach((button) => {
         button.setAttribute("aria-pressed", String(button.dataset.calendarMedium === preferences.calendarMedium));
       });
-      if (calendarRegionSelect) calendarRegionSelect.value = preferences.region;
       if (calendarSeasonSelect) {
         Array.from(calendarSeasonSelect.options).forEach((option) => {
           const available = option.dataset.calendarSeasonRegion === preferences.region
@@ -162,22 +160,13 @@
       }
     }
 
-    if (regionSelect) {
+    if (globalRegionSelect) {
       applyRegion();
-      regionSelect.addEventListener("change", () => {
-        preferences.region = regionSelect.value;
+      globalRegionSelect.addEventListener("change", () => {
+        preferences.region = globalRegionSelect.value;
         savePreferences(storage, preferences);
         applyRegion();
         applyCalendar();
-      });
-    }
-
-    if (calendarRegionSelect) {
-      calendarRegionSelect.addEventListener("change", () => {
-        preferences.region = calendarRegionSelect.value;
-        savePreferences(storage, preferences);
-        applyCalendar();
-        applyRegion();
       });
     }
     if (calendarSeasonSelect) {
