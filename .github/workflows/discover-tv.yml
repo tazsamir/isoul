@@ -7,27 +7,32 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
+
+concurrency:
+  group: discover-tv-listings
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
       - name: Refresh partial UK and US listings
         run: python scripts/discover_tv.py
-      - name: Open editorial review pull request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          commit-message: 'Refresh Discover TV listings'
-          title: 'Review: Discover TV listings refresh'
-          body: |
-            Mechanical TVmaze refresh for the UK and US partial guides.
-            Review the channel and programme selection before merging; this workflow does not publish directly.
-          branch: automation/discover-tv-listings
-          delete-branch: true
-          draft: true
-          add-paths: data/discover/tonight.json
+      - name: Publish changed listings
+        run: |
+          if git diff --quiet -- data/discover/tonight.json; then
+            echo "Listings are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/discover/tonight.json
+          git commit -m "Refresh Discover TV listings"
+          git pull --rebase origin main
+          git push origin HEAD:main

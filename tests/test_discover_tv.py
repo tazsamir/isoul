@@ -61,6 +61,17 @@ class DiscoverTVTests(unittest.TestCase):
         self.assertEqual("CBS", region["channels"][0]["name"])
         self.assertNotIn("network error", region["note"])
 
+    def test_daily_workflow_publishes_listings_without_manual_review(self):
+        workflow = (ROOT / ".github" / "workflows" / "discover-tv.yml").read_text(encoding="utf-8")
+
+        self.assertIn("cron: '12 16 * * *'", workflow)
+        self.assertIn("contents: write", workflow)
+        self.assertIn("python scripts/discover_tv.py", workflow)
+        self.assertIn("git commit", workflow)
+        self.assertIn("git push origin HEAD:main", workflow)
+        self.assertNotIn("create-pull-request", workflow)
+        self.assertNotIn("draft: true", workflow)
+
     @staticmethod
     def record(channel, airtime, title, show_type, episode_number):
         return {
