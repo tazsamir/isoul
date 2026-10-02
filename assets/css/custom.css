@@ -1,0 +1,10 @@
+/* Blue article cards — the ocean blue covers the article-card background. */
+.article-link--card {
+  background-color: rgb(var(--color-primary-200));
+  border-color: rgb(var(--color-primary-300));
+}
+
+.dark .article-link--card {
+  background-color: rgb(var(--color-primary-800));
+  border-color: rgb(var(--color-primary-600));
+}
