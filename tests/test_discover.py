@@ -167,13 +167,13 @@ class DiscoverRenderedPageTests(unittest.TestCase):
                 'data-visual-style=dark-media-dashboard',
                 "data-filter-type=film",
                 "data-random",
-                "data-region",
+                "data-global-region",
+                "Country for Calendar and Tonight",
                 "data-region-code=GB",
                 "data-region-code=US",
                 "data-calendar-app",
                 "data-calendar-medium=tv",
                 "data-calendar-medium=movie",
-                "data-calendar-region",
                 "data-calendar-season",
                 "data-calendar-season-region=US",
                 "Seasonal TV & film calendar",
@@ -200,6 +200,9 @@ class DiscoverRenderedPageTests(unittest.TestCase):
             ):
                 self.assertNotIn(removed_marker, page)
             self.assertIn("<noscript>", page)
+            self.assertEqual(1, page.count("data-global-region"))
+            self.assertNotIn("<select data-calendar-region", page)
+            self.assertNotIn("<select data-region", page)
             self.assertNotIn("&amp;#34;", page)
             self.assertIn("data-media-type=film", page)
             self.assertRegex(page, r'/discover/discover\.js\?v=[0-9a-f]{64}')

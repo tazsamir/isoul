@@ -96,6 +96,30 @@
 }
 .discover-jump a:hover, .discover-filters button:hover, .discover-calendar-tabs button:hover { background: rgba(255,255,255,.1); color: #fff; }
 
+.discover-global-controls {
+  align-items: center;
+  background: var(--discover-surface);
+  border: 1px solid var(--discover-line);
+  border-radius: var(--discover-radius);
+  display: flex;
+  gap: .8rem;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding: .65rem .8rem;
+}
+.discover-global-controls label { color: #d4d4d8; font-size: .75rem; font-weight: 750; }
+.discover-global-controls select {
+  background: var(--discover-surface-2);
+  border: 1px solid var(--discover-line);
+  border-radius: .4rem;
+  color: #fff;
+  font: inherit;
+  margin-left: .45rem;
+  min-height: 2.15rem;
+  padding: .42rem .6rem;
+}
+.discover-global-controls p { color: var(--discover-muted); font-size: .75rem; margin: 0; }
+
 .discover-browse {
   align-items: center;
   background: var(--discover-surface);
@@ -243,11 +267,11 @@
   align-items: end;
   display: grid;
   gap: .65rem;
-  grid-template-columns: minmax(13rem, 1fr) repeat(2, minmax(8.5rem, auto));
+  grid-template-columns: minmax(13rem, 1fr) minmax(8.5rem, auto);
   margin-bottom: .8rem;
 }
-.discover-calendar-controls label, .discover-region { color: #d4d4d8; font-size: .75rem; font-weight: 750; }
-.discover-calendar-controls select, .discover-region select {
+.discover-calendar-controls label { color: #d4d4d8; font-size: .75rem; font-weight: 750; }
+.discover-calendar-controls select {
   background: var(--discover-surface-2);
   border: 1px solid var(--discover-line);
   border-radius: .4rem;
@@ -338,6 +362,8 @@
   .discover-shell { border-left: 0; border-radius: 0; border-right: 0; margin: .5rem -1rem 3rem; padding: 0 .85rem 1rem; }
   .discover-hero { margin: 0 -.85rem; min-height: 13rem; padding: 2.5rem 1rem 1.25rem; }
   .discover-browse { align-items: stretch; display: grid; grid-template-columns: 1fr 1fr; }
+  .discover-global-controls { align-items: stretch; flex-direction: column; gap: .4rem; }
+  .discover-global-controls select { display: block; margin: .3rem 0 0; width: 100%; }
   .discover-browse > span { grid-column: 1 / -1; margin: 0 .1rem; }
   .discover-section { margin-top: 1.75rem; }
   .discover-section-heading { align-items: start; flex-direction: column; }
