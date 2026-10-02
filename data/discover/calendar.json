@@ -1,0 +1,168 @@
+{
+  "updated": "2026-10-02",
+  "note": "A small editorial calendar, not a complete release database. Future dates can move; follow the linked source before making plans.",
+  "regions": [
+    {
+      "code": "GB",
+      "label": "United Kingdom",
+      "seasons": [
+        {
+          "id": "2026-autumn",
+          "label": "Autumn 2026",
+          "starts_on": "2026-09-01",
+          "ends_on": "2026-11-30",
+          "releases": {
+            "tv": [
+              {
+                "title": "The Celebrity Traitors",
+                "release_date": "2026-10-01",
+                "weekday": "Thursday",
+                "status": "Returning",
+                "platform": "BBC One / BBC iPlayer",
+                "source_url": "https://www.bbc.co.uk/mediacentre/2026/the-celebrity-traitors-series-2-air-date-trailer",
+                "blurb": "Series 2"
+              },
+              {
+                "title": "The Reluctant Vampire",
+                "release_date": "2026-10-04",
+                "weekday": "Sunday",
+                "status": "New",
+                "platform": "BBC One / BBC iPlayer",
+                "source_url": "https://www.bbc.co.uk/mediacentre/2026/the-reluctant-vampire-trailer",
+                "blurb": "Series premiere"
+              }
+            ],
+            "movie": [
+              {
+                "title": "Digger",
+                "release_date": "2026-10-02",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "UK cinemas",
+                "source_url": "https://filmdistributorsassociation.com/release-schedule/past-present-and-future-releases/?filmSearch=Digger",
+                "blurb": "Theatrical release"
+              },
+              {
+                "title": "Verity",
+                "release_date": "2026-10-02",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "UK cinemas",
+                "source_url": "https://filmdistributorsassociation.com/release-schedule/past-present-and-future-releases/?filmSearch=Verity",
+                "blurb": "Theatrical release"
+              },
+              {
+                "title": "The Social Reckoning",
+                "release_date": "2026-10-09",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "UK cinemas",
+                "source_url": "https://filmdistributorsassociation.com/release-schedule/past-present-and-future-releases/?filmSearch=The+Social+Reckoning",
+                "blurb": "Theatrical release"
+              },
+              {
+                "title": "Street Fighter",
+                "release_date": "2026-10-16",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "UK cinemas",
+                "source_url": "https://filmdistributorsassociation.com/release-schedule/past-present-and-future-releases/?filmSearch=Street+Fighter",
+                "blurb": "Theatrical release"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "label": "United States",
+      "seasons": [
+        {
+          "id": "2026-autumn",
+          "label": "Fall 2026",
+          "starts_on": "2026-09-01",
+          "ends_on": "2026-11-30",
+          "releases": {
+            "tv": [
+              {
+                "title": "Chicago Med",
+                "release_date": "2026-10-07",
+                "weekday": "Wednesday",
+                "status": "Returning",
+                "platform": "NBC / Peacock next day",
+                "source_url": "https://www.nbc.com/nbc-insider/nbc-fall-2026-premiere-dates-shows-details",
+                "blurb": "Season 12"
+              },
+              {
+                "title": "Law & Order: Special Victims Unit",
+                "release_date": "2026-10-08",
+                "weekday": "Thursday",
+                "status": "Returning",
+                "platform": "NBC / Peacock next day",
+                "source_url": "https://www.nbc.com/nbc-insider/nbc-fall-2026-premiere-dates-shows-details",
+                "blurb": "Season 28"
+              },
+              {
+                "title": "Happy's Place",
+                "release_date": "2026-10-23",
+                "weekday": "Friday",
+                "status": "Returning",
+                "platform": "NBC / Peacock next day",
+                "source_url": "https://www.nbc.com/nbc-insider/nbc-fall-2026-premiere-dates-shows-details",
+                "blurb": "Season 3"
+              },
+              {
+                "title": "Newlyweds",
+                "release_date": "2026-10-23",
+                "weekday": "Friday",
+                "status": "New",
+                "platform": "NBC / Peacock next day",
+                "source_url": "https://www.nbc.com/nbc-insider/nbc-fall-2026-premiere-dates-shows-details",
+                "blurb": "Series premiere"
+              }
+            ],
+            "movie": [
+              {
+                "title": "Digger",
+                "release_date": "2026-10-02",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "US cinemas",
+                "source_url": "https://www.diggermovie.com/",
+                "blurb": "Theatrical release"
+              },
+              {
+                "title": "Verity",
+                "release_date": "2026-10-02",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "US cinemas",
+                "source_url": "https://www.amazon.com/salp/verity?hhf=",
+                "blurb": "Theatrical release"
+              },
+              {
+                "title": "The Social Reckoning",
+                "release_date": "2026-10-09",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "US cinemas",
+                "source_url": "https://thesocialreckoning.movie/",
+                "blurb": "Theatrical release"
+              },
+              {
+                "title": "Street Fighter",
+                "release_date": "2026-10-16",
+                "weekday": "Friday",
+                "status": "Cinema",
+                "platform": "US cinemas",
+                "source_url": "https://www.streetfightermovie.com/",
+                "blurb": "Theatrical release"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

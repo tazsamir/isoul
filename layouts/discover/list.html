@@ -2,6 +2,7 @@
 {{ $catalog := hugo.Data.discover.catalog }}
 {{ $voices := hugo.Data.discover.voices }}
 {{ $tonight := hugo.Data.discover.tonight }}
+{{ $calendar := hugo.Data.discover.calendar }}
 <link rel="stylesheet" href="{{ "discover/discover.css" | relURL }}">
 <script defer src="{{ "discover/discover.js" | relURL }}"></script>
 
@@ -11,11 +12,81 @@
     <h1>Discover</h1>
     <p class="discover-intro">Databases are good at information. Critics are good at taste. Randomness is good at surprise.</p>
     <nav class="discover-jump" aria-label="Discover sections">
+      <a href="#calendar">Calendar</a>
       <a href="#tonight">Tonight</a>
       <a href="#voices">Voices</a>
       <a href="#wander">Wander</a>
     </nav>
   </header>
+
+  <section class="discover-section discover-calendar" id="calendar" aria-labelledby="calendar-title" data-calendar-app>
+    <div class="discover-section-heading">
+      <div>
+        <p class="discover-eyebrow">What is arriving, not what is trending</p>
+        <h2 id="calendar-title">Seasonal TV &amp; film calendar</h2>
+      </div>
+      <p class="discover-section-note">Selected premieres and cinema dates · updated {{ $calendar.updated }}</p>
+    </div>
+    <div class="discover-calendar-controls">
+      <div class="discover-calendar-tabs" role="group" aria-label="Choose television or film">
+        <button type="button" data-calendar-medium="tv" aria-pressed="true">TV premieres</button>
+        <button type="button" data-calendar-medium="movie" aria-pressed="false">Cinema releases</button>
+      </div>
+      <label>Country
+        <select data-calendar-region aria-label="Calendar country">
+          {{ range $calendar.regions }}<option value="{{ .code }}">{{ .label }}</option>{{ end }}
+        </select>
+      </label>
+      <label>Season
+        <select data-calendar-season aria-label="Release season">
+          {{ range (index $calendar.regions 0).seasons }}<option value="{{ .id }}">{{ .label }}</option>{{ end }}
+        </select>
+      </label>
+    </div>
+    <div class="discover-calendar-panels">
+      {{ range $calendar.regions }}
+        {{ $region := . }}
+        {{ range .seasons }}
+          {{ $season := . }}
+          {{ range (slice (dict "key" "tv" "heading" "TV premieres") (dict "key" "movie" "heading" "Cinema releases")) }}
+            {{ $medium := . }}
+            <section class="discover-calendar-panel"
+              data-calendar-panel
+              data-calendar-region="{{ $region.code }}"
+              data-calendar-type="{{ $medium.key }}"
+              data-calendar-season="{{ $season.id }}"
+              aria-label="{{ $medium.heading }} in {{ $region.label }}, {{ $season.label }}"
+              {{ if or (ne $region.code "GB") (ne $medium.key "tv") }}hidden{{ end }}>
+              <header class="discover-calendar-panel-heading">
+                <div>
+                  <p>{{ $region.label }} · {{ $season.label }}</p>
+                  <h3>{{ $medium.heading }}</h3>
+                </div>
+                <span>{{ len (index $season.releases $medium.key) }} selected</span>
+              </header>
+              <div class="discover-release-grid">
+                {{ range sort (index $season.releases $medium.key) "release_date" }}
+                  <article class="discover-release-card">
+                    <time datetime="{{ .release_date }}">
+                      <strong>{{ time.Format "02" .release_date }}</strong>
+                      <span>{{ upper (time.Format "Jan" .release_date) }}</span>
+                    </time>
+                    <div>
+                      <p class="discover-release-day">{{ .weekday }} · {{ .status }}</p>
+                      <h4>{{ .title }}</h4>
+                      <p>{{ .blurb }} · {{ .platform }}</p>
+                      <a href="{{ .source_url }}" rel="noopener noreferrer">Check the source <span aria-hidden="true">→</span></a>
+                    </div>
+                  </article>
+                {{ end }}
+              </div>
+            </section>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+    <p class="discover-source-note">{{ $calendar.note }} This is deliberately selective rather than a complete release database.</p>
+  </section>
 
   <section class="discover-section discover-tonight" id="tonight" aria-labelledby="tonight-title">
     <div class="discover-section-heading">

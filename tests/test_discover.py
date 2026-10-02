@@ -1,9 +1,10 @@
 import json
+import shutil
 import subprocess
 import tempfile
 import unittest
+from datetime import date
 from pathlib import Path
-
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -65,6 +66,43 @@ class DiscoverTonightTests(unittest.TestCase):
                 self.assertLessEqual(len(channel["programmes"]), 4)
 
 
+class DiscoverSeasonalCalendarTests(unittest.TestCase):
+    def test_calendar_has_sourced_tv_and_movie_releases_for_each_region(self):
+        calendar_path = ROOT / "data" / "discover" / "calendar.json"
+        self.assertTrue(calendar_path.exists(), "calendar.json should exist")
+
+        calendar = json.loads(calendar_path.read_text(encoding="utf-8"))
+        self.assertEqual(["GB", "US"], [region["code"] for region in calendar["regions"]])
+        for region in calendar["regions"]:
+            self.assertTrue(region["seasons"], region["code"])
+            for season in region["seasons"]:
+                self.assertRegex(season["id"], r"^\d{4}-(winter|spring|summer|autumn)$")
+                self.assertLessEqual(season["starts_on"], season["ends_on"])
+                self.assertEqual({"tv", "movie"}, set(season["releases"]))
+                for medium in ("tv", "movie"):
+                    self.assertTrue(season["releases"][medium], (region["code"], medium))
+                    for release in season["releases"][medium]:
+                        self.assertTrue({"title", "release_date", "blurb", "source_url"}.issubset(release))
+                        self.assertTrue(release["source_url"].startswith("https://"))
+                        self.assertLessEqual(season["starts_on"], release["release_date"])
+                        self.assertLessEqual(release["release_date"], season["ends_on"])
+                        self.assertEqual(
+                            date.fromisoformat(release["release_date"]).strftime("%A"),
+                            release["weekday"],
+                        )
+
+    def test_calendar_has_responsive_component_styles(self):
+        stylesheet = (ROOT / "static" / "discover" / "discover.css").read_text(encoding="utf-8")
+        for selector in (
+            ".discover-calendar-controls",
+            ".discover-calendar-tabs",
+            ".discover-release-grid",
+            ".discover-release-card",
+            ".discover-calendar-panel-heading",
+        ):
+            self.assertIn(selector, stylesheet)
+
+
 class DiscoverRenderedPageTests(unittest.TestCase):
     def test_hugo_build_renders_accessible_discovery_experience(self):
         with tempfile.TemporaryDirectory() as destination:
@@ -85,6 +123,14 @@ class DiscoverRenderedPageTests(unittest.TestCase):
                 "data-region",
                 "data-region-code=GB",
                 "data-region-code=US",
+                "data-calendar-app",
+                "data-calendar-medium=tv",
+                "data-calendar-medium=movie",
+                "data-calendar-region",
+                "data-calendar-season",
+                "Seasonal TV & film calendar",
+                "TV premieres",
+                "Cinema releases",
                 "New episodes tonight",
                 "New-episode data from",
                 "not a complete national EPG",

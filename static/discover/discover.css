@@ -84,6 +84,105 @@
 }
 .dark .discover-section-note, .dark .discover-region-label, .dark .discover-date, .dark .discover-card-meta, .dark .discover-genres, .dark .discover-form-message { color: #aabfba; }
 
+.discover-calendar-controls {
+  align-items: end;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(15rem, 1fr) repeat(2, minmax(9rem, auto));
+  margin-bottom: 1.25rem;
+}
+.discover-calendar-controls label {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: .78rem;
+  font-weight: 700;
+}
+.discover-calendar-controls select {
+  background: transparent;
+  border: 1px solid var(--discover-line);
+  border-radius: .55rem;
+  color: inherit;
+  display: block;
+  margin-top: .35rem;
+  padding: .65rem .75rem;
+  width: 100%;
+}
+.discover-calendar-tabs {
+  border: 1px solid var(--discover-line);
+  border-radius: 999px;
+  display: inline-flex;
+  justify-self: start;
+  padding: .25rem;
+}
+.discover-calendar-tabs button {
+  background: transparent;
+  border: 0;
+  border-radius: 999px;
+  color: inherit;
+  cursor: pointer;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: .8rem;
+  font-weight: 750;
+  padding: .6rem .9rem;
+}
+.discover-calendar-tabs button[aria-pressed="true"] { background: var(--discover-ink); color: white; }
+.dark .discover-calendar-tabs button[aria-pressed="true"] { background: #eef4f0; color: #102d33; }
+.discover-calendar-panel[hidden] { display: none; }
+.discover-calendar-panel {
+  border: 1px solid var(--discover-line);
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.discover-calendar-panel-heading {
+  align-items: center;
+  background: color-mix(in srgb, var(--discover-paper) 84%, white);
+  border-bottom: 1px solid var(--discover-line);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 1.15rem;
+}
+.dark .discover-calendar-panel-heading { background: rgba(255,255,255,.035); }
+.discover-calendar-panel-heading p,
+.discover-calendar-panel-heading span {
+  color: var(--discover-muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: .72rem;
+  margin: 0;
+}
+.discover-calendar-panel-heading h3 { font-size: 1.55rem; margin: .15rem 0 0; }
+.discover-release-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.discover-release-card {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 3.5rem 1fr;
+  min-width: 0;
+  padding: 1.15rem;
+}
+.discover-release-card:nth-child(even) { border-left: 1px solid var(--discover-line); }
+.discover-release-card:nth-child(n+3) { border-top: 1px solid var(--discover-line); }
+.discover-release-card time {
+  align-self: start;
+  background: var(--discover-ink);
+  border-radius: .7rem;
+  color: white;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  padding: .55rem .35rem;
+  text-align: center;
+}
+.discover-release-card time strong,
+.discover-release-card time span { display: block; }
+.discover-release-card time strong { font-size: 1.25rem; line-height: 1; }
+.discover-release-card time span { font-size: .62rem; font-weight: 800; letter-spacing: .08em; margin-top: .2rem; }
+.discover-release-day {
+  color: var(--discover-muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: .7rem;
+  margin: 0;
+  text-transform: uppercase;
+}
+.discover-release-card h4 { font-size: 1.15rem; line-height: 1.2; margin: .2rem 0 .35rem; }
+.discover-release-card h4 + p { font-size: .86rem; line-height: 1.45; margin: 0 0 .45rem; }
+.discover-release-card a { color: var(--discover-accent); font-family: ui-sans-serif, system-ui, sans-serif; font-size: .76rem; font-weight: 750; }
+
 .discover-region { font-family: ui-sans-serif, system-ui, sans-serif; font-size: .8rem; font-weight: 700; }
 .discover-region select, .discover-voice-form input {
   background: transparent;
@@ -243,6 +342,8 @@
 .discover-prototype-note p { margin: .25rem 0 0; }
 
 @media (max-width: 850px) {
+  .discover-calendar-controls { grid-template-columns: 1fr 1fr; }
+  .discover-calendar-tabs { grid-column: 1 / -1; }
   .discover-catalog { grid-template-columns: 1fr; }
   .discover-voice-card, .discover-voice-card:first-child { grid-column: span 12; }
 }
@@ -250,6 +351,11 @@
 @media (max-width: 600px) {
   .discover-shell { margin-top: 1rem; }
   .discover-section-heading { align-items: start; flex-direction: column; }
+  .discover-calendar-controls { grid-template-columns: 1fr; }
+  .discover-calendar-tabs { display: grid; grid-column: auto; grid-template-columns: 1fr 1fr; justify-self: stretch; }
+  .discover-release-grid { grid-template-columns: 1fr; }
+  .discover-release-card:nth-child(even) { border-left: 0; }
+  .discover-release-card:nth-child(n+2) { border-top: 1px solid var(--discover-line); }
   .discover-channel-row { grid-template-columns: 1fr; }
   .discover-channel-row > header { border-bottom: 1px solid var(--discover-line); border-right: 0; padding: .65rem 1rem; }
   .discover-programme { grid-template-columns: 3rem 1fr; }
