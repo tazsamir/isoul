@@ -3,8 +3,10 @@
 {{ $voices := hugo.Data.discover.voices }}
 {{ $tonight := hugo.Data.discover.tonight }}
 {{ $calendar := hugo.Data.discover.calendar }}
-<link rel="stylesheet" href="{{ "discover/discover.css" | relURL }}">
-<script defer src="{{ "discover/discover.js" | relURL }}"></script>
+{{ $discoverCSSVersion := readFile "static/discover/discover.css" | crypto.SHA256 }}
+{{ $discoverJSVersion := readFile "static/discover/discover.js" | crypto.SHA256 }}
+<link rel="stylesheet" href="{{ "discover/discover.css" | relURL }}?v={{ $discoverCSSVersion }}">
+<script defer src="{{ "discover/discover.js" | relURL }}?v={{ $discoverJSVersion }}"></script>
 
 <div class="discover-shell" data-discover-app>
   <header class="discover-hero">

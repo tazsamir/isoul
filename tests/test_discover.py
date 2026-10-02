@@ -153,8 +153,8 @@ class DiscoverRenderedPageTests(unittest.TestCase):
             self.assertIn("<noscript>", page)
             self.assertNotIn("&amp;#34;", page)
             self.assertIn("data-media-type=film", page)
-            self.assertIn("/discover/discover.js", page)
-            self.assertIn("/discover/discover.css", page)
+            self.assertRegex(page, r'/discover/discover\.js\?v=[0-9a-f]{64}')
+            self.assertRegex(page, r'/discover/discover\.css\?v=[0-9a-f]{64}')
 
 
 class DiscoverNavigationTests(unittest.TestCase):
