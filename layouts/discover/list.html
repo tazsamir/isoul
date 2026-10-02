@@ -8,18 +8,83 @@
 <link rel="stylesheet" href="{{ "discover/discover.css" | relURL }}?v={{ $discoverCSSVersion }}">
 <script defer src="{{ "discover/discover.js" | relURL }}?v={{ $discoverJSVersion }}"></script>
 
-<div class="discover-shell" data-discover-app>
+<div class="discover-shell" data-discover-app data-visual-style="dark-media-dashboard">
   <header class="discover-hero">
     <p class="discover-kicker">A quieter way to choose</p>
     <h1>Discover</h1>
     <p class="discover-intro">Databases are good at information. Critics are good at taste. Randomness is good at surprise.</p>
     <nav class="discover-jump" aria-label="Discover sections">
+      <a href="#wander">Wander</a>
       <a href="#calendar">Calendar</a>
       <a href="#tonight">Tonight</a>
       <a href="#voices">Voices</a>
-      <a href="#wander">Wander</a>
     </nav>
   </header>
+
+  <nav class="discover-browse" aria-label="Browse larger media catalogues">
+    <span>Keep browsing elsewhere</span>
+    <a href="https://anichart.net/" rel="noopener noreferrer">
+      <strong>Browse AniChart</strong>
+      <small>Seasonal anime charts</small>
+    </a>
+    <a href="https://letterboxd.com/films/" rel="noopener noreferrer">
+      <strong>Browse Letterboxd</strong>
+      <small>Films, lists and reviews</small>
+    </a>
+  </nav>
+
+  <section class="discover-section" id="wander" aria-labelledby="wander-title">
+    <div class="discover-section-heading discover-wander-heading">
+      <div>
+        <p class="discover-eyebrow">Poster first, blurb next</p>
+        <h2 id="wander-title">Wander</h2>
+      </div>
+      <button class="discover-random" type="button" data-random>Surprise me</button>
+    </div>
+    <div class="discover-filters" role="group" aria-label="Filter by medium">
+      <button type="button" data-filter-type=all aria-pressed="true">Everything</button>
+      <button type="button" data-filter-type=film aria-pressed="false">Film</button>
+      <button type="button" data-filter-type=tv aria-pressed="false">TV</button>
+      <button type="button" data-filter-type=anime aria-pressed="false">Anime</button>
+      <button type="button" data-filter-type=music aria-pressed="false">Music</button>
+      <span data-filter-status aria-live="polite"></span>
+    </div>
+    <noscript><p class="discover-notice">The full catalogue is shown below. Enable JavaScript only for filtering, randomness and local preferences.</p></noscript>
+    <div class="discover-catalog">
+      {{ range $catalog.items }}
+        <article class="discover-card"
+          data-discover-card
+          data-id="{{ .id }}"
+          data-media-type="{{ .type }}"
+          data-country="{{ delimit .country "|" }}"
+          data-genres="{{ delimit .genres "|" }}"
+          data-runtime="{{ .runtime_minutes | default 0 }}"
+          data-tmdb-id="{{ .tmdb_id | default 0 }}">
+          <div class="discover-poster discover-poster--{{ .palette }}" aria-hidden="true">
+            <span>{{ upper .type }}</span>
+            <strong>{{ .title }}</strong>
+            <small>{{ .year }}</small>
+          </div>
+          <div class="discover-card-body">
+            <div class="discover-card-meta">
+              <span>{{ .year }}</span>
+              <span>{{ delimit .country " · " }}</span>
+              {{ with .runtime_minutes }}<span>{{ . }} min</span>{{ end }}
+            </div>
+            <h3>{{ .title }}</h3>
+            <p>{{ .blurb }}</p>
+            <p class="discover-genres">{{ delimit .genres " · " }}</p>
+            <div class="discover-card-links">
+              <a href="{{ .source_url }}" rel="noopener noreferrer">Open database</a>
+              {{ if eq .type "film" }}
+                <a href="https://letterboxd.com/search/{{ .title | urlquery }}/" rel="noopener noreferrer">Letterboxd</a>
+              {{ end }}
+            </div>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  </section>
 
   <section class="discover-section discover-calendar" id="calendar" aria-labelledby="calendar-title" data-calendar-app>
     <div class="discover-section-heading">
@@ -187,60 +252,6 @@
           {{ else }}
             <p class="discover-empty">Nothing approved for this voice yet.</p>
           {{ end }}
-        </article>
-      {{ end }}
-    </div>
-  </section>
-
-  <section class="discover-section" id="wander" aria-labelledby="wander-title">
-    <div class="discover-section-heading discover-wander-heading">
-      <div>
-        <p class="discover-eyebrow">Poster first, blurb next</p>
-        <h2 id="wander-title">Wander</h2>
-      </div>
-      <button class="discover-random" type="button" data-random>Surprise me</button>
-    </div>
-    <div class="discover-filters" role="group" aria-label="Filter by medium">
-      <button type="button" data-filter-type=all aria-pressed="true">Everything</button>
-      <button type="button" data-filter-type=film aria-pressed="false">Film</button>
-      <button type="button" data-filter-type=tv aria-pressed="false">TV</button>
-      <button type="button" data-filter-type=anime aria-pressed="false">Anime</button>
-      <button type="button" data-filter-type=music aria-pressed="false">Music</button>
-      <span data-filter-status aria-live="polite"></span>
-    </div>
-    <noscript><p class="discover-notice">The full catalogue is shown below. Enable JavaScript only for filtering, randomness and local preferences.</p></noscript>
-    <div class="discover-catalog">
-      {{ range $catalog.items }}
-        <article class="discover-card"
-          data-discover-card
-          data-id="{{ .id }}"
-          data-media-type="{{ .type }}"
-          data-country="{{ delimit .country "|" }}"
-          data-genres="{{ delimit .genres "|" }}"
-          data-runtime="{{ .runtime_minutes | default 0 }}"
-          data-tmdb-id="{{ .tmdb_id | default 0 }}">
-          <div class="discover-poster discover-poster--{{ .palette }}" aria-hidden="true">
-            <span>{{ upper .type }}</span>
-            <strong>{{ .title }}</strong>
-            <small>{{ .year }}</small>
-          </div>
-          <div class="discover-card-body">
-            <div class="discover-card-meta">
-              <span>{{ .year }}</span>
-              <span>{{ delimit .country " · " }}</span>
-              {{ with .runtime_minutes }}<span>{{ . }} min</span>{{ end }}
-            </div>
-            <h3>{{ .title }}</h3>
-            <p>{{ .blurb }}</p>
-            <p class="discover-genres">{{ delimit .genres " · " }}</p>
-            <div class="discover-card-links">
-              <a href="{{ .source_url }}" rel="noopener noreferrer">Open database</a>
-              {{ if eq .type "film" }}
-                <a href="https://letterboxd.com/search/{{ .title | urlquery }}/" rel="noopener noreferrer">Letterboxd</a>
-              {{ end }}
-
-            </div>
-          </div>
         </article>
       {{ end }}
     </div>
