@@ -306,4 +306,4 @@ Digital was supposed to be better because it was easier. It still can be, but co
 [^eu-initiative]: [European Commission reply to the "Stop Destroying Videogames" initiative, 16 June 2026](https://citizens-initiative.europa.eu/stop-destroying-videogames-commissions-reply-european-citizens-initiative_en)
 [^consumer-rights]: [Consumer Rights Act 2015, section 34](https://www.legislation.gov.uk/ukpga/2015/15/section/34)
 [^stadia]: [Google Stadia announcement FAQ](https://support.google.com/stadia/answer/12790109?hl=en) and [controller Bluetooth information](https://support.google.com/stadia/answer/13067284?hl=en)
-[^lg]: [Gamers Nexus, investigation quoting LG Ad Solutions executives](https://www.youtube.com/watch?v=6IFVTcM28KA&t=218s)
+[^lg]: [HDTVTest, "LG embroiled in controversy over its TV surveillance practices", 8 September 2026](https://www.hdtvtest.co.uk/news/lg-embroiled-in-controversy-over-its-tv-surveillance-practices)
