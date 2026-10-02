@@ -36,7 +36,9 @@ class DiscoverVoiceTests(unittest.TestCase):
             {"stuart-heritage", "peter-bradshaw", "lucy-mangan", "wrong-every-time", "alexis-petridis"},
             {voice["id"] for voice in voices},
         )
-        self.assertEqual({"film", "tv", "anime", "music"}, {voice["category"] for voice in voices})
+        self.assertEqual({"film", "tv", "screen", "music"}, {voice["category"] for voice in voices})
+        nick_creamer = next(voice for voice in voices if voice["id"] == "wrong-every-time")
+        self.assertEqual("screen", nick_creamer["category"])
 
         for voice in voices:
             self.assertLessEqual(len(voice["items"]), 3)

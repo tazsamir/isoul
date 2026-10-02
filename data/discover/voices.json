@@ -97,12 +97,12 @@
     {
       "id": "wrong-every-time",
       "name": "Nick Creamer · Wrong Every Time",
-      "category": "anime",
+      "category": "screen",
       "region": "US / international",
       "home_url": "https://wrongeverytime.com/",
       "feed_url": "https://wrongeverytime.com/feed/",
       "automation": "rss-article",
-      "quality_note": "Long-form episode criticism and weekly viewing diaries arrive as complete written articles through a working RSS feed.",
+      "quality_note": "Long-form criticism spanning animation, television and film, plus weekly viewing diaries, arrives as complete written articles through a working RSS feed.",
       "items": [
         {
           "title": "Summer 2026 — Week 13 in Review",
