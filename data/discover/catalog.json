@@ -35,10 +35,11 @@
       "year": 2014,
       "country": ["United Kingdom"],
       "genres": ["Comedy", "Drama"],
-      "tmdb_id": 64334,
+      "tmdb_id": 61828,
       "blurb": "Two friends search fields for buried history while ordinary life keeps interrupting. Gentle, funny television with a precise sense of place.",
       "palette": "moss",
-      "source_url": "https://www.themoviedb.org/tv/64334"
+      "source_url": "https://www.themoviedb.org/tv/61828",
+      "serializd_url": "https://www.serializd.com/show/Detectorists-61828"
     },
     {
       "id": "happy-valley",
@@ -50,7 +51,8 @@
       "tmdb_id": 61244,
       "blurb": "A police sergeant confronts a case that reaches into her own family history. Tense crime drama anchored by character rather than spectacle.",
       "palette": "blue",
-      "source_url": "https://www.themoviedb.org/tv/61244"
+      "source_url": "https://www.themoviedb.org/tv/61244",
+      "serializd_url": "https://www.serializd.com/show/61244"
     },
     {
       "id": "frieren",

@@ -40,6 +40,10 @@
       <strong>Browse Letterboxd</strong>
       <small>Films, lists and reviews</small>
     </a>
+    <a href="https://www.serializd.com/" rel="noopener noreferrer">
+      <strong>Browse Serializd</strong>
+      <small>Track, rate and review TV</small>
+    </a>
   </nav>
 
   <section class="discover-section" id="wander" aria-labelledby="wander-title">
@@ -87,6 +91,8 @@
               <a href="{{ .source_url }}" rel="noopener noreferrer">Open database</a>
               {{ if eq .type "film" }}
                 <a href="https://letterboxd.com/search/{{ .title | urlquery }}/" rel="noopener noreferrer">Letterboxd</a>
+              {{ else if eq .type "tv" }}
+                <a href="{{ .serializd_url }}" rel="noopener noreferrer">Serializd</a>
               {{ end }}
             </div>
           </div>
