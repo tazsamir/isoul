@@ -8,3 +8,126 @@
   background-color: rgb(var(--color-primary-800));
   border-color: rgb(var(--color-primary-600));
 }
+
+/* App Shelf tables use the available article width instead of squeezing app
+   names into the default prose column. */
+.app-shelf-table {
+  position: relative;
+  left: 50%;
+  width: min(52rem, calc(100vw - 3rem));
+  max-width: none;
+  overflow-x: auto;
+  transform: translateX(-50%);
+}
+
+.app-shelf-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.app-shelf-table th:nth-child(1),
+.app-shelf-table td:nth-child(1) {
+  width: 27%;
+}
+
+.app-shelf-table th:nth-child(2),
+.app-shelf-table td:nth-child(2) {
+  width: 24%;
+}
+
+.app-shelf-table th:nth-child(3),
+.app-shelf-table td:nth-child(3) {
+  width: 49%;
+}
+
+.app-shelf-table td:nth-child(2) a {
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .app-shelf-table {
+    left: auto;
+    width: 100%;
+    overflow: visible;
+    transform: none;
+  }
+
+  .app-shelf-table table,
+  .app-shelf-table tbody {
+    display: block;
+    width: 100%;
+  }
+
+  .app-shelf-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+  }
+
+  .app-shelf-table tr {
+    display: block;
+    margin: 0 0 0.875rem;
+    overflow: hidden;
+    border: 1px solid rgb(var(--color-neutral-300));
+    border-radius: 0.75rem;
+  }
+
+  .dark .app-shelf-table tr {
+    border-color: rgb(var(--color-neutral-600));
+  }
+
+  .app-shelf-table td,
+  .app-shelf-table td:nth-child(1),
+  .app-shelf-table td:nth-child(2),
+  .app-shelf-table td:nth-child(3) {
+    display: grid;
+    grid-template-columns: 5.25rem minmax(0, 1fr);
+    gap: 0.75rem;
+    width: 100%;
+    padding: 0.65rem 0.75rem;
+    border: 0;
+    border-bottom: 1px solid rgb(var(--color-neutral-300));
+    overflow-wrap: anywhere;
+  }
+
+  .dark .app-shelf-table td {
+    border-color: rgb(var(--color-neutral-600));
+  }
+
+  .app-shelf-table td:last-child {
+    border-bottom: 0;
+  }
+
+  .app-shelf-table td::before {
+    color: rgb(var(--color-neutral-600));
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .dark .app-shelf-table td::before {
+    color: rgb(var(--color-neutral-300));
+  }
+
+  .app-shelf-table td:nth-child(1)::before {
+    content: "Need";
+  }
+
+  .app-shelf-table td:nth-child(2)::before {
+    content: "App";
+  }
+
+  .app-shelf-table td:nth-child(3)::before {
+    content: "Notes";
+  }
+
+  .app-shelf-table td:nth-child(2) a {
+    white-space: normal;
+  }
+}

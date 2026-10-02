@@ -9,6 +9,8 @@ This is a record of practical choices in my own setup, not a catalogue of every 
 
 ## Main PC — Fedora and KDE
 
+{{< app-shelf-table >}}
+
 | Need | App | Experience and notes |
 |---|---|---|
 | Desktop operating system | [Fedora Linux](https://fedoraproject.org/) | My main Linux desktop and the base for daily work. |
@@ -18,7 +20,11 @@ This is a record of practical choices in my own setup, not a catalogue of every 
 | Hosted file synchronisation | [Nextcloud](https://nextcloud.com/) | The desktop client keeps selected folders synchronised with storage I control. |
 | Notes | [Simplenote](https://simplenote.com/) | The notes service I use. |
 
+{{< /app-shelf-table >}}
+
 ## Always-on Docker host
+
+{{< app-shelf-table >}}
 
 | Need | App | Experience and notes |
 |---|---|---|
@@ -44,9 +50,13 @@ This is a record of practical choices in my own setup, not a catalogue of every 
 | Authorised web-media downloads | [MeTube](https://github.com/alexta69/metube) | A simple web interface around yt-dlp for material I am authorised to download or archive. |
 | Network access | [Tailscale](https://tailscale.com/) | Used for private access between trusted devices; it is not treated as a replacement for local DNS or backups. |
 
+{{< /app-shelf-table >}}
+
 The Docker host also runs other media-management components. They are intentionally not listed here as recommendations; this shelf is about the services I use and the roles they fill, not about promoting an Arr-based workflow.
 
 ## Primary storage server
+
+{{< app-shelf-table >}}
 
 | Need | App or service | Experience and notes |
 |---|---|---|
@@ -55,6 +65,8 @@ The Docker host also runs other media-management components. They are intentiona
 | Network file storage | SMB and NFS | Used to make storage available to the PC and Docker services; permissions and identity mapping are part of the design. |
 | Local replication target | TrueNAS replication | The primary NAS holds the live copy; a separate NAS holds a recovery copy. |
 | Encrypted backup workflow | [Restic](https://restic.net/) | Used for encrypted, verifiable backups of important configuration and service data. |
+
+{{< /app-shelf-table >}}
 
 ## Tested, but not current choices
 
