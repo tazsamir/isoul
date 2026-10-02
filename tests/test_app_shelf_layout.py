@@ -31,24 +31,23 @@ class AppShelfLayoutTests(unittest.TestCase):
         wrappers = r"<div class=app-shelf-table>\s*<table>"
         self.assertEqual(3, len(re.findall(wrappers, self.html)))
 
-    def test_desktop_tables_reserve_useful_space_for_each_column(self):
-        self.assertRegex(self.css, r"\.app-shelf-table\s*\{[^}]*width:\s*min\(")
-        self.assertRegex(self.css, r"\.app-shelf-table\s*\{[^}]*left:\s*50%")
-        self.assertRegex(self.css, r"\.app-shelf-table\s*\{[^}]*transform:\s*translateX\(-50%\)")
+    def test_tables_align_with_surrounding_article_text(self):
+        self.assertRegex(self.css, r"\.app-shelf-table\s*\{[^}]*width:\s*100%")
+        self.assertNotRegex(self.css, r"\.app-shelf-table\s*\{[^}]*translateX")
         self.assertRegex(self.css, r"\.app-shelf-table table\s*\{[^}]*table-layout:\s*fixed")
-        self.assertRegex(self.css, r"\.app-shelf-table th:nth-child\(2\)[^}]*width:\s*24%")
+        self.assertRegex(self.css, r"\.app-shelf-table th:nth-child\(2\)[^}]*width:\s*30%")
+        self.assertRegex(self.css, r"\.app-shelf-table td:nth-child\(2\) a\s*\{[^}]*white-space:\s*nowrap")
 
-    def test_mobile_rows_become_labelled_cards(self):
+    def test_mobile_preserves_headers_and_scrolls_the_table(self):
         mobile = re.search(r"@media\s*\(max-width:\s*640px\)\s*\{(?P<body>.*)\}\s*$", self.css, re.S)
         self.assertIsNotNone(mobile)
         if mobile is None:
             self.fail("Missing App Shelf mobile breakpoint")
         rules = mobile.group("body")
-        self.assertRegex(rules, r"\.app-shelf-table thead\s*\{[^}]*position:\s*absolute")
-        self.assertRegex(rules, r"\.app-shelf-table tr\s*\{[^}]*display:\s*block")
-        self.assertRegex(rules, r"\.app-shelf-table td,[^{]*\{[^}]*display:\s*grid")
-        self.assertIn('content: "App"', rules)
-        self.assertIn('content: "Notes"', rules)
+        self.assertRegex(rules, r"\.app-shelf-table\s*\{[^}]*overflow-x:\s*auto")
+        self.assertRegex(rules, r"\.app-shelf-table table\s*\{[^}]*min-width:\s*44rem")
+        self.assertNotRegex(rules, r"\.app-shelf-table thead\s*\{[^}]*position:\s*absolute")
+        self.assertNotRegex(rules, r"\.app-shelf-table tr\s*\{[^}]*display:\s*block")
 
 
 if __name__ == "__main__":
