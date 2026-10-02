@@ -21,7 +21,7 @@ enableRobotsTXT = true
     mobileMenuStyle = 'dropdown'
 
   [params.footer]
-    showMenu = false
+    showMenu = true
     showCopyright = true
     showThemeAttribution = false
     showAppearanceSwitcher = true
@@ -119,6 +119,12 @@ enableRobotsTXT = true
     name = 'About'
     pageRef = '/about'
     weight = 60
+
+  [[menu.footer]]
+    name = 'Support iSoul'
+    url = 'https://buymeacoffee.com/isoul'
+    title = 'Support iSoul on Buy Me a Coffee'
+    weight = 10
 
 [markup.goldmark.renderer]
   unsafe = false
