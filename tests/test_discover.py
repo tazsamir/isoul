@@ -1,4 +1,5 @@
 import json
+import re
 import shutil
 import subprocess
 import tempfile
@@ -106,6 +107,33 @@ class DiscoverSeasonalCalendarTests(unittest.TestCase):
 
 
 class DiscoverRenderedPageTests(unittest.TestCase):
+    def test_discover_uses_compact_dark_media_dashboard_contract(self):
+        stylesheet = (ROOT / "static" / "discover" / "discover.css").read_text(encoding="utf-8")
+        for marker in (
+            "--discover-bg: #0b0b0f",
+            "--discover-surface: #16161a",
+            "--discover-surface-2: #1f1f26",
+            "--discover-accent: #00a4dc",
+            "font-family: ui-sans-serif",
+            "grid-template-columns: repeat(auto-fill, minmax(190px, 1fr))",
+            "aspect-ratio: 2 / 3",
+            "@media (max-width: 640px)",
+        ):
+            self.assertIn(marker, stylesheet)
+
+        self.assertNotIn("font-family: ui-serif", stylesheet)
+        for visual_order_override in ("#wander { order:", "#calendar { order:", "#tonight { order:", "#voices { order:"):
+            self.assertNotIn(visual_order_override, stylesheet)
+        declarations = re.findall(r"font-size:\s*([^;]+)", stylesheet)
+        self.assertTrue(declarations)
+        for declaration in declarations:
+            self.assertNotIn("var(", declaration)
+            rem_sizes = [float(size) for size in re.findall(r"(\d*\.?\d+)rem", declaration)]
+            px_sizes = [float(size) for size in re.findall(r"(\d*\.?\d+)px", declaration)]
+            self.assertTrue(rem_sizes or px_sizes, declaration)
+            self.assertTrue(all(size >= 0.75 for size in rem_sizes), declaration)
+            self.assertTrue(all(size >= 12 for size in px_sizes), declaration)
+
     def test_hugo_build_renders_accessible_discovery_experience(self):
         with tempfile.TemporaryDirectory() as destination:
             result = subprocess.run(
@@ -118,8 +146,25 @@ class DiscoverRenderedPageTests(unittest.TestCase):
             page_path = Path(destination) / "discover" / "index.html"
             self.assertTrue(page_path.exists(), "Hugo should render /discover/")
             page = page_path.read_text(encoding="utf-8")
+            jump_positions = [
+                page.find('href=#wander'),
+                page.find('href=#calendar'),
+                page.find('href=#tonight'),
+                page.find('href=#voices'),
+            ]
+            self.assertTrue(all(position >= 0 for position in jump_positions))
+            self.assertEqual(sorted(jump_positions), jump_positions)
+            section_positions = [
+                page.find('id=wander'),
+                page.find('id=calendar'),
+                page.find('id=tonight'),
+                page.find('id=voices'),
+            ]
+            self.assertTrue(all(position >= 0 for position in section_positions))
+            self.assertEqual(sorted(section_positions), section_positions)
             for marker in (
                 "data-discover-app",
+                'data-visual-style=dark-media-dashboard',
                 "data-filter-type=film",
                 "data-random",
                 "data-region",
@@ -134,6 +179,10 @@ class DiscoverRenderedPageTests(unittest.TestCase):
                 "Seasonal TV & film calendar",
                 "TV premieres",
                 "Cinema releases",
+                "Browse AniChart",
+                "Browse Letterboxd",
+                "https://anichart.net/",
+                "https://letterboxd.com/films/",
                 "New episodes tonight",
                 "New-episode data from",
                 "not a complete national EPG",
