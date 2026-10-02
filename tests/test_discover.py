@@ -25,6 +25,15 @@ class DiscoverCatalogTests(unittest.TestCase):
             self.assertIn(item["palette"], {"teal", "coral", "moss", "blue", "violet", "gold", "rose", "ink"})
             self.assertTrue(item["source_url"].startswith("https://"))
 
+    def test_tv_items_link_to_their_serializd_show_pages(self):
+        catalog_path = ROOT / "data" / "discover" / "catalog.json"
+        items = json.loads(catalog_path.read_text(encoding="utf-8"))["items"]
+        tv_items = [item for item in items if item["type"] == "tv"]
+
+        self.assertTrue(tv_items)
+        for item in tv_items:
+            self.assertRegex(item["serializd_url"], r"^https://www\.serializd\.com/show/")
+
 
 class DiscoverVoiceTests(unittest.TestCase):
     def test_five_default_voices_are_bounded_and_attributed(self):
@@ -181,8 +190,12 @@ class DiscoverRenderedPageTests(unittest.TestCase):
                 "Cinema releases",
                 "Browse AniChart",
                 "Browse Letterboxd",
+                "Browse Serializd",
                 "https://anichart.net/",
                 "https://letterboxd.com/films/",
+                "https://www.serializd.com/",
+                "https://www.serializd.com/show/Detectorists-61828",
+                "https://www.serializd.com/show/61244",
                 "New episodes tonight",
                 "New-episode data from",
                 "not a complete national EPG",
