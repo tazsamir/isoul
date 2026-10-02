@@ -128,6 +128,7 @@ class DiscoverRenderedPageTests(unittest.TestCase):
                 "data-calendar-medium=movie",
                 "data-calendar-region",
                 "data-calendar-season",
+                "data-calendar-season-region=US",
                 "Seasonal TV & film calendar",
                 "TV premieres",
                 "Cinema releases",

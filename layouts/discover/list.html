@@ -39,7 +39,10 @@
       </label>
       <label>Season
         <select data-calendar-season aria-label="Release season">
-          {{ range (index $calendar.regions 0).seasons }}<option value="{{ .id }}">{{ .label }}</option>{{ end }}
+          {{ range $calendar.regions }}
+            {{ $seasonRegion := .code }}
+            {{ range .seasons }}<option value="{{ .id }}" data-calendar-season-region="{{ $seasonRegion }}">{{ .label }}</option>{{ end }}
+          {{ end }}
         </select>
       </label>
     </div>

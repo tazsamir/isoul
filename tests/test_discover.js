@@ -24,6 +24,14 @@ assert.equal(discover.calendarPanelIsSelected(
   { region: 'US', medium: 'tv', season: '2026-autumn' },
   { region: 'GB', calendarMedium: 'tv', calendarSeason: '2026-autumn' },
 ), false);
+assert.equal(discover.calendarSeasonOptionIsSelected(
+  { region: 'US', season: '2026-autumn' },
+  { region: 'US', calendarSeason: '2026-autumn' },
+), true);
+assert.equal(discover.calendarSeasonOptionIsSelected(
+  { region: 'GB', season: '2026-autumn' },
+  { region: 'US', calendarSeason: '2026-autumn' },
+), false);
 
 const storage = new Map();
 const localStorageStub = {

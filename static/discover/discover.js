@@ -38,6 +38,11 @@
       && panel.season === preferences.calendarSeason;
   }
 
+  function calendarSeasonOptionIsSelected(option, preferences) {
+    return option.region === preferences.region
+      && option.season === preferences.calendarSeason;
+  }
+
   function loadPreferences(storage) {
     try {
       const saved = JSON.parse(storage.getItem(STORAGE_KEY) || "{}");
@@ -110,6 +115,7 @@
     function applyRegion() {
       if (!regionPanels.some((panel) => panel.dataset.regionCode === preferences.region) && regionPanels.length) {
         preferences.region = regionPanels[0].dataset.regionCode;
+        savePreferences(storage, preferences);
       }
       regionPanels.forEach((panel) => { panel.hidden = !regionIsSelected(panel.dataset.regionCode, preferences.region); });
       if (regionSelect) regionSelect.value = preferences.region;
@@ -125,6 +131,7 @@
         preferences.calendarSeason = matchingRegionAndMedium.length
           ? matchingRegionAndMedium[0].dataset.calendarSeason
           : calendarPanels[0].dataset.calendarSeason;
+        savePreferences(storage, preferences);
       }
       calendarPanels.forEach((panel) => {
         panel.hidden = !calendarPanelIsSelected({
@@ -139,13 +146,19 @@
       if (calendarRegionSelect) calendarRegionSelect.value = preferences.region;
       if (calendarSeasonSelect) {
         Array.from(calendarSeasonSelect.options).forEach((option) => {
-          option.hidden = !calendarPanels.some((panel) => (
-            panel.dataset.calendarRegion === preferences.region
-            && panel.dataset.calendarType === preferences.calendarMedium
-            && panel.dataset.calendarSeason === option.value
-          ));
+          const available = option.dataset.calendarSeasonRegion === preferences.region
+            && calendarPanels.some((panel) => (
+              panel.dataset.calendarRegion === preferences.region
+              && panel.dataset.calendarType === preferences.calendarMedium
+              && panel.dataset.calendarSeason === option.value
+            ));
+          option.hidden = !available;
+          option.disabled = !available;
+          option.selected = available && calendarSeasonOptionIsSelected({
+            region: option.dataset.calendarSeasonRegion,
+            season: option.value,
+          }, preferences);
         });
-        calendarSeasonSelect.value = preferences.calendarSeason;
       }
     }
 
@@ -187,5 +200,14 @@
     applyFilter();
   }
 
-  return { filterItems, pickRandom, regionIsSelected, calendarPanelIsSelected, loadPreferences, savePreferences, init };
+  return {
+    filterItems,
+    pickRandom,
+    regionIsSelected,
+    calendarPanelIsSelected,
+    calendarSeasonOptionIsSelected,
+    loadPreferences,
+    savePreferences,
+    init,
+  };
 });
