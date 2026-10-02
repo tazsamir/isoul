@@ -2,7 +2,7 @@
 title: "Discovering Anime on the Wild Internet of 2007"
 date: 2026-10-12
 draft: true
-description: "Veoh, Justin.tv, Naruto, Death Note and the moment the internet replaced television as my guide to anime."
+description: "Naruto, Death Note, fansubs and the run of 2006 and 2007 shows I found when anime moved from television to the old internet."
 tags:
   - anime
   - internet
@@ -11,92 +11,96 @@ tags:
   - personal
 ---
 
-> **Previously on isoul.uk:** [How Toonami Changed What I Watched](/off-the-stack/how-toonami-changed-what-i-watched/) — television opened the door before the internet blew it off its hinges, and anime became something worth actively looking for.
+> **Previously on isoul.uk:** [How Toonami Changed What I Watched](/off-the-stack/how-toonami-changed-what-i-watched/) — television opened the door before the internet showed me how much anime existed beyond the British schedules.
 
+I had watched Japanese animation for years without thinking too much about the label. *Pokémon* was *Pokémon*. *Sailor Moon* was another programme on television. Studio Ghibli films were films.
 
-Around 2007, the internet stopped being just another way to look things up and became the place where I discovered what to watch.
+Toonami made anime feel like a distinct thing, but *Naruto* was the point when somebody effectively said to me, "This is anime. Watch this."
 
-For anime, that was a huge change.
+That somebody was my brother. We started watching it online, and I fell in properly.
 
-Television had introduced me to shows like *Dragon Ball Z*, *Tenchi Muyo* and *Zoids*. But television also imposed a hard limit: I could only watch what somebody had chosen to broadcast in the UK.
+## Naruto and whatever site still worked
 
-The gate moved online, into the chaotic, unreliable and fascinating web of the mid-2000s.
+Watching anime online around 2007 was nothing like opening a streaming app now. I remember Veoh, Justin.tv and Vimeo, along with an assortment of sites that appeared useful until a video vanished or a player stopped loading.
 
-## Veoh, Justin.tv and whatever worked
+Sometimes the next episode was there. Sometimes episode 14 turned up before episode 13. Videos could be split into several parts, often with one part missing. On Justin.tv, somebody might simply be running episodes continuously, so you joined halfway through and stayed for hours.
 
-The modern streaming world is incredibly polished compared with what we used.
+Availability and permission were not the same thing, of course. What struck me at the time was access. British television had shown me a small selection of anime chosen by broadcasters. The internet made the choice feel almost unlimited, even if finding anything involved broken links and a fair amount of luck.
 
-I remember sites like Veoh and Justin.tv.
+*Naruto* suited that sort of viewing because there was always another episode. Then came *Naruto Shippuden* and the Dattebayo fansubs. The name of a fansub group became so familiar that it felt attached to the programme itself.
 
-You would find streams, uploads and communities in places that felt temporary even while you were using them. Things disappeared. Links broke. Quality varied wildly.
+It was messy, but the mess was part of how I discovered things. A recommendation from somebody I knew led to a search, the search led to a forum or a stream, and that led to something else entirely.
 
-At the time, access was what I noticed most, although availability and permission were not the same thing.
+## Death Note got me reading subtitles
 
-Suddenly I could find shows because somebody online had mentioned them, not because a television scheduler had decided they belonged in a particular time slot.
+*Death Note* pushed me further.
 
-## Naruto and Death Note
+I began with the English dub and eventually caught up with the episodes that were available. The Japanese broadcast was further ahead, so the choice was either to wait or switch to subtitles.
 
-*Naruto* was one of the big shows of that period for me.
+I switched.
 
-Then there was *Death Note*, which felt completely different again.
+That sounds unremarkable now, but it removed a barrier for me. I was no longer limited by what had been dubbed, licensed or placed in front of a British audience. There was suddenly much more to watch.
 
-Seeing those shows around the same time reinforced something Toonami had already begun teaching me: "anime" wasn't really a genre at all.
+I remember sitting at an old, battered computer and watching *Death Note* on Vimeo. That image is still attached to the series in my mind. The premise was immediate, the characters were memorable and almost every episode made it difficult to stop. It was exactly the right programme to pull me further in.
 
-It could mean almost anything.
+## Why 2006 and 2007 still feel special
 
-Action series, mysteries, school stories, science fiction, comedy, romance — there was always another branch to follow.
+I tend to think of 2006 and 2007 as a golden period for anime, although I did not watch everything as it aired. My busiest discovery years were probably closer to 2008 through 2010. I was finding that earlier run while it was still recent, talked about constantly and easy to stumble across online.
 
-Once I realised that, the hobby became almost self-propelling.
+Look at some of what came out in those two years: *Death Note*, *Code Geass*, *The Melancholy of Haruhi Suzumiya*, *Black Lagoon*, *Welcome to the NHK*, *Ouran High School Host Club*, *Kanon*, *D.Gray-man*, *xxxHOLiC*, *Gurren Lagann*, *Clannad*, *Darker than Black*, *Claymore* and *School Rumble*'s second series. That is not even close to a complete list.
 
-One show led to another.
+I did not love every one of them, and nostalgia has a habit of tidying dates. I watched *Gurren Lagann* after 2010, for example, yet it still feels as though it belongs to the same part of my life. The date a series entered my world matters more to my memory than the date Japanese television first showed it.
 
-## Finding things yourself
+What made the period feel so full was discovering several very different kinds of programme at once. Anime stopped meaning one type of story.
 
-What I miss most about that period is the feeling of discovery.
+## Haruhi, Kyon and the internet around the show
 
-Modern platforms are much better at delivering media reliably, but they also do a lot of the choosing for you.
+*The Melancholy of Haruhi Suzumiya* remains one of my favourites.
 
-The older web required more effort.
+Haruhi gets most of the attention, but Kyon makes the series work for me. He is the exhausted ordinary person surrounded by aliens, time travellers and espers, all of them worried about what Haruhi might do without realising she has the power to do it. His narration gives the whole thing its personality.
 
-You found a forum post. Somebody mentioned a title in a chat. You saw a clip somewhere. One site linked to another. You searched until you worked out what people were talking about.
+The programme is also tied to a particular period of internet culture in my head. There were fan translations, forum arguments, AMVs, memes, the dance and endless discussion about viewing order. The conversation around *Haruhi* was almost as memorable as the episodes.
 
-It was inefficient.
+*Code Geass* sits near it in my personal list. I have always liked the unmistakable CLAMP character designs, long limbs and all. Lelouch is clever without being infallible. He manipulates people, makes awful decisions and causes enormous damage while still caring deeply about a few of them.
 
-It was also fun.
+Then, among the rebellion, politics and supernatural powers, there is C.C.'s devotion to Pizza Hut. That mixture somehow makes perfect sense while you are watching it.
 
-The path you took to reach something became part of the memory of it.
+## The shows did not all feel alike
 
-## From individual shows to seasonal anime
+*Black Lagoon* felt different again. Roanapur was dirty, dangerous and full of people who could barely be described as good. Rock begins as an ordinary Japanese salaryman among criminals, but the interesting part is how he changes. He learns to work within that world and becomes more manipulative rather than simply turning into another gun-carrying action hero.
 
-Eventually I wasn't just watching famous series.
+Roberta also gave me one of my favourite reversals. The maid outfit suggests an anime joke. What arrives is basically the Terminator.
 
-I started following seasonal anime.
+*Ouran High School Host Club* was a useful change of pace. It did not need violence or a large supernatural mystery. Haruhi Fujioka breaks an expensive vase, ends up working in the Host Club and remains much less impressed by its collection of beautiful rich boys than they expect. It was funny, charming and easy to recommend to somebody who did not already watch much anime.
 
-That was another shift because it meant paying attention to what was currently airing rather than working backwards through established shows.
+Then there was *School Rumble*, where the central relationship is gloriously stupid. Harima looks like a gangster but is hopelessly in love with Tenma. Tenma is obsessed with Karasuma, who looks as though somebody has put a bowl on his head and may possibly be an alien. The characters could generate chaos in an empty room.
 
-For roughly 2007 through 2016, that became a regular part of my life.
+These programmes did not have much in common beyond where they were made. That was the attraction. One recommendation could lead to a crime story, a school comedy, a romance or something that was difficult to explain at all.
 
-There was always another season, another list and another series to try.
+## The one that became more personal
 
-Then real life changed.
+*Welcome to the NHK* took me several attempts to finish.
 
-Adult responsibilities grew and I naturally had less time to keep up with everything. Anime didn't disappear, but the habit of systematically following seasons faded.
+Satou is unemployed, isolated and increasingly detached from ordinary life. At first, the series can look like a dark comedy about NEETs, otaku culture and conspiracy theories. Then it becomes uncomfortable.
 
-## The strange thing about digital memories
+There was a period when I did not particularly want to go out either. I would rather stay online, watch streams and avoid doing much else. I had no job and very little ambition at the time. A relationship breakup, family circumstances and other events eventually pushed my life in a different direction.
 
-The internet I used in 2007 barely exists in the same form today.
+Looking back, that is probably why *Welcome to the NHK* was difficult to watch. It gets close to the way somebody can remain still for years while life appears to happen somewhere else.
 
-Services disappear. Websites shut down. Communities move. Links rot.
+Misaki first looks like the magical girl who will rescue Satou, but she has her own reasons for needing him. The series would have been much less interesting if it had settled for a simple story about a girl saving a broken man.
 
-Yet the media I discovered through those places stayed with me.
+I could laugh at many of the shows I watched in that period. This one occasionally felt as though it was looking back.
 
-There are series I can put on now and instantly remember the period of my life when I first watched them.
+## What I miss about the old internet
 
-That makes the old web feel oddly personal.
+I do not miss hunting for episode 17 across six broken video players. Anime is easier to watch now, the picture quality is better and official subtitles do not arrive with a translator's argument in the notes.
 
-It wasn't merely infrastructure.
+I do miss how personal discovery felt.
 
-It was where a lot of my interests were formed.
+A brother or a friend told you to watch something. Somebody mentioned a title on a forum. An AMV used a song you liked. You saw a strange clip and tried to work out where it came from. The path to a programme became part of the memory of watching it.
 
-And perhaps that is one reason I care so much now about owning data, running my own services and not assuming that something available online today will still be there tomorrow.
+The internet I used then barely exists in the same form. Services closed, uploads disappeared and communities moved elsewhere. Many of the series remained, but the route I took to them did not.
 
+That is why 2006 and 2007 feel golden to me. It is partly the number of good programmes released around then, but it is also timing. I found them during the years when anime changed from something I happened to watch into something I actively went looking for.
+
+My brother recommending *Naruto* influenced nearly twenty years of what I watched afterwards. A recommendation carousel has never managed anything quite like that.
