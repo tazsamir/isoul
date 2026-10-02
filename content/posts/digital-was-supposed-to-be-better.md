@@ -74,7 +74,7 @@ It is hard to call those two things the same kind of ownership.
 
 Publishing this yesterday turned out to be rather well timed.
 
-Crunchyroll has been quietly losing older anime from its catalogue for some time. *Black Lagoon* disappeared in July, and on 30 September *Akame ga Kill!* vanished too.[^anime-removals]
+Crunchyroll has been quietly losing older anime from its catalogue for some time. *Black Lagoon* disappeared in July, and *Akame ga Kill!* has now vanished too.[^anime-removals]
 
 I checked the UK position rather than assuming the American reports applied here. At the time of writing, *Black Lagoon* is not available on any UK streaming service. *Akame ga Kill!* is no longer included with a subscription either; JustWatch lists only a digital purchase from the Apple TV Store.[^anime-availability]
 
@@ -297,7 +297,7 @@ Digital was supposed to be better because it was easier. It still can be, but co
 [^newell]: [IGN, "Gabe Says Piracy Isn't About Price", 25 November 2011](https://www.ign.com/articles/2011/11/25/gabe-says-piracy-isnt-about-price)
 [^sony]: [Sony Pictures Entertainment, global anime streaming merger, 24 September 2019](https://www.sonypictures.com/corp/press_releases/2019/0924/sonypicturestelevisionandaniplexannounceglobalanimestreamingmerger) and [Sony Pictures Entertainment, completion of the Crunchyroll acquisition, 9 August 2021](https://www.sonypictures.com/corp/press_releases/2021/0809/sonysfunimationglobalgroupcompletesacquisitionofcrunchyrollfromatt)
 [^funimation]: [Crunchyroll Support, Funimation End of Services](https://help.crunchyroll.com/article/funimation-end-of-services)
-[^anime-removals]: [CBR, "Crunchyroll Removes Black Lagoon, Blood Blockade Battlefront and Grimgar From Streaming", July 2026](https://www.cbr.com/crunchyroll-black-lagoon-grimgar-blood-blockade-battlefront-remove/) and [Anime Updates, report that *Akame ga Kill!* was no longer streaming on Crunchyroll, 30 September 2026](https://x.com/animeupdates/status/2105438548715348153)
+[^anime-removals]: [CBR, "Crunchyroll Removes Black Lagoon, Blood Blockade Battlefront and Grimgar From Streaming", July 2026](https://www.cbr.com/crunchyroll-black-lagoon-grimgar-blood-blockade-battlefront-remove/) and [JustWatch UK, *Akame ga Kill!*](https://www.justwatch.com/uk/tv-series/akame-ga-kill)
 [^anime-availability]: [JustWatch UK, *Black Lagoon*](https://www.justwatch.com/uk/tv-series/black-lagoon) and [JustWatch UK, *Akame ga Kill!*](https://www.justwatch.com/uk/tv-series/akame-ga-kill)
 [^anime-prices]: Prices checked at 09:29 BST on 2 October 2026: [Anime Limited, *Black Lagoon* Series 1 + 2 Blu-ray](https://www.alltheanime.com/products/black-lagoon-blu-ray), [Amazon UK, *Black Lagoon: The Complete Series*](https://www.amazon.co.uk/Black-Lagoon-Complete-Blu-ray/dp/B07PXD7RSZ), and [Amazon UK, *Akame Ga Kill: Complete Collection*](https://www.amazon.co.uk/Akame-Ga-Kill-Complete-Collection/dp/B07GVS4R6H)
 [^steam]: [Steam Subscriber Agreement, section 2.A](https://store.steampowered.com/subscriber_agreement/)
