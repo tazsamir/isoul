@@ -16,6 +16,22 @@ assert.equal(discover.pickRandom(catalog, () => 0.6).id, 'anime');
 
 assert.equal(discover.regionIsSelected('GB', 'GB'), true);
 assert.equal(discover.regionIsSelected('JP', 'GB'), false);
+assert.equal(discover.calendarPanelIsSelected(
+  { region: 'GB', medium: 'tv', season: '2026-autumn' },
+  { region: 'GB', calendarMedium: 'tv', calendarSeason: '2026-autumn' },
+), true);
+assert.equal(discover.calendarPanelIsSelected(
+  { region: 'US', medium: 'tv', season: '2026-autumn' },
+  { region: 'GB', calendarMedium: 'tv', calendarSeason: '2026-autumn' },
+), false);
+assert.equal(discover.calendarSeasonOptionIsSelected(
+  { region: 'US', season: '2026-autumn' },
+  { region: 'US', calendarSeason: '2026-autumn' },
+), true);
+assert.equal(discover.calendarSeasonOptionIsSelected(
+  { region: 'GB', season: '2026-autumn' },
+  { region: 'US', calendarSeason: '2026-autumn' },
+), false);
 
 const storage = new Map();
 const localStorageStub = {
@@ -25,9 +41,13 @@ const localStorageStub = {
 
 discover.savePreferences(localStorageStub, {
   region: 'GB',
+  calendarMedium: 'movie',
+  calendarSeason: '2026-autumn',
 });
 assert.deepEqual(discover.loadPreferences(localStorageStub), {
   region: 'GB',
+  calendarMedium: 'movie',
+  calendarSeason: '2026-autumn',
 });
 
 console.log('discover.js behavior tests passed');
