@@ -1,0 +1,33 @@
+name: Discover TV listings
+
+on:
+  schedule:
+    - cron: '12 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Refresh partial UK and US listings
+        run: python scripts/discover_tv.py
+      - name: Open editorial review pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'Refresh Discover TV listings'
+          title: 'Review: Discover TV listings refresh'
+          body: |
+            Mechanical TVmaze refresh for the UK and US partial guides.
+            Review the channel and programme selection before merging; this workflow does not publish directly.
+          branch: automation/discover-tv-listings
+          delete-branch: true
+          draft: true
+          add-paths: data/discover/tonight.json

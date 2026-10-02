@@ -1,0 +1,100 @@
+{
+  "status": "prototype",
+  "notice": "Hand-picked editorial examples, not live recommendations.",
+  "items": [
+    {
+      "id": "perfect-days",
+      "title": "Perfect Days",
+      "type": "film",
+      "year": 2023,
+      "country": ["Japan", "Germany"],
+      "genres": ["Drama"],
+      "runtime_minutes": 124,
+      "tmdb_id": 976893,
+      "blurb": "A quiet character study built from work, music and repeated daily rituals. A good door into films where attention matters more than plot machinery.",
+      "palette": "teal",
+      "source_url": "https://www.themoviedb.org/movie/976893"
+    },
+    {
+      "id": "aftersun",
+      "title": "Aftersun",
+      "type": "film",
+      "year": 2022,
+      "country": ["United Kingdom"],
+      "genres": ["Drama"],
+      "runtime_minutes": 102,
+      "tmdb_id": 965150,
+      "blurb": "A daughter looks back at a holiday with her father, where small remembered moments slowly acquire a different weight.",
+      "palette": "coral",
+      "source_url": "https://www.themoviedb.org/movie/965150"
+    },
+    {
+      "id": "detectorists",
+      "title": "Detectorists",
+      "type": "tv",
+      "year": 2014,
+      "country": ["United Kingdom"],
+      "genres": ["Comedy", "Drama"],
+      "tmdb_id": 64334,
+      "blurb": "Two friends search fields for buried history while ordinary life keeps interrupting. Gentle, funny television with a precise sense of place.",
+      "palette": "moss",
+      "source_url": "https://www.themoviedb.org/tv/64334"
+    },
+    {
+      "id": "happy-valley",
+      "title": "Happy Valley",
+      "type": "tv",
+      "year": 2014,
+      "country": ["United Kingdom"],
+      "genres": ["Crime", "Drama"],
+      "tmdb_id": 61244,
+      "blurb": "A police sergeant confronts a case that reaches into her own family history. Tense crime drama anchored by character rather than spectacle.",
+      "palette": "blue",
+      "source_url": "https://www.themoviedb.org/tv/61244"
+    },
+    {
+      "id": "frieren",
+      "title": "Frieren: Beyond Journey's End",
+      "type": "anime",
+      "year": 2023,
+      "country": ["Japan"],
+      "genres": ["Fantasy", "Drama"],
+      "blurb": "After the heroes have already won, an elf begins to understand how differently her human companions experienced their time together.",
+      "palette": "violet",
+      "source_url": "https://anilist.co/anime/154587"
+    },
+    {
+      "id": "apothecary-diaries",
+      "title": "The Apothecary Diaries",
+      "type": "anime",
+      "year": 2023,
+      "country": ["Japan"],
+      "genres": ["Mystery", "Drama"],
+      "blurb": "A sharp-minded apothecary solves medical puzzles and court intrigues while trying not to attract more attention than necessary.",
+      "palette": "gold",
+      "source_url": "https://anilist.co/anime/161645"
+    },
+    {
+      "id": "lahai",
+      "title": "Lahai — Sampha",
+      "type": "music",
+      "year": 2023,
+      "country": ["United Kingdom"],
+      "genres": ["Electronic", "Soul"],
+      "blurb": "Restless, intimate songs that reward a full-album listen, moving between electronic detail, family memory and warm piano lines.",
+      "palette": "rose",
+      "source_url": "https://musicbrainz.org/search?query=release%3ALahai%20AND%20artist%3ASampha&type=release&method=indexed"
+    },
+    {
+      "id": "my-21st-century-blues",
+      "title": "My 21st Century Blues — RAYE",
+      "type": "music",
+      "year": 2023,
+      "country": ["United Kingdom"],
+      "genres": ["Pop", "R&B"],
+      "blurb": "A wide-ranging debut album that moves through pop, soul, jazz and dance music without sanding down its sharper personal edges.",
+      "palette": "ink",
+      "source_url": "https://musicbrainz.org/search?query=release%3AMy%2021st%20Century%20Blues%20AND%20artist%3ARAYE&type=release&method=indexed"
+    }
+  ]
+}

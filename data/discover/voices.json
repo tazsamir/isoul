@@ -1,0 +1,164 @@
+{
+  "generated": "2026-10-02T13:40:00+01:00",
+  "notice": "Feed-derived editorial examples. Each summary is an original paraphrase and must be reviewed before publication.",
+  "voices": [
+    {
+      "id": "stuart-heritage",
+      "name": "Stuart Heritage",
+      "category": "tv",
+      "region": "UK",
+      "home_url": "https://www.theguardian.com/profile/stuart-heritage",
+      "feed_url": "https://www.theguardian.com/profile/stuart-heritage/rss",
+      "automation": "rss-article",
+      "quality_note": "An active written feed with reviews, live episode coverage and television criticism. Only article metadata is imported; any short take remains editorial.",
+      "items": [
+        {
+          "title": "The Celebrity Traitors: episode one — as it happened",
+          "date": "2026-10-01",
+          "summary": "Live written coverage of the opening episode and its unusually star-heavy cast.",
+          "source_url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/01/the-celebrity-traitors-live",
+          "status": "editorial-example"
+        },
+        {
+          "title": "The Guide #261: There is so much good telly this autumn you may never go outside again",
+          "date": "2026-09-19",
+          "summary": "A broad autumn television survey designed as a route into several shows rather than one ranked recommendation.",
+          "source_url": "https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper",
+          "status": "editorial-example"
+        }
+      ]
+    },
+    {
+      "id": "peter-bradshaw",
+      "name": "Peter Bradshaw",
+      "category": "film",
+      "region": "UK",
+      "home_url": "https://www.theguardian.com/profile/peterbradshaw",
+      "feed_url": "https://www.theguardian.com/profile/peterbradshaw/rss",
+      "automation": "feed",
+      "quality_note": "A high-frequency written UK film source whose review headlines usually identify one work cleanly.",
+      "items": [
+        {
+          "title": "Take It or Leave It",
+          "date": "2026-10-02",
+          "summary": "Bradshaw responds to the film as an atmospheric account of Madness before fame.",
+          "source_url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
+          "status": "editorial-example"
+        },
+        {
+          "title": "Extra Geography",
+          "date": "2026-10-01",
+          "summary": "He highlights its comedy and its treatment of class, sex and female friendship.",
+          "source_url": "https://www.theguardian.com/film/2026/oct/01/extra-geography-review-a-wickedly-funny-lesson-in-sex-class-and-female-friendship",
+          "status": "editorial-example"
+        },
+        {
+          "title": "Knife: The Attempted Murder of Salman Rushdie",
+          "date": "2026-10-01",
+          "summary": "Bradshaw presents the documentary as both frightening and life-affirming.",
+          "source_url": "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival",
+          "status": "editorial-example"
+        }
+      ]
+    },
+    {
+      "id": "lucy-mangan",
+      "name": "Lucy Mangan",
+      "category": "tv",
+      "region": "UK",
+      "home_url": "https://www.theguardian.com/profile/lucymangan",
+      "feed_url": "https://www.theguardian.com/profile/lucymangan/rss",
+      "automation": "feed",
+      "quality_note": "A named UK television critic with a dependable author feed and consistently title-specific reviews.",
+      "items": [
+        {
+          "title": "Kill Jackie",
+          "date": "2026-10-02",
+          "summary": "Mangan finds the assassin thriller lacking in both character and plotting despite its familiar premise.",
+          "source_url": "https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video",
+          "status": "editorial-example"
+        },
+        {
+          "title": "The Celebrity Traitors",
+          "date": "2026-10-01",
+          "summary": "Her response centres on Ross Kemp’s conspicuous struggle to stay composed.",
+          "source_url": "https://www.theguardian.com/tv-and-radio/2026/oct/01/the-celebrity-traitors-review-bbc",
+          "status": "editorial-example"
+        },
+        {
+          "title": "East of Eden",
+          "date": "2026-10-01",
+          "summary": "Mangan praises Florence Pugh and finds the Steinbeck adaptation compelling television.",
+          "source_url": "https://www.theguardian.com/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck",
+          "status": "editorial-example"
+        }
+      ]
+    },
+    {
+      "id": "wrong-every-time",
+      "name": "Nick Creamer · Wrong Every Time",
+      "category": "anime",
+      "region": "US / international",
+      "home_url": "https://wrongeverytime.com/",
+      "feed_url": "https://wrongeverytime.com/feed/",
+      "automation": "rss-article",
+      "quality_note": "Long-form episode criticism and weekly viewing diaries arrive as complete written articles through a working RSS feed.",
+      "items": [
+        {
+          "title": "Summer 2026 — Week 13 in Review",
+          "date": "2026-09-30",
+          "summary": "A weekly viewing diary covering current anime alongside feature films, kept as a collection rather than forced onto one title.",
+          "source_url": "https://wrongeverytime.com/2026/09/30/summer-2026-week-13-in-review/",
+          "status": "editorial-example"
+        },
+        {
+          "title": "Apocalypse Hotel — Episode 6",
+          "date": "2026-09-28",
+          "summary": "Close episode criticism focused on hospitality, inheritance and the series’ use of long-term hope.",
+          "source_url": "https://wrongeverytime.com/2026/09/28/apocalypse-hotel-episode-6/",
+          "status": "editorial-example"
+        },
+        {
+          "title": "The Mighty Nein — Episode 5",
+          "date": "2026-09-26",
+          "summary": "An episode essay on adaptation choices, group failure and how tabletop play becomes coherent television drama.",
+          "source_url": "https://wrongeverytime.com/2026/09/26/the-mighty-nein-episode-5/",
+          "status": "editorial-example"
+        }
+      ]
+    },
+    {
+      "id": "alexis-petridis",
+      "name": "Alexis Petridis",
+      "category": "music",
+      "region": "UK",
+      "home_url": "https://www.theguardian.com/profile/alexispetridis",
+      "feed_url": "https://www.theguardian.com/profile/alexispetridis/rss",
+      "automation": "feed",
+      "quality_note": "A named UK music critic whose review headlines usually expose artist and release; quizzes, rankings and live reviews are filtered out.",
+      "items": [
+        {
+          "title": "Meshell Ndegeocello — Synonym",
+          "date": "2026-10-01",
+          "summary": "Petridis admires the record’s vivid reinventions of songs from a deliberately wide range of writers.",
+          "source_url": "https://www.theguardian.com/music/2026/oct/01/meshell-ndegeocello-synonym-review-vivid-all-star-reinventions-of-everyone-from-bob-dylan-to-j-lo",
+          "status": "editorial-example"
+        },
+        {
+          "title": "Gilla Band — Pugnello",
+          "date": "2026-09-24",
+          "summary": "He responds to the album’s aggression, absurd humour and refusal to sound ordinary.",
+          "source_url": "https://www.theguardian.com/music/2026/sep/24/gilla-band-pugnello-review-five-stars",
+          "status": "editorial-example"
+        },
+        {
+          "title": "Beabadoobee — Pylon",
+          "date": "2026-09-17",
+          "summary": "Petridis finds recognisable feeling inside a louder record about rock-star frustration.",
+          "source_url": "https://www.theguardian.com/music/2026/sep/17/beabadoobee-pylon-review",
+          "status": "editorial-example"
+        }
+      ]
+    }
+  ]
+}

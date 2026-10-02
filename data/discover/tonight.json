@@ -1,0 +1,283 @@
+{
+  "generated": "2026-10-02T13:57:12+00:00",
+  "source_name": "TVmaze",
+  "source_url": "https://www.tvmaze.com/api",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "note": "New episodes from up to five broadcast networks per country. This is not a complete EPG; coverage varies by country.",
+  "regions": [
+    {
+      "code": "GB",
+      "label": "United Kingdom",
+      "date": "2026-10-02",
+      "timezone": "Europe/London",
+      "status": "ready",
+      "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
+      "channels": [
+        {
+          "name": "BBC One",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "The Celebrity Traitors",
+              "episode": "Episode 2",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3764812/the-celebrity-traitors-2x02-episode-2"
+            },
+            {
+              "time": "21:00",
+              "title": "The Celebrity Traitors: Uncloaked",
+              "episode": "Episode 2",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3764802/the-celebrity-traitors-uncloaked-2x02-episode-2"
+            },
+            {
+              "time": "21:30",
+              "title": "Have I Got News for You",
+              "episode": "Richard Ayoade, Gyles Brandreth, Charlotte Church",
+              "blurb": "Series return · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3766546/have-i-got-news-for-you-72x01-richard-ayoade-gyles-brandreth-charlotte-church"
+            },
+            {
+              "time": "22:40",
+              "title": "The Graham Norton Show",
+              "episode": "Sylvester Stallone, Catherine Zeta-Jones, Andrew Garfield, 50 Cent, Blossoms",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3766435/the-graham-norton-show-34x02-sylvester-stallone-catherine-zeta-jones-andrew-garfield-50-cent-blossoms"
+            }
+          ]
+        },
+        {
+          "name": "BBC Two",
+          "programmes": [
+            {
+              "time": "18:00",
+              "title": "House of Games",
+              "episode": "Week 1: Friday",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3766007/house-of-games-10x05-week-1-friday"
+            },
+            {
+              "time": "18:30",
+              "title": "Strictly Come Dancing - It Takes Two",
+              "episode": "Episode 5",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3766032/strictly-come-dancing-it-takes-two-24x05-episode-5"
+            }
+          ]
+        },
+        {
+          "name": "Channel 4",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "George Clarke's Amazing Spaces: First Home",
+              "episode": "Episode 3",
+              "blurb": "New episode · DIY",
+              "source_url": "https://www.tvmaze.com/episodes/3769862/george-clarkes-amazing-spaces-first-home-1x03-episode-3"
+            },
+            {
+              "time": "21:00",
+              "title": "Gogglebox",
+              "episode": "Episode 5",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3776558/gogglebox-28x05-episode-5"
+            },
+            {
+              "time": "22:00",
+              "title": "Live From The Lycett Arms",
+              "episode": "Episode 5",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3771223/live-from-the-lycett-arms-1x05-episode-5"
+            }
+          ]
+        },
+        {
+          "name": "Channel 5",
+          "programmes": [
+            {
+              "time": "18:55",
+              "title": "5 News at 18.55",
+              "episode": "Episode 195",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3731809/5-news-at-1855-2026-10-02-episode-195"
+            },
+            {
+              "time": "19:55",
+              "title": "5 News at 19:55",
+              "episode": "Episode 195",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3731829/5-news-at-1955-2026-10-02-episode-195"
+            },
+            {
+              "time": "20:00",
+              "title": "Our Great Yorkshire Life",
+              "episode": "Episode 4",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3776568/our-great-yorkshire-life-4x04-episode-4"
+            },
+            {
+              "time": "21:00",
+              "title": "Play for Today",
+              "episode": "Village Idiots",
+              "blurb": "New episode · Drama",
+              "source_url": "https://www.tvmaze.com/episodes/3766015/play-for-today-2x02-village-idiots"
+            }
+          ]
+        },
+        {
+          "name": "BBC Alba",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "An Là",
+              "episode": "Episode 275",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3774295/an-la-2026-10-02-episode-275"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "label": "United States",
+      "date": "2026-10-02",
+      "timezone": "America/New_York",
+      "status": "ready",
+      "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
+      "channels": [
+        {
+          "name": "ABC",
+          "programmes": [
+            {
+              "time": "18:30",
+              "title": "ABC World News Tonight with David Muir",
+              "episode": "Episode 267",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3773080/abc-world-news-tonight-with-david-muir-2026-10-02-episode-267"
+            },
+            {
+              "time": "20:00",
+              "title": "Celebrity Wheel of Fortune",
+              "episode": "Gillian Jacobs, Omarion & Matt Iseman",
+              "blurb": "Series return",
+              "source_url": "https://www.tvmaze.com/episodes/3684586/celebrity-wheel-of-fortune-7x01-gillian-jacobs-omarion-matt-iseman"
+            },
+            {
+              "time": "21:00",
+              "title": "20/20",
+              "episode": "Home Alone",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3770845/2020-2026-10-02-home-alone"
+            },
+            {
+              "time": "23:35",
+              "title": "Jimmy Kimmel Live",
+              "episode": "Paul McCartney, Sen. Bernie Sanders, Goose",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3771724/jimmy-kimmel-live-2026-10-02-paul-mccartney-sen-bernie-sanders-goose"
+            }
+          ]
+        },
+        {
+          "name": "CBS",
+          "programmes": [
+            {
+              "time": "18:30",
+              "title": "CBS Evening News",
+              "episode": "Episode 197",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3772065/cbs-evening-news-2026-10-02-episode-197"
+            }
+          ]
+        },
+        {
+          "name": "NBC",
+          "programmes": [
+            {
+              "time": "18:30",
+              "title": "NBC Nightly News",
+              "episode": "Oct 2 Fri",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3773092/nbc-nightly-news-2026-10-02-oct-2-fri"
+            },
+            {
+              "time": "21:00",
+              "title": "Dateline NBC",
+              "episode": "Unmasking the Monster",
+              "blurb": "New episode · Drama",
+              "source_url": "https://www.tvmaze.com/episodes/3778194/dateline-nbc-2026-10-02-unmasking-the-monster"
+            }
+          ]
+        },
+        {
+          "name": "PBS",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "Washington Week with The Atlantic",
+              "episode": "Episode 6114",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3695588/washington-week-with-the-atlantic-2026-10-02-episode-6114"
+            },
+            {
+              "time": "20:30",
+              "title": "Firing Line with Margaret Hoover",
+              "episode": "Episode 1014",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3700578/firing-line-with-margaret-hoover-2026-10-02-episode-1014"
+            },
+            {
+              "time": "22:00",
+              "title": "Voces",
+              "episode": "ASCO: Without Permission",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3725402/voces-2026-10-02-asco-without-permission"
+            },
+            {
+              "time": "23:00",
+              "title": "Amanpour & Co.",
+              "episode": "Episode 197",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3771686/amanpour-co-2026-10-02-episode-197"
+            }
+          ]
+        },
+        {
+          "name": "Fox News Channel",
+          "programmes": [
+            {
+              "time": "18:00",
+              "title": "Special Report",
+              "episode": "Episode 197",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3724045/special-report-2026-10-02-episode-197"
+            },
+            {
+              "time": "19:00",
+              "title": "The Ingraham Angle",
+              "episode": "Episode 197",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3724066/the-ingraham-angle-2026-10-02-episode-197"
+            },
+            {
+              "time": "20:00",
+              "title": "Jesse Watters Primetime",
+              "episode": "Episode 197",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3724091/jesse-watters-primetime-2026-10-02-episode-197"
+            },
+            {
+              "time": "21:00",
+              "title": "Hannity",
+              "episode": "Episode 197",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3724113/hannity-2026-10-02-episode-197"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -95,6 +95,11 @@ enableRobotsTXT = true
     pageRef = '/media'
     weight = 17
   [[menu.main]]
+    name = 'Discover'
+    identifier = "discover"
+    url = "/discover/"
+    weight = 18
+  [[menu.main]]
     name = 'App shelf'
     pageRef = '/app-shelf'
     weight = 20
