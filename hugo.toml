@@ -1,28 +1,79 @@
 baseURL = 'https://isoul.uk/'
-locale = 'en-gb'
+locale = 'en-GB'
+defaultContentLanguage = 'en'
 title = 'isoul.uk'
-theme = 'PaperMod'
+theme = 'blowfish'
+enableRobotsTXT = true
 
 [params]
-  env = 'production'
-  title = 'isoul.uk'
   description = 'Keep it simple. Keep it local. Keep a copy.'
   mainSections = ['posts', 'off-the-stack', 'media']
-  defaultTheme = 'auto'
-  disableThemeToggle = false
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowRssButtonInSectionTermList = true
-  ShowFullTextinRSS = true
-  hidemeta = false
-  hideSummary = false
-  ShowToc = true
-  TocOpen = false
-  comments = true
-  homeInfoParams = { Title = 'Keep it yours.', Content = 'Practical writing about digital ownership, preservation and selective self-hosting, alongside personal stories and notes on the media I spend time with.' }
+  colorScheme = 'ocean'
+  defaultAppearance = 'light'
+  autoSwitchAppearance = true
+  enableSearch = true
+  enableCodeCopy = true
+  enableStructuredBreadcrumbs = true
+  disableTextInHeader = false
+
+  [params.header]
+    layout = 'floating'
+    mobileMenuStyle = 'dropdown'
+
+  [params.footer]
+    showMenu = false
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = true
+    showScrollToTop = true
+
+  [params.homepage]
+    layout = 'page'
+    showRecent = true
+    showRecentItems = 9
+    showMoreLink = true
+    showMoreLinkDest = '/posts/'
+    cardView = true
+    cardViewScreenWidth = false
+
+  [params.article]
+    showDate = true
+    showDateUpdated = true
+    showAuthor = false
+    showHero = false
+    showBreadcrumbs = true
+    showDraftLabel = true
+    showHeadingAnchors = true
+    showPagination = true
+    showReadingTime = true
+    showReadingProgress = true
+    showTableOfContents = true
+    showTaxonomies = true
+    showCategories = true
+    showTags = true
+    showWordCount = false
+    showComments = true
+    sharingLinks = []
+
+  [params.list]
+    showHero = false
+    showBreadcrumbs = true
+    showSummary = true
+    showCards = true
+    groupByYear = false
+    cardView = true
+    cardViewScreenWidth = false
+    constrainItemsWidth = false
+
+  [params.taxonomy]
+    showTermCount = true
+    showBreadcrumbs = true
+    cardView = true
+
+  [params.term]
+    showBreadcrumbs = true
+    groupByYear = false
+    cardView = true
 
 [services.disqus]
   shortname = 'isoul-1'
@@ -33,35 +84,35 @@ theme = 'PaperMod'
 [menu]
   [[menu.main]]
     name = 'Notes'
-    url = '/posts/'
+    pageRef = '/posts'
     weight = 10
   [[menu.main]]
     name = 'Off the stack'
-    url = '/off-the-stack/'
+    pageRef = '/off-the-stack'
     weight = 15
   [[menu.main]]
     name = 'Media'
-    url = '/media/'
+    pageRef = '/media'
     weight = 17
   [[menu.main]]
     name = 'App shelf'
-    url = '/app-shelf/'
+    pageRef = '/app-shelf'
     weight = 20
   [[menu.main]]
     name = 'What’s new'
-    url = '/watchlist/'
+    pageRef = '/watchlist'
     weight = 30
   [[menu.main]]
     name = 'Projects'
-    url = '/projects/'
+    pageRef = '/projects'
     weight = 40
   [[menu.main]]
     name = 'Resources'
-    url = '/resources/'
+    pageRef = '/resources'
     weight = 50
   [[menu.main]]
     name = 'About'
-    url = '/about/'
+    pageRef = '/about'
     weight = 60
 
 [markup.goldmark.renderer]
