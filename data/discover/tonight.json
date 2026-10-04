@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T19:13:05+00:00",
+  "generated": "2026-10-04T19:36:12+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -18,37 +18,30 @@
           "name": "BBC One",
           "programmes": [
             {
-              "time": "18:15",
+              "time": "19:10",
               "title": "Strictly Come Dancing",
-              "episode": "Week 2",
+              "episode": "Week 2 Results",
               "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3770878/strictly-come-dancing-24x03-week-2"
+              "source_url": "https://www.tvmaze.com/episodes/3770880/strictly-come-dancing-24x04-week-2-results"
             },
             {
-              "time": "20:50",
-              "title": "Wisdom of the Crowd",
-              "episode": "Episode 3",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3771158/wisdom-of-the-crowd-1x03-episode-3"
+              "time": "20:00",
+              "title": "Antiques Roadshow",
+              "episode": "Caerphilly Castle 1",
+              "blurb": "New episode · History",
+              "source_url": "https://www.tvmaze.com/episodes/3772804/antiques-roadshow-49x06-caerphilly-castle-1"
             }
           ]
         },
         {
-          "name": "ITV1",
+          "name": "Channel 4",
           "programmes": [
             {
-              "time": "19:50",
-              "title": "Win Win with People's Postcode Lottery",
-              "episode": "Episode 2",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3772978/win-win-with-peoples-postcode-lottery-2x02-episode-2"
-            },
-            {
-              "time": "20:50",
-              "title": "The Voice UK",
-              "episode": "The Blind Auditions 6",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3772193/the-voice-uk-14x06-the-blind-auditions-6"
+              "time": "21:00",
+              "title": "Apocalypse",
+              "episode": "Episode 4",
+              "blurb": "New episode · Adventure",
+              "source_url": "https://www.tvmaze.com/episodes/3770267/apocalypse-1x04-episode-4"
             }
           ]
         },
@@ -58,16 +51,35 @@
             {
               "time": "19:25",
               "title": "5 News Weekend",
-              "episode": "Episode 78",
+              "episode": "Episode 79",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3731901/5-news-weekend-2026-10-03-episode-78"
+              "source_url": "https://www.tvmaze.com/episodes/3731902/5-news-weekend-2026-10-04-episode-79"
             },
             {
-              "time": "20:50",
-              "title": "Buckingham Palace: A Year in the Life",
-              "episode": "Spring",
+              "time": "20:00",
+              "title": "22 Kids and Counting",
+              "episode": "Welcome Distractions",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3771318/buckingham-palace-a-year-in-the-life-1x03-spring"
+              "source_url": "https://www.tvmaze.com/episodes/3775497/22-kids-and-counting-9x04-welcome-distractions"
+            }
+          ]
+        },
+        {
+          "name": "ITV2",
+          "programmes": [
+            {
+              "time": "21:00",
+              "title": "Big Brother",
+              "episode": "Episode 19",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3772869/big-brother-4x19-episode-19"
+            },
+            {
+              "time": "22:00",
+              "title": "Big Brother: The Group Chat",
+              "episode": "Episode 15",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3772874/big-brother-the-group-chat-1x15-episode-15"
             }
           ]
         },
@@ -75,23 +87,11 @@
           "name": "BBC Alba",
           "programmes": [
             {
-              "time": "20:00",
+              "time": "19:00",
               "title": "An Là",
-              "episode": "Episode 276",
+              "episode": "Episode 277",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774296/an-la-2026-10-03-episode-276"
-            }
-          ]
-        },
-        {
-          "name": "Sky History",
-          "programmes": [
-            {
-              "time": "22:03",
-              "title": "Mysteries From Above",
-              "episode": "Unexpected Naturally",
-              "blurb": "Series return",
-              "source_url": "https://www.tvmaze.com/episodes/3766645/mysteries-from-above-5x01-unexpected-naturally"
+              "source_url": "https://www.tvmaze.com/episodes/3774297/an-la-2026-10-04-episode-277"
             }
           ]
         }
@@ -100,41 +100,105 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
       "channels": [
+        {
+          "name": "ABC",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "America's Funniest Home Videos",
+              "episode": "Kitchen Klutzes, Wedding Blunders, and Animals Being Jerks",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3684581/americas-funniest-home-videos-37x02-kitchen-klutzes-wedding-blunders-and-animals-being-jerks"
+            }
+          ]
+        },
+        {
+          "name": "CBS",
+          "programmes": [
+            {
+              "time": "19:30",
+              "title": "60 Minutes",
+              "episode": "Who Needs Humans? | The Thom Tillis Tightrope | Saint Francis in the Cloud",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3768978/60-minutes-59x03-who-needs-humans-the-thom-tillis-tightrope-saint-francis-in-the-cloud"
+            },
+            {
+              "time": "20:30",
+              "title": "Marshals",
+              "episode": "All Hat No Cattle",
+              "blurb": "Series return · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3639716/marshals-2x01-all-hat-no-cattle"
+            },
+            {
+              "time": "21:30",
+              "title": "Tracker",
+              "episode": "Safe Harbor",
+              "blurb": "Series return · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3675940/tracker-4x01-safe-harbor"
+            }
+          ]
+        },
         {
           "name": "NBC",
           "programmes": [
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 3 Sat",
+              "episode": "Oct 4 Sun",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3779734/nbc-nightly-news-2026-10-03-oct-3-sat"
+              "source_url": "https://www.tvmaze.com/episodes/3779735/nbc-nightly-news-2026-10-04-oct-4-sun"
             },
             {
               "time": "19:00",
-              "title": "B1G College Countdown",
-              "episode": "From Los Angeles, CA",
+              "title": "Football Night in America",
+              "episode": "Week 4",
               "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3705910/b1g-college-countdown-4x04-from-los-angeles-ca"
+              "source_url": "https://www.tvmaze.com/episodes/3617923/football-night-in-america-21x05-week-4"
             },
             {
-              "time": "19:30",
-              "title": "Big Ten Saturday Night",
-              "episode": "Washington Huskies at USC Trojans",
+              "time": "20:20",
+              "title": "NBC Sunday Night Football",
+              "episode": "Detroit Lions at Carolina Panthers",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3705934/big-ten-saturday-night-4x04-washington-huskies-at-usc-trojans"
+              "source_url": "https://www.tvmaze.com/episodes/3617897/nbc-sunday-night-football-2026-10-04-detroit-lions-at-carolina-panthers"
+            }
+          ]
+        },
+        {
+          "name": "FOX",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "The Simpsons",
+              "episode": "Diary of a Chimpy Kid",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3765220/the-simpsons-38x02-diary-of-a-chimpy-kid"
             },
             {
-              "time": "23:29",
-              "title": "Saturday Night Live",
-              "episode": "Dakota Johnson / Turnstile",
-              "blurb": "New episode · Comedy · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3700598/saturday-night-live-52x02-dakota-johnson-turnstile"
+              "time": "20:31",
+              "title": "Animal Control",
+              "episode": "Crows and Lizard Legs",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3765168/animal-control-5x02-crows-and-lizard-legs"
+            },
+            {
+              "time": "21:00",
+              "title": "Universal Basic Guys",
+              "episode": "La Gloire Du Bouffon",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3765205/universal-basic-guys-3x02-la-gloire-du-bouffon"
+            },
+            {
+              "time": "21:31",
+              "title": "Grimsburg",
+              "episode": "Stanbiscuit",
+              "blurb": "New episode · Comedy · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3765214/grimsburg-3x02-stanbiscuit"
             }
           ]
         },
@@ -142,82 +206,11 @@
           "name": "PBS",
           "programmes": [
             {
-              "time": "23:00",
-              "title": "Austin City Limits",
-              "episode": "Sienna Spiro",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3769680/austin-city-limits-52x05-sienna-spiro"
-            }
-          ]
-        },
-        {
-          "name": "Fox News Channel",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "Life, Liberty & Levin",
-              "episode": "Episode 79",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3719302/life-liberty-levin-2026-10-03-episode-79"
-            },
-            {
               "time": "21:00",
-              "title": "My View with Lara Trump",
-              "episode": "Episode 40",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3719330/my-view-with-lara-trump-2026-10-03-episode-40"
-            },
-            {
-              "time": "22:00",
-              "title": "Fox News Saturday Night",
-              "episode": "Episode 40",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3719382/fox-news-saturday-night-2026-10-03-episode-40"
-            }
-          ]
-        },
-        {
-          "name": "National Geographic",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "Africa: Earth's Wild Home",
-              "episode": "Plains",
-              "blurb": "New episode · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3772663/africa-earths-wild-home-1x05-plains"
-            },
-            {
-              "time": "21:03",
-              "title": "Africa: Earth's Wild Home",
-              "episode": "Extremes",
-              "blurb": "New episode · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3772664/africa-earths-wild-home-1x06-extremes"
-            },
-            {
-              "time": "22:05",
-              "title": "Africa: Earth's Wild Home",
-              "episode": "Africa's Wild Future",
-              "blurb": "New episode · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3772665/africa-earths-wild-home-1x07-africas-wild-future"
-            }
-          ]
-        },
-        {
-          "name": "Me-TV",
-          "programmes": [
-            {
-              "time": "19:00",
-              "title": "Svengoolie",
-              "episode": "The Wizard Of Oz",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3775933/svengoolie-32x41-the-wizard-of-oz"
-            },
-            {
-              "time": "20:00",
-              "title": "Svengoolie",
-              "episode": "The Invisible Man Returns",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3775934/svengoolie-32x42-the-invisible-man-returns"
+              "title": "Marble Hall Murders",
+              "episode": "Episode 5",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3613723/marble-hall-murders-1x05-episode-5"
             }
           ]
         }
