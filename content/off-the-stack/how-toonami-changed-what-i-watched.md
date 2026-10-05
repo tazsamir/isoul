@@ -1,7 +1,6 @@
 ---
 title: "How Toonami Changed What I Watched"
 date: 2026-10-05
-draft: true
 description: "From Pokémon and Sailor Moon to Dragon Ball Z, Tenchi Muyo and Zoids: how television turned anime into something I actively looked for."
 tags:
   - anime
