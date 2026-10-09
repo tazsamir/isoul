@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T21:19:10+00:00",
+  "generated": "2026-10-09T20:53:17+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -20,16 +20,30 @@
             {
               "time": "20:00",
               "title": "The Celebrity Traitors",
-              "episode": "Episode 3",
+              "episode": "Episode 4",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3770849/the-celebrity-traitors-2x03-episode-3"
+              "source_url": "https://www.tvmaze.com/episodes/3770859/the-celebrity-traitors-2x04-episode-4"
             },
             {
               "time": "21:05",
               "title": "The Celebrity Traitors: Uncloaked",
-              "episode": "Episode 3",
+              "episode": "Episode 4",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3770848/the-celebrity-traitors-uncloaked-2x03-episode-3"
+              "source_url": "https://www.tvmaze.com/episodes/3770850/the-celebrity-traitors-uncloaked-2x04-episode-4"
+            },
+            {
+              "time": "21:30",
+              "title": "Have I Got News for You",
+              "episode": "Alex Jones, Chloe Petts, Tom Peck",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3771160/have-i-got-news-for-you-72x02-alex-jones-chloe-petts-tom-peck"
+            },
+            {
+              "time": "22:40",
+              "title": "The Graham Norton Show",
+              "episode": "Olivia Colman, Alexander Skarsgård, John Malkovich, Ayo Edebiri, Orville Peck",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3770613/the-graham-norton-show-34x03-olivia-colman-alexander-skarsgard-john-malkovich-ayo-edebiri-orville-peck"
             }
           ]
         },
@@ -39,28 +53,23 @@
             {
               "time": "18:00",
               "title": "House of Games",
-              "episode": "Week 2: Thursday",
+              "episode": "Week 2: Friday",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3770350/house-of-games-10x09-week-2-thursday"
+              "source_url": "https://www.tvmaze.com/episodes/3770351/house-of-games-10x10-week-2-friday"
             },
             {
               "time": "18:30",
               "title": "Strictly Come Dancing - It Takes Two",
-              "episode": "Episode 9",
+              "episode": "Episode 10",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3770917/strictly-come-dancing-it-takes-two-24x09-episode-9"
-            }
-          ]
-        },
-        {
-          "name": "ITV1",
-          "programmes": [
+              "source_url": "https://www.tvmaze.com/episodes/3770918/strictly-come-dancing-it-takes-two-24x10-episode-10"
+            },
             {
-              "time": "19:30",
-              "title": "Tonight",
-              "episode": "Buyer Beware: Retirement Properties",
+              "time": "20:00",
+              "title": "Gardeners' World",
+              "episode": "Episode 28",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3782583/tonight-2026-10-08-buyer-beware-retirement-properties"
+              "source_url": "https://www.tvmaze.com/episodes/3782592/gardeners-world-59x28-episode-28"
             }
           ]
         },
@@ -68,11 +77,32 @@
           "name": "Channel 4",
           "programmes": [
             {
-              "time": "21:05",
-              "title": "Taskmaster",
-              "episode": "To Void An Oblong",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3770247/taskmaster-22x06-to-void-an-oblong"
+              "time": "18:30",
+              "title": "Formula 1",
+              "episode": "F1 Singapore GP Sprint Qualifying... Highlights",
+              "blurb": "New episode · Sports",
+              "source_url": "https://www.tvmaze.com/episodes/3780658/formula-1-2026-10-09-f1-singapore-gp-sprint-qualifying-highlights"
+            },
+            {
+              "time": "20:00",
+              "title": "George Clarke's Amazing Spaces: First Home",
+              "episode": "Episode 4",
+              "blurb": "New episode · DIY",
+              "source_url": "https://www.tvmaze.com/episodes/3769863/george-clarkes-amazing-spaces-first-home-1x04-episode-4"
+            },
+            {
+              "time": "21:00",
+              "title": "Gogglebox",
+              "episode": "Episode 6",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3782596/gogglebox-28x06-episode-6"
+            },
+            {
+              "time": "22:00",
+              "title": "Live From The Lycett Arms",
+              "episode": "Episode 6",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3771224/live-from-the-lycett-arms-1x06-episode-6"
             }
           ]
         },
@@ -82,30 +112,42 @@
             {
               "time": "18:55",
               "title": "5 News at 18.55",
-              "episode": "Episode 199",
+              "episode": "Episode 200",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773584/5-news-at-1855-2026-10-08-episode-199"
-            },
-            {
-              "time": "19:00",
-              "title": "Sam & Ade Go Birding",
-              "episode": "Episode 2",
-              "blurb": "New episode · Adventure · Travel",
-              "source_url": "https://www.tvmaze.com/episodes/3774916/sam-ade-go-birding-2x02-episode-2"
+              "source_url": "https://www.tvmaze.com/episodes/3773585/5-news-at-1855-2026-10-09-episode-200"
             },
             {
               "time": "19:55",
               "title": "5 News at 19:55",
-              "episode": "Episode 199",
+              "episode": "Episode 200",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773613/5-news-at-1955-2026-10-08-episode-199"
+              "source_url": "https://www.tvmaze.com/episodes/3773614/5-news-at-1955-2026-10-09-episode-200"
             },
             {
               "time": "20:00",
-              "title": "The Yorkshire Vet",
-              "episode": "Episode 9",
-              "blurb": "New episode · Nature · Medical",
-              "source_url": "https://www.tvmaze.com/episodes/3770890/the-yorkshire-vet-23x09-episode-9"
+              "title": "Our Great Yorkshire Life",
+              "episode": "Episode 5",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3776570/our-great-yorkshire-life-4x05-episode-5"
+            },
+            {
+              "time": "21:05",
+              "title": "Play for Today",
+              "episode": "Closing Time",
+              "blurb": "New episode · Drama",
+              "source_url": "https://www.tvmaze.com/episodes/3771076/play-for-today-2x03-closing-time"
+            }
+          ]
+        },
+        {
+          "name": "BBC Alba",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "An Là",
+              "episode": "Episode 282",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3774302/an-la-2026-10-09-episode-282"
             }
           ]
         }
@@ -114,7 +156,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -125,16 +167,23 @@
             {
               "time": "18:30",
               "title": "ABC World News Tonight with David Muir",
-              "episode": "Episode 272",
+              "episode": "Episode 273",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3781549/abc-world-news-tonight-with-david-muir-2026-10-08-episode-272"
+              "source_url": "https://www.tvmaze.com/episodes/3781550/abc-world-news-tonight-with-david-muir-2026-10-09-episode-273"
             },
             {
-              "time": "23:35",
-              "title": "Jimmy Kimmel Live",
-              "episode": "Michael Douglas, Daisy Edgar-Jones, Remi Wolf, Sophia James",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3780148/jimmy-kimmel-live-2026-10-08-michael-douglas-daisy-edgar-jones-remi-wolf-sophia-james"
+              "time": "20:00",
+              "title": "Celebrity Wheel of Fortune",
+              "episode": "Lennon Parham, Cedric the Entertainer & Kevin Smith",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3771402/celebrity-wheel-of-fortune-7x02-lennon-parham-cedric-the-entertainer-kevin-smith"
+            },
+            {
+              "time": "21:00",
+              "title": "20/20",
+              "episode": "Born to Kill",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3784392/2020-2026-10-09-born-to-kill"
             }
           ]
         },
@@ -144,30 +193,30 @@
             {
               "time": "18:30",
               "title": "CBS Evening News",
-              "episode": "Episode 201",
+              "episode": "Episode 202",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3779704/cbs-evening-news-2026-10-08-episode-201"
+              "source_url": "https://www.tvmaze.com/episodes/3779705/cbs-evening-news-2026-10-09-episode-202"
             },
             {
               "time": "20:00",
-              "title": "Georgie & Mandy's First Marriage",
-              "episode": "Feminine Wiles and Some Tire Thing in Lubbock",
-              "blurb": "Series return · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3676275/georgie-mandys-first-marriage-3x01-feminine-wiles-and-some-tire-thing-in-lubbock"
+              "title": "Sheriff Country",
+              "episode": "Cyclone",
+              "blurb": "Series return · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3667889/sheriff-country-2x01-cyclone"
             },
             {
-              "time": "20:30",
-              "title": "Eternally Yours",
-              "episode": "Pilot",
-              "blurb": "New series · Comedy · Supernatural",
-              "source_url": "https://www.tvmaze.com/episodes/3667882/eternally-yours-1x01-pilot"
+              "time": "21:00",
+              "title": "Fire Country",
+              "episode": "Founders' Day",
+              "blurb": "Series return · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3676277/fire-country-5x01-founders-day"
             },
             {
-              "time": "21:02",
-              "title": "Elsbeth",
-              "episode": "Crazy in Love",
-              "blurb": "Series return · Drama · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3667886/elsbeth-4x01-crazy-in-love"
+              "time": "22:00",
+              "title": "Boston Blue",
+              "episode": "The Crash",
+              "blurb": "Series return · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3667887/boston-blue-2x01-the-crash"
             }
           ]
         },
@@ -177,49 +226,16 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 8 Thur",
+              "episode": "Oct 9 Fri",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3780765/nbc-nightly-news-2026-10-08-oct-8-thur"
-            },
-            {
-              "time": "20:00",
-              "title": "The Traitors",
-              "episode": "Wake of the Living Dead",
-              "blurb": "New episode · Action · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3772240/the-traitors-5x05-wake-of-the-living-dead"
+              "source_url": "https://www.tvmaze.com/episodes/3780767/nbc-nightly-news-2026-10-09-oct-9-fri"
             },
             {
               "time": "21:00",
-              "title": "Law & Order: Special Victims Unit",
-              "episode": "Volition",
-              "blurb": "Series return · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3652143/law-order-special-victims-unit-28x01-volition"
-            },
-            {
-              "time": "22:00",
-              "title": "Law & Order",
-              "episode": "Ghost in the Machine",
-              "blurb": "Series return · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3652144/law-order-26x01-ghost-in-the-machine"
-            }
-          ]
-        },
-        {
-          "name": "FOX",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "Hell's Kitchen",
-              "episode": "Sliding Into Hell",
-              "blurb": "New episode · Food",
-              "source_url": "https://www.tvmaze.com/episodes/3771427/hells-kitchen-25x03-sliding-into-hell"
-            },
-            {
-              "time": "21:02",
-              "title": "Special Forces: World's Toughest Test",
-              "episode": "Trust",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3771439/special-forces-worlds-toughest-test-5x03-trust"
+              "title": "Dateline NBC",
+              "episode": "Heartless",
+              "blurb": "New episode · Drama",
+              "source_url": "https://www.tvmaze.com/episodes/3784043/dateline-nbc-2026-10-09-heartless"
             }
           ]
         },
@@ -228,24 +244,64 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "This Old House",
-              "episode": "Essex County Colonial: Demolition Derby",
-              "blurb": "New episode · DIY",
-              "source_url": "https://www.tvmaze.com/episodes/3779709/this-old-house-48x02-essex-county-colonial-demolition-derby"
+              "title": "Washington Week with The Atlantic",
+              "episode": "Episode 6115",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3695589/washington-week-with-the-atlantic-2026-10-09-episode-6115"
             },
             {
               "time": "20:30",
-              "title": "Ask This Old House",
-              "episode": "Pull-Chain Upgrade; Sod Repair",
-              "blurb": "New episode · DIY",
-              "source_url": "https://www.tvmaze.com/episodes/3779710/ask-this-old-house-25x02-pull-chain-upgrade-sod-repair"
+              "title": "Firing Line with Margaret Hoover",
+              "episode": "Episode 1015",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3700579/firing-line-with-margaret-hoover-2026-10-09-episode-1015"
+            },
+            {
+              "time": "21:00",
+              "title": "Austin City Limits",
+              "episode": "Olivia Rodrigo",
+              "blurb": "New episode · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3776715/austin-city-limits-52x06-olivia-rodrigo"
             },
             {
               "time": "23:00",
               "title": "Amanpour & Co.",
-              "episode": "Episode 201",
+              "episode": "Episode 202",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774099/amanpour-co-2026-10-08-episode-201"
+              "source_url": "https://www.tvmaze.com/episodes/3774100/amanpour-co-2026-10-09-episode-202"
+            }
+          ]
+        },
+        {
+          "name": "Fox News Channel",
+          "programmes": [
+            {
+              "time": "18:00",
+              "title": "Special Report",
+              "episode": "Episode 202",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781517/special-report-2026-10-09-episode-202"
+            },
+            {
+              "time": "19:00",
+              "title": "The Ingraham Angle",
+              "episode": "Episode 202",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781401/the-ingraham-angle-2026-10-09-episode-202"
+            },
+            {
+              "time": "20:00",
+              "title": "Jesse Watters Primetime",
+              "episode": "Episode 202",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781584/jesse-watters-primetime-2026-10-09-episode-202"
+            },
+            {
+              "time": "21:00",
+              "title": "Hannity",
+              "episode": "Episode 202",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781606/hannity-2026-10-09-episode-202"
             }
           ]
         }
