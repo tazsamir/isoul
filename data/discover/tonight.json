@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T20:03:31+00:00",
+  "generated": "2026-10-11T20:15:32+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -18,25 +18,25 @@
           "name": "BBC One",
           "programmes": [
             {
-              "time": "18:15",
+              "time": "19:10",
               "title": "Strictly Come Dancing",
-              "episode": "Week 3",
+              "episode": "Week 3 Results",
               "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3777034/strictly-come-dancing-24x05-week-3"
+              "source_url": "https://www.tvmaze.com/episodes/3777038/strictly-come-dancing-24x06-week-3-results"
             },
             {
-              "time": "20:35",
-              "title": "Wisdom of the Crowd",
-              "episode": "Episode 4",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3782611/wisdom-of-the-crowd-1x04-episode-4"
+              "time": "20:00",
+              "title": "Antiques Roadshow",
+              "episode": "Dartington Estate 2",
+              "blurb": "New episode · History",
+              "source_url": "https://www.tvmaze.com/episodes/3783063/antiques-roadshow-49x07-dartington-estate-2"
             },
             {
               "time": "22:30",
               "title": "Match of the Day",
-              "episode": "10/10/2026",
+              "episode": "11/10/2026",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3782623/match-of-the-day-2026-10-10-10102026"
+              "source_url": "https://www.tvmaze.com/episodes/3782625/match-of-the-day-2026-10-11-11102026"
             }
           ]
         },
@@ -44,30 +44,11 @@
           "name": "BBC Two",
           "programmes": [
             {
-              "time": "20:40",
-              "title": "At the BBC",
-              "episode": "40 Hits of 1976 at the BBC",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3782600/at-the-bbc-2026-10-10-40-hits-of-1976-at-the-bbc"
-            }
-          ]
-        },
-        {
-          "name": "ITV1",
-          "programmes": [
-            {
-              "time": "19:30",
-              "title": "Win Win with People's Postcode Lottery",
-              "episode": "Episode 3",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3777780/win-win-with-peoples-postcode-lottery-2x03-episode-3"
-            },
-            {
-              "time": "20:35",
-              "title": "The Voice UK",
-              "episode": "The Battles 1",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3782626/the-voice-uk-14x07-the-battles-1"
+              "time": "22:00",
+              "title": "Later... with Jools Holland",
+              "episode": "Paul Heaton, Skye Newman, DC3, mary in the junkyard, Dermot Henry, Johnny Marr.",
+              "blurb": "Series return · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3783064/later-with-jools-holland-69x01-paul-heaton-skye-newman-dc3-mary-in-the-junkyard-dermot-henry-johnny-marr"
             }
           ]
         },
@@ -75,11 +56,11 @@
           "name": "Channel 4",
           "programmes": [
             {
-              "time": "18:00",
-              "title": "Formula 1",
-              "episode": "F1 Singapore GP Sprint Race... and Qualifying Highlights",
-              "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3780659/formula-1-2026-10-10-f1-singapore-gp-sprint-race-and-qualifying-highlights"
+              "time": "21:00",
+              "title": "Apocalypse",
+              "episode": "Episode 5",
+              "blurb": "New episode · Adventure",
+              "source_url": "https://www.tvmaze.com/episodes/3774327/apocalypse-1x05-episode-5"
             }
           ]
         },
@@ -89,16 +70,35 @@
             {
               "time": "19:25",
               "title": "5 News Weekend",
-              "episode": "Episode 80",
+              "episode": "Episode 81",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773670/5-news-weekend-2026-10-10-episode-80"
+              "source_url": "https://www.tvmaze.com/episodes/3773671/5-news-weekend-2026-10-11-episode-81"
             },
             {
-              "time": "20:35",
-              "title": "Buckingham Palace: A Year in the Life",
-              "episode": "Autumn",
+              "time": "20:00",
+              "title": "22 Kids and Counting",
+              "episode": "Two Kids & Counting",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3778681/buckingham-palace-a-year-in-the-life-1x04-autumn"
+              "source_url": "https://www.tvmaze.com/episodes/3783067/22-kids-and-counting-9x05-two-kids-counting"
+            }
+          ]
+        },
+        {
+          "name": "ITV2",
+          "programmes": [
+            {
+              "time": "21:00",
+              "title": "Big Brother",
+              "episode": "Episode 25",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781775/big-brother-4x25-episode-25"
+            },
+            {
+              "time": "22:00",
+              "title": "Big Brother: The Group Chat",
+              "episode": "Episode 20",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781780/big-brother-the-group-chat-1x20-episode-20"
             }
           ]
         }
@@ -107,103 +107,110 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
       "channels": [
         {
-          "name": "NBC",
+          "name": "ABC",
           "programmes": [
             {
               "time": "19:00",
-              "title": "B1G College Countdown",
-              "episode": "From University Park, PA",
-              "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3705945/b1g-college-countdown-4x05-from-university-park-pa"
-            },
-            {
-              "time": "19:30",
-              "title": "Big Ten Saturday Night",
-              "episode": "USC Trojans at Penn State Nittany Lions",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3705935/big-ten-saturday-night-4x05-usc-trojans-at-penn-state-nittany-lions"
-            },
-            {
-              "time": "23:29",
-              "title": "Saturday Night Live",
-              "episode": "Shane Gillis / Rosalía",
-              "blurb": "New episode · Comedy · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3700599/saturday-night-live-52x03-shane-gillis-rosalia"
+              "title": "America's Funniest Home Videos",
+              "episode": "Family Squabbles, Squirrely, and The Red, White, and Bruised",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3775531/americas-funniest-home-videos-37x03-family-squabbles-squirrely-and-the-red-white-and-bruised"
             }
           ]
         },
         {
-          "name": "CNN",
+          "name": "CBS",
+          "programmes": [
+            {
+              "time": "19:00",
+              "title": "60 Minutes",
+              "episode": "In the Line of Fire | Lost Sheep | Jon Batiste",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3787699/60-minutes-59x04-in-the-line-of-fire-lost-sheep-jon-batiste"
+            },
+            {
+              "time": "20:00",
+              "title": "Marshals",
+              "episode": "End of Watch",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3684559/marshals-2x02-end-of-watch"
+            },
+            {
+              "time": "21:00",
+              "title": "Tracker",
+              "episode": "Switchback",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3684563/tracker-4x02-switchback"
+            }
+          ]
+        },
+        {
+          "name": "NBC",
+          "programmes": [
+            {
+              "time": "18:30",
+              "title": "NBC Nightly News",
+              "episode": "Oct 11 Sun",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3784282/nbc-nightly-news-2026-10-11-oct-11-sun"
+            },
+            {
+              "time": "19:00",
+              "title": "Football Night in America",
+              "episode": "Week 5",
+              "blurb": "New episode · Sports",
+              "source_url": "https://www.tvmaze.com/episodes/3617924/football-night-in-america-21x06-week-5"
+            },
+            {
+              "time": "20:20",
+              "title": "NBC Sunday Night Football",
+              "episode": "Baltimore Ravens at Atlanta Falcons",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3617898/nbc-sunday-night-football-2026-10-11-baltimore-ravens-at-atlanta-falcons"
+            }
+          ]
+        },
+        {
+          "name": "PBS",
           "programmes": [
             {
               "time": "21:00",
-              "title": "Have I Got News for You",
-              "episode": "Larry Wilmore, Rosebud Baker",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3761735/have-i-got-news-for-you-5x04-larry-wilmore-rosebud-baker"
+              "title": "Marble Hall Murders",
+              "episode": "Episode 6",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3613724/marble-hall-murders-1x06-episode-6"
+            }
+          ]
+        },
+        {
+          "name": "HBO",
+          "programmes": [
+            {
+              "time": "21:00",
+              "title": "The Pet Cemetery Murders: A Ghost Story",
+              "episode": "Episode 1",
+              "blurb": "New series · Crime · Supernatural",
+              "source_url": "https://www.tvmaze.com/episodes/3780113/the-pet-cemetery-murders-a-ghost-story-1x01-episode-1"
             },
             {
               "time": "22:00",
-              "title": "The Detour with David Chang",
-              "episode": " Pittsburgh to Philly with Gillian Jacobs",
-              "blurb": "New episode · Food · Travel",
-              "source_url": "https://www.tvmaze.com/episodes/3747140/the-detour-with-david-chang-1x05-pittsburgh-to-philly-with-gillian-jacobs"
-            }
-          ]
-        },
-        {
-          "name": "Me-TV",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "Svengoolie",
-              "episode": "Munster Go Home",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3775935/svengoolie-32x43-munster-go-home"
+              "title": "Youth",
+              "episode": "The Holiday",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3716950/youth-1x05-the-holiday"
             },
             {
-              "time": "22:30",
-              "title": "Svengoolie",
-              "episode": "Berserk",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3775936/svengoolie-32x44-berserk"
-            }
-          ]
-        },
-        {
-          "name": "REELZ",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "On Patrol: First Shift",
-              "episode": "#524",
-              "blurb": "New episode · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3774892/on-patrol-first-shift-5x24-524"
-            },
-            {
-              "time": "21:00",
-              "title": "On Patrol: Live",
-              "episode": "#524",
-              "blurb": "New episode · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3774894/on-patrol-live-5x24-524"
-            }
-          ]
-        },
-        {
-          "name": "Adult Swim",
-          "programmes": [
-            {
-              "time": "23:59",
-              "title": "Get Jiro",
-              "episode": "The Ortolan",
-              "blurb": "New episode · Action · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3780522/get-jiro-1x03-the-ortolan"
+              "time": "23:00",
+              "title": "Last Week Tonight with John Oliver",
+              "episode": "Episode 26",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3784772/last-week-tonight-with-john-oliver-13x26-episode-26"
             }
           ]
         }
