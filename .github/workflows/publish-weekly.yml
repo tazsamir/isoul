@@ -22,6 +22,11 @@ concurrency:
 
 jobs:
   publish:
+    outputs:
+      has_article: ${{ steps.article.outputs.has_article }}
+      slug: ${{ steps.article.outputs.slug }}
+      title: ${{ steps.article.outputs.title }}
+      next_slug: ${{ steps.article.outputs.next_slug }}
     if: github.event_name == 'schedule' || inputs.publish == true
     environment:
       name: github-pages
@@ -82,12 +87,16 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
+  verify:
+    needs: publish
+    if: needs.publish.outputs.has_article == 'true'
+    runs-on: ubuntu-latest
+    steps:
       - name: Verify the live article
-        if: steps.article.outputs.has_article == 'true'
         env:
-          SLUG: ${{ steps.article.outputs.slug }}
-          TITLE: ${{ steps.article.outputs.title }}
-          NEXT_SLUG: ${{ steps.article.outputs.next_slug }}
+          SLUG: ${{ needs.publish.outputs.slug }}
+          TITLE: ${{ needs.publish.outputs.title }}
+          NEXT_SLUG: ${{ needs.publish.outputs.next_slug }}
         run: |
           article_url="https://isoul.uk/off-the-stack/$SLUG/"
           landing_url="https://isoul.uk/off-the-stack/"
