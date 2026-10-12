@@ -12,11 +12,11 @@ tags:
 
 > **Previously on isoul.uk:** [How Toonami Changed What I Watched](/off-the-stack/how-toonami-changed-what-i-watched/) — television opened the door before the internet showed me how much anime existed beyond the British schedules.
 
-I had watched Japanese animation for years without thinking too much about the label. *Pokémon* was *Pokémon*. *Sailor Moon* was another programme on television. Studio Ghibli films were films.
+That next phase began with *Naruto*.
 
-Toonami made anime feel like a distinct thing, but *Naruto* was the point when somebody effectively said to me, "This is anime. Watch this."
+Toonami had taught me to recognise anime as something distinct, but *Naruto* was the point when somebody effectively said to me, "This is anime. Watch this."
 
-That somebody was my brother. We started watching it online, and I fell in properly.
+That somebody was my brother. We started watching it online, beyond whatever British television happened to schedule, and I fell in properly.
 
 ## Naruto and whatever site still worked
 
