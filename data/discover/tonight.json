@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T20:15:32+00:00",
+  "generated": "2026-10-12T22:58:05+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -18,25 +18,11 @@
           "name": "BBC One",
           "programmes": [
             {
-              "time": "19:10",
-              "title": "Strictly Come Dancing",
-              "episode": "Week 3 Results",
-              "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3777038/strictly-come-dancing-24x06-week-3-results"
-            },
-            {
               "time": "20:00",
-              "title": "Antiques Roadshow",
-              "episode": "Dartington Estate 2",
-              "blurb": "New episode · History",
-              "source_url": "https://www.tvmaze.com/episodes/3783063/antiques-roadshow-49x07-dartington-estate-2"
-            },
-            {
-              "time": "22:30",
-              "title": "Match of the Day",
-              "episode": "11/10/2026",
+              "title": "Panorama",
+              "episode": "Roman Abramovich: How He Hid His Fortune",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3782625/match-of-the-day-2026-10-11-11102026"
+              "source_url": "https://www.tvmaze.com/episodes/3783095/panorama-2026-10-12-roman-abramovich-how-he-hid-his-fortune"
             }
           ]
         },
@@ -44,11 +30,32 @@
           "name": "BBC Two",
           "programmes": [
             {
-              "time": "22:00",
-              "title": "Later... with Jools Holland",
-              "episode": "Paul Heaton, Skye Newman, DC3, mary in the junkyard, Dermot Henry, Johnny Marr.",
-              "blurb": "Series return · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3783064/later-with-jools-holland-69x01-paul-heaton-skye-newman-dc3-mary-in-the-junkyard-dermot-henry-johnny-marr"
+              "time": "18:00",
+              "title": "House of Games",
+              "episode": "Week 3: Monday",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3777039/house-of-games-10x11-week-3-monday"
+            },
+            {
+              "time": "18:30",
+              "title": "Strictly Come Dancing - It Takes Two",
+              "episode": "Episode 11",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3777019/strictly-come-dancing-it-takes-two-24x11-episode-11"
+            },
+            {
+              "time": "19:00",
+              "title": "Global Eye",
+              "episode": "Canada: A Nation Divided?",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781737/global-eye-2026-10-12-canada-a-nation-divided"
+            },
+            {
+              "time": "19:30",
+              "title": "Mastermind",
+              "episode": "Episode 12",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3783579/mastermind-2026-10-12-episode-12"
             }
           ]
         },
@@ -56,11 +63,11 @@
           "name": "Channel 4",
           "programmes": [
             {
-              "time": "21:00",
-              "title": "Apocalypse",
-              "episode": "Episode 5",
-              "blurb": "New episode · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3774327/apocalypse-1x05-episode-5"
+              "time": "20:00",
+              "title": "Jamie's 20 Minute Meals",
+              "episode": "Episode 3",
+              "blurb": "New episode · Food",
+              "source_url": "https://www.tvmaze.com/episodes/3783100/jamies-20-minute-meals-1x03-episode-3"
             }
           ]
         },
@@ -68,18 +75,32 @@
           "name": "Channel 5",
           "programmes": [
             {
-              "time": "19:25",
-              "title": "5 News Weekend",
-              "episode": "Episode 81",
+              "time": "18:55",
+              "title": "5 News at 18.55",
+              "episode": "Episode 201",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773671/5-news-weekend-2026-10-11-episode-81"
+              "source_url": "https://www.tvmaze.com/episodes/3773586/5-news-at-1855-2026-10-12-episode-201"
+            },
+            {
+              "time": "19:55",
+              "title": "5 News at 19:55",
+              "episode": "Episode 201",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3773615/5-news-at-1955-2026-10-12-episode-201"
             },
             {
               "time": "20:00",
-              "title": "22 Kids and Counting",
-              "episode": "Two Kids & Counting",
+              "title": "Traffic Cops: Elite Squad One",
+              "episode": "Episode 2",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3783067/22-kids-and-counting-9x05-two-kids-counting"
+              "source_url": "https://www.tvmaze.com/episodes/3776666/traffic-cops-elite-squad-one-2x02-episode-2"
+            },
+            {
+              "time": "21:00",
+              "title": "Michael Palin in the Philippines",
+              "episode": "Episode 3",
+              "blurb": "New episode · Adventure · Travel",
+              "source_url": "https://www.tvmaze.com/episodes/3768358/michael-palin-in-the-philippines-1x03-episode-3"
             }
           ]
         },
@@ -89,16 +110,16 @@
             {
               "time": "21:00",
               "title": "Big Brother",
-              "episode": "Episode 25",
+              "episode": "Episode 26",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3781775/big-brother-4x25-episode-25"
+              "source_url": "https://www.tvmaze.com/episodes/3785705/big-brother-4x26-episode-26"
             },
             {
               "time": "22:00",
               "title": "Big Brother: The Group Chat",
-              "episode": "Episode 20",
+              "episode": "Episode 21",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3781780/big-brother-the-group-chat-1x20-episode-20"
+              "source_url": "https://www.tvmaze.com/episodes/3785692/big-brother-the-group-chat-1x21-episode-21"
             }
           ]
         }
@@ -107,7 +128,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -116,11 +137,18 @@
           "name": "ABC",
           "programmes": [
             {
-              "time": "19:00",
-              "title": "America's Funniest Home Videos",
-              "episode": "Family Squabbles, Squirrely, and The Red, White, and Bruised",
-              "blurb": "New episode · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3775531/americas-funniest-home-videos-37x03-family-squabbles-squirrely-and-the-red-white-and-bruised"
+              "time": "18:30",
+              "title": "ABC World News Tonight with David Muir",
+              "episode": "Episode 275",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3787760/abc-world-news-tonight-with-david-muir-2026-10-12-episode-275"
+            },
+            {
+              "time": "23:35",
+              "title": "Jimmy Kimmel Live",
+              "episode": "Josh Brolin, William Shatner, Brad Paisley, Adryon de León",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3784361/jimmy-kimmel-live-2026-10-12-josh-brolin-william-shatner-brad-paisley-adryon-de-leon"
             }
           ]
         },
@@ -128,25 +156,32 @@
           "name": "CBS",
           "programmes": [
             {
-              "time": "19:00",
-              "title": "60 Minutes",
-              "episode": "In the Line of Fire | Lost Sheep | Jon Batiste",
+              "time": "18:30",
+              "title": "CBS Evening News",
+              "episode": "Episode 203",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3787699/60-minutes-59x04-in-the-line-of-fire-lost-sheep-jon-batiste"
+              "source_url": "https://www.tvmaze.com/episodes/3785644/cbs-evening-news-2026-10-12-episode-203"
             },
             {
               "time": "20:00",
-              "title": "Marshals",
-              "episode": "End of Watch",
+              "title": "FBI",
+              "episode": "Omissions",
               "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3684559/marshals-2x02-end-of-watch"
+              "source_url": "https://www.tvmaze.com/episodes/3767919/fbi-9x02-omissions"
             },
             {
               "time": "21:00",
-              "title": "Tracker",
-              "episode": "Switchback",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3684563/tracker-4x02-switchback"
+              "title": "CIA",
+              "episode": "Dead Drop",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3767961/cia-2x02-dead-drop"
+            },
+            {
+              "time": "22:00",
+              "title": "Harlan Coben's Final Twist",
+              "episode": "A Mother's Crusade",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3767969/harlan-cobens-final-twist-2x02-a-mothers-crusade"
             }
           ]
         },
@@ -156,23 +191,42 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 11 Sun",
+              "episode": "Oct 12 Mon",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3784282/nbc-nightly-news-2026-10-11-oct-11-sun"
+              "source_url": "https://www.tvmaze.com/episodes/3784283/nbc-nightly-news-2026-10-12-oct-12-mon"
             },
             {
-              "time": "19:00",
-              "title": "Football Night in America",
-              "episode": "Week 5",
-              "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3617924/football-night-in-america-21x06-week-5"
+              "time": "20:00",
+              "title": "The Voice",
+              "episode": "The Battles Premiere",
+              "blurb": "New episode · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3652519/the-voice-30x07-the-battles-premiere"
             },
             {
-              "time": "20:20",
-              "title": "NBC Sunday Night Football",
-              "episode": "Baltimore Ravens at Atlanta Falcons",
+              "time": "22:00",
+              "title": "Line of Fire",
+              "episode": "Paper Trails",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3654226/line-of-fire-1x04-paper-trails"
+            }
+          ]
+        },
+        {
+          "name": "FOX",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "Name That Tune",
+              "episode": "It's a '90s Halloween",
+              "blurb": "New episode · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3776711/name-that-tune-6x06-its-a-90s-halloween"
+            },
+            {
+              "time": "21:01",
+              "title": "Celebrity Weakest Link",
+              "episode": "Fright Night",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3617898/nbc-sunday-night-football-2026-10-11-baltimore-ravens-at-atlanta-falcons"
+              "source_url": "https://www.tvmaze.com/episodes/3706056/celebrity-weakest-link-2x04-fright-night"
             }
           ]
         },
@@ -180,37 +234,18 @@
           "name": "PBS",
           "programmes": [
             {
-              "time": "21:00",
-              "title": "Marble Hall Murders",
-              "episode": "Episode 6",
-              "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3613724/marble-hall-murders-1x06-episode-6"
-            }
-          ]
-        },
-        {
-          "name": "HBO",
-          "programmes": [
-            {
-              "time": "21:00",
-              "title": "The Pet Cemetery Murders: A Ghost Story",
-              "episode": "Episode 1",
-              "blurb": "New series · Crime · Supernatural",
-              "source_url": "https://www.tvmaze.com/episodes/3780113/the-pet-cemetery-murders-a-ghost-story-1x01-episode-1"
-            },
-            {
               "time": "22:00",
-              "title": "Youth",
-              "episode": "The Holiday",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3716950/youth-1x05-the-holiday"
+              "title": "Voces",
+              "episode": "Paquito D'Rivera: From Carne y Frijol to Carnegie Hall",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3725404/voces-2026-10-12-paquito-drivera-from-carne-y-frijol-to-carnegie-hall"
             },
             {
               "time": "23:00",
-              "title": "Last Week Tonight with John Oliver",
-              "episode": "Episode 26",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3784772/last-week-tonight-with-john-oliver-13x26-episode-26"
+              "title": "Amanpour & Co.",
+              "episode": "Episode 203",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3774101/amanpour-co-2026-10-12-episode-203"
             }
           ]
         }
