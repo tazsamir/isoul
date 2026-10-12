@@ -35,7 +35,11 @@ if [[ -z "$title" ]]; then
   exit 1
 fi
 
-sed -i '/^draft: true$/d' "$article_file"
+publication_date=$(date -u +%Y-%m-%d)
+sed -i \
+  -e '/^draft: true$/d' \
+  -e "s/^date: .*/date: $publication_date/" \
+  "$article_file"
 
 next_slug=""
 seen_current=false
