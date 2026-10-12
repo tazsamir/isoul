@@ -10,6 +10,8 @@ tags:
   - personal
 ---
 
+> **Previous:** [Goblet of Fire Is Where Harry Potter's World Opens Up](/media/harry-potter-goblet-of-fire-full-cast-audiobook/)
+
 ## The life around the main story
 
 *Harry Potter and the Order of the Phoenix* follows Harry through his fifth year at Hogwarts after Voldemort's return. Much of the wizarding world does not want to believe him. The Ministry begins interfering heavily with Hogwarts, Harry becomes increasingly isolated and angry, and the school year turns into a mixture of exams, politics, friendships, rumours, punishment and resistance. At the same time, strange dreams and visions seem to connect him more closely to Voldemort.
@@ -105,3 +107,5 @@ I still think wizarding society should spend more time researching a reliable de
 This is where my biggest feeling about the film returns. The film tells the main story, but the book tells the life around it. It has Ron and Hermione as prefects, Ron's Quidditch crisis, Ginny becoming a person in her own right, Dobby finding the Room of Requirement, St Mungo's, Neville's parents, the full Snape memory, a proper Harry and Cho relationship, the O.W.L. year, Firenze teaching Divination, the Quibbler plot, Harry trying to contact Sirius and Dumbledore fully admitting his mistakes. The film arrives at roughly the same destination. The book makes the journey matter.
 
 *Order of the Phoenix* is about Voldemort's return, but also institutions refusing reality, teenagers dealing with grief, adults making mistakes while trying to protect children, school pressure, propaganda, power and resistance. Somehow it is still incredibly funny. Fred and George, Peeves, Ron, Luna, McGonagall, Dobby and the ridiculous portraits keep Hogwarts alive while everything around Harry gets darker. The ending is painful, especially Sirius's death, but Luna's thoughts about the Veil give it a quiet softness. People may be gone from here. That does not necessarily mean they are gone entirely.
+
+> **Next:** [Harry Potter and the Half-Blood Prince — The Magic Grows Up](/media/harry-potter-half-blood-prince-full-cast-audiobook/)

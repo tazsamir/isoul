@@ -1,5 +1,5 @@
 ---
-title: "Mushoku Tensei Season 3: The World Keeps Moving Beyond Rudeus"
+title: "Mushoku Tensei Season 3, Part 1: The World Keeps Moving Beyond Rudeus"
 date: 2026-10-01
 description: "The quiet episodes, returning characters and Oldeus show why every Turning Point in Mushoku Tensei hurts so much."
 comments: true
@@ -81,4 +81,4 @@ Season 3's first part has had almost everything I like about the series: Eris fi
 
 Whenever I see the words **Turning Point** now, I know I am about to have a bad time.
 
-I cannot wait.
+I cannot wait for Part 2.

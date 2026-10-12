@@ -65,3 +65,5 @@ But arriving late has its own pleasure. I get to revisit a world I recognise and
 The next book is *Goblet of Fire*, where I am told the distance between book and film becomes much greater.
 
 This time, I won't be ignoring the recommendation.
+
+> **Next:** [Goblet of Fire Is Where Harry Potter's World Opens Up](/media/harry-potter-goblet-of-fire-full-cast-audiobook/)

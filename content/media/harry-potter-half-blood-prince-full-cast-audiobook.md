@@ -12,6 +12,8 @@ tags:
 
 > **Major spoilers for *Harry Potter and the Half-Blood Prince*, with references to later Harry Potter instalments, follow.**
 
+> **Previous:** [Order of the Phoenix Is About the Life Around the Story](/media/order-of-the-phoenix-audiobook-thoughts-final/)
+
 I've finished *Harry Potter and the Half-Blood Prince*, and I'm not ready to rank it. It's still lingering in my head.
 
 I fell in love with the original sense of magic: discovering Hogwarts, meeting its ghosts, learning about strange lessons and hidden passages, and watching three children find their place in an extraordinary world. I still love the smaller details — Nearly Headless Nick's Deathday Party, Peeves creating chaos, Filch secretly trying to learn magic, and all those little corners of Hogwarts the films never had time to explore.

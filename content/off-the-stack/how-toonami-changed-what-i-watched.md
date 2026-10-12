@@ -73,7 +73,7 @@ If these few programmes were reaching British television, what else was out ther
 
 ## Then the gate moved online
 
-By around 2007, broadcasters were no longer my only guide. I went from watching anime that happened to appear on television to deliberately searching for it online. That next phase deserves its own story.
+By around 2007, broadcasters were no longer my only guide. I went from watching anime that happened to appear on television to deliberately searching for it online. That next phase continues in [*Discovering Anime on the Wild Internet of 2007*](/off-the-stack/discovering-anime-on-the-wild-internet-of-2007/).
 
 ## Looking back
 

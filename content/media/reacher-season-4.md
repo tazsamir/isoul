@@ -22,7 +22,7 @@ Every season resets the board with a different place, mystery, police force, gro
 
 That suits him far better than giving him a permanent office, a regular police department or the same people around him every year. He is a drifter. He walks into somebody else's world, understands it remarkably quickly, breaks whatever system is causing the problem and then leaves.
 
-Season 4 has been especially good at making the people in that world interesting. The dynamic between Reacher and the two police officers is one of the strongest parts of the season because they are competent enough to stand on their own and challenge him. Their conversations are much better than they would be if the officers simply followed Reacher around while he solved everything.
+Season 4 was especially good at making the people in that world interesting. The dynamic between Reacher and the two police officers is one of the strongest parts of the season because they are competent enough to stand on their own and challenge him. Their conversations are much better than they would be if the officers simply followed Reacher around while he solved everything.
 
 They understand the place; Reacher notices the things they have learnt to ignore. That balance works.
 

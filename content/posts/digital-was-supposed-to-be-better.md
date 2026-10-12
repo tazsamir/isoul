@@ -292,6 +292,12 @@ Gabe Newell's point was about providing a good service. Make the legitimate opti
 
 Digital was supposed to be better because it was easier. It still can be, but convenience without durability is temporary. If companies want people to keep paying for digital products, those products must remain worth trusting.
 
+## Related reading
+
+- [Why digital ownership matters](/posts/digital-ownership-matters/)
+- [How I Watch Without Hoarding](/posts/how-i-watch-without-hoarding/)
+- [The Quiet Work Behind Owning Your Media](/posts/the-quiet-work-behind-owning-your-media/)
+
 ## Sources
 
 [^newell]: [IGN, "Gabe Says Piracy Isn't About Price", 25 November 2011](https://www.ign.com/articles/2011/11/25/gabe-says-piracy-isnt-about-price)

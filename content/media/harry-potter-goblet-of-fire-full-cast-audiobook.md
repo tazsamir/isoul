@@ -12,6 +12,8 @@ tags:
 
 > **Major spoilers for *Harry Potter and the Goblet of Fire* follow.**
 
+> **Previous:** [It Only Took Me Twenty-Odd Years to Listen to Harry Potter](/off-the-stack/it-only-took-me-twenty-odd-years-to-listen-to-harry-potter/)
+
 I have finished the full-cast audiobook of *Harry Potter and the Goblet of Fire*, and this might be the book where I finally understood how much the films had to leave behind.
 
 I knew the main story, of course. The Triwizard Tournament, the graveyard, Voldemort's return: none of that was new to me. What surprised me was how much life exists between those events. There are more conversations, more side stories and much more time inside Harry's head. Hogwarts feels busy in a way it rarely does on screen.
@@ -107,3 +109,5 @@ The film keeps the main events. The book gives those events a world to happen in
 I loved *Prisoner of Azkaban*, but *Goblet of Fire* opens everything up. Harry feels more human, Hermione is bolder, Sirius has a history, Dobby becomes a proper recurring friend and Dumbledore finally sounds like the person everyone says he is.
 
 And now, whenever somebody says "wands at the ready", I want that Auror spin-off all over again.
+
+> **Next:** [Order of the Phoenix Is About the Life Around the Story](/media/order-of-the-phoenix-audiobook-thoughts-final/)
