@@ -10,7 +10,7 @@ tags:
   - personal
 ---
 
-> **Previously on iSoul:** [*Goblet of Fire* Is Where Harry Potter's World Opens Up](/media/harry-potter-goblet-of-fire-full-cast-audiobook/) — the full-cast audiobook made Harry feel more human, Hogwarts feel busier and the wizarding world far larger than it does in the film.
+> **Previously on iSoul:** [*Harry Potter and the Half-Blood Prince* — The Magic Grows Up](/media/harry-potter-half-blood-prince-full-cast-audiobook/) — the full-cast audiobook brought out the story's humour, relationships and gathering darkness before the final journey.
 
 Seven books later, I've finally finished Harry Potter.
 
