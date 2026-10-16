@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T19:53:14+00:00",
+  "generated": "2026-10-16T19:33:07+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -20,16 +20,30 @@
             {
               "time": "20:00",
               "title": "The Celebrity Traitors",
-              "episode": "Episode 5",
+              "episode": "Episode 6",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3777027/the-celebrity-traitors-2x05-episode-5"
+              "source_url": "https://www.tvmaze.com/episodes/3777028/the-celebrity-traitors-2x06-episode-6"
             },
             {
               "time": "21:05",
               "title": "The Celebrity Traitors: Uncloaked",
-              "episode": "Episode 5",
+              "episode": "Episode 6",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3777029/the-celebrity-traitors-uncloaked-2x05-episode-5"
+              "source_url": "https://www.tvmaze.com/episodes/3777030/the-celebrity-traitors-uncloaked-2x06-episode-6"
+            },
+            {
+              "time": "21:30",
+              "title": "Have I Got News for You",
+              "episode": "Jason Manford, Janet Street-Porter",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3777199/have-i-got-news-for-you-72x03-jason-manford-janet-street-porter"
+            },
+            {
+              "time": "22:40",
+              "title": "The Graham Norton Show",
+              "episode": "Quentin Tarantino, Ellen DeGeneres, Colin Farrell, Gemma Chan, Suede",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3777499/the-graham-norton-show-34x04-quentin-tarantino-ellen-degeneres-colin-farrell-gemma-chan-suede"
             }
           ]
         },
@@ -39,28 +53,23 @@
             {
               "time": "18:00",
               "title": "House of Games",
-              "episode": "Week 3: Thursday",
+              "episode": "Week 3: Friday",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3777042/house-of-games-10x14-week-3-thursday"
+              "source_url": "https://www.tvmaze.com/episodes/3777043/house-of-games-10x15-week-3-friday"
             },
             {
               "time": "18:30",
               "title": "Strictly Come Dancing - It Takes Two",
-              "episode": "Episode 14",
+              "episode": "Episode 15",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3777022/strictly-come-dancing-it-takes-two-24x14-episode-14"
-            }
-          ]
-        },
-        {
-          "name": "ITV1",
-          "programmes": [
+              "source_url": "https://www.tvmaze.com/episodes/3777024/strictly-come-dancing-it-takes-two-24x15-episode-15"
+            },
             {
-              "time": "19:30",
-              "title": "Tonight",
-              "episode": "How to Stay Fit as You Age",
+              "time": "20:00",
+              "title": "Gardeners' World",
+              "episode": "Episode 29",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3784867/tonight-2026-10-15-how-to-stay-fit-as-you-age"
+              "source_url": "https://www.tvmaze.com/episodes/3782593/gardeners-world-59x29-episode-29"
             }
           ]
         },
@@ -68,11 +77,18 @@
           "name": "Channel 4",
           "programmes": [
             {
-              "time": "21:05",
-              "title": "Taskmaster",
-              "episode": "The Oldest I've Ever Looked",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3777354/taskmaster-22x07-the-oldest-ive-ever-looked"
+              "time": "21:00",
+              "title": "Gogglebox",
+              "episode": "Episode 7",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3787290/gogglebox-28x07-episode-7"
+            },
+            {
+              "time": "22:05",
+              "title": "The Last Leg",
+              "episode": "Ellie Taylor, Tim Minchin",
+              "blurb": "Series return · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3787295/the-last-leg-35x01-ellie-taylor-tim-minchin"
             }
           ]
         },
@@ -82,30 +98,42 @@
             {
               "time": "18:55",
               "title": "5 News at 18.55",
-              "episode": "Episode 204",
+              "episode": "Episode 205",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773589/5-news-at-1855-2026-10-15-episode-204"
-            },
-            {
-              "time": "19:00",
-              "title": "Sam & Ade Go Birding",
-              "episode": "Episode 3",
-              "blurb": "New episode · Adventure · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3788498/sam-ade-go-birding-2x03-episode-3"
+              "source_url": "https://www.tvmaze.com/episodes/3773590/5-news-at-1855-2026-10-16-episode-205"
             },
             {
               "time": "19:55",
               "title": "5 News at 19:55",
-              "episode": "Episode 204",
+              "episode": "Episode 205",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773618/5-news-at-1955-2026-10-15-episode-204"
+              "source_url": "https://www.tvmaze.com/episodes/3773619/5-news-at-1955-2026-10-16-episode-205"
             },
             {
               "time": "20:00",
-              "title": "The Yorkshire Vet",
-              "episode": "Episode 10",
-              "blurb": "New episode · Nature · Medical",
-              "source_url": "https://www.tvmaze.com/episodes/3785669/the-yorkshire-vet-23x10-episode-10"
+              "title": "Our Great Yorkshire Life",
+              "episode": "Episode 6",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3776571/our-great-yorkshire-life-4x06-episode-6"
+            },
+            {
+              "time": "21:00",
+              "title": "Play for Today",
+              "episode": "The Quiet Hour",
+              "blurb": "New episode · Drama",
+              "source_url": "https://www.tvmaze.com/episodes/3778941/play-for-today-2x04-the-quiet-hour"
+            }
+          ]
+        },
+        {
+          "name": "BBC Alba",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "An Là",
+              "episode": "Episode 289",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3774309/an-la-2026-10-16-episode-289"
             }
           ]
         }
@@ -114,7 +142,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -125,30 +153,23 @@
             {
               "time": "18:30",
               "title": "ABC World News Tonight with David Muir",
-              "episode": "Episode 278",
+              "episode": "Episode 279",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3787763/abc-world-news-tonight-with-david-muir-2026-10-15-episode-278"
+              "source_url": "https://www.tvmaze.com/episodes/3787764/abc-world-news-tonight-with-david-muir-2026-10-16-episode-279"
             },
             {
               "time": "20:00",
-              "title": "9-1-1",
-              "episode": "That Sinking Feeling",
-              "blurb": "Series return · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3684583/9-1-1-10x01-that-sinking-feeling"
+              "title": "Celebrity Wheel of Fortune",
+              "episode": "Kimberly Perry, Lisa Loeb & Ally Brooke",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3771315/celebrity-wheel-of-fortune-7x03-kimberly-perry-lisa-loeb-ally-brooke"
             },
             {
               "time": "21:00",
-              "title": "9-1-1: Nashville",
-              "episode": "Going Rogue",
-              "blurb": "Series return · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3684584/9-1-1-nashville-2x01-going-rogue"
-            },
-            {
-              "time": "22:00",
-              "title": "Grey's Anatomy",
-              "episode": "Collide",
-              "blurb": "Series return · Drama · Romance",
-              "source_url": "https://www.tvmaze.com/episodes/3684585/greys-anatomy-23x01-collide"
+              "title": "20/20",
+              "episode": "The Suitcase Murders",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3789873/2020-2026-10-16-the-suitcase-murders"
             }
           ]
         },
@@ -158,30 +179,30 @@
             {
               "time": "18:30",
               "title": "CBS Evening News",
-              "episode": "Episode 206",
+              "episode": "Episode 207",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3785647/cbs-evening-news-2026-10-15-episode-206"
+              "source_url": "https://www.tvmaze.com/episodes/3785648/cbs-evening-news-2026-10-16-episode-207"
             },
             {
               "time": "20:00",
-              "title": "Georgie & Mandy's First Marriage",
-              "episode": "A Serious Journalist and Your Brain on Drugs",
-              "blurb": "New episode · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3763204/georgie-mandys-first-marriage-3x02-a-serious-journalist-and-your-brain-on-drugs"
-            },
-            {
-              "time": "20:31",
-              "title": "Eternally Yours",
-              "episode": "Baby Vampire",
-              "blurb": "New episode · Comedy · Supernatural",
-              "source_url": "https://www.tvmaze.com/episodes/3767962/eternally-yours-1x02-baby-vampire"
+              "title": "Sheriff Country",
+              "episode": "Family Trust",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3717483/sheriff-country-2x02-family-trust"
             },
             {
               "time": "21:00",
-              "title": "Elsbeth",
-              "episode": "Death of a Playwright",
-              "blurb": "New episode · Drama · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3767923/elsbeth-4x02-death-of-a-playwright"
+              "title": "Fire Country",
+              "episode": "Fire Under Fire",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3725350/fire-country-5x02-fire-under-fire"
+            },
+            {
+              "time": "22:00",
+              "title": "Boston Blue",
+              "episode": "Ripple Effect",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3767960/boston-blue-2x02-ripple-effect"
             }
           ]
         },
@@ -191,49 +212,16 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 15 Thur",
+              "episode": "Oct 16 Fri",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3784286/nbc-nightly-news-2026-10-15-oct-15-thur"
-            },
-            {
-              "time": "20:00",
-              "title": "The Traitors",
-              "episode": "A Murder of Necessity",
-              "blurb": "New episode · Action · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3772247/the-traitors-5x06-a-murder-of-necessity"
+              "source_url": "https://www.tvmaze.com/episodes/3784287/nbc-nightly-news-2026-10-16-oct-16-fri"
             },
             {
               "time": "21:00",
-              "title": "Law & Order: Special Victims Unit",
-              "episode": "Midway",
-              "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3768256/law-order-special-victims-unit-28x02-midway"
-            },
-            {
-              "time": "22:00",
-              "title": "Law & Order",
-              "episode": "Into the Mystic",
-              "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3773117/law-order-26x02-into-the-mystic"
-            }
-          ]
-        },
-        {
-          "name": "FOX",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "Hell's Kitchen",
-              "episode": "Hell's Kitchen University",
-              "blurb": "New episode · Food",
-              "source_url": "https://www.tvmaze.com/episodes/3776712/hells-kitchen-25x04-hells-kitchen-university"
-            },
-            {
-              "time": "21:02",
-              "title": "Special Forces: World's Toughest Test",
-              "episode": "Leadership",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3776721/special-forces-worlds-toughest-test-5x04-leadership"
+              "title": "Dateline NBC",
+              "episode": "The Betrayal of Kirby Carpenter",
+              "blurb": "New episode · Drama",
+              "source_url": "https://www.tvmaze.com/episodes/3789729/dateline-nbc-2026-10-16-the-betrayal-of-kirby-carpenter"
             }
           ]
         },
@@ -241,11 +229,58 @@
           "name": "PBS",
           "programmes": [
             {
+              "time": "20:00",
+              "title": "Washington Week with The Atlantic",
+              "episode": "Episode 6116",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3695590/washington-week-with-the-atlantic-2026-10-16-episode-6116"
+            },
+            {
+              "time": "20:30",
+              "title": "Firing Line with Margaret Hoover",
+              "episode": "Episode 1016",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3700580/firing-line-with-margaret-hoover-2026-10-16-episode-1016"
+            },
+            {
               "time": "23:00",
               "title": "Amanpour & Co.",
-              "episode": "Episode 206",
+              "episode": "Episode 207",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774104/amanpour-co-2026-10-15-episode-206"
+              "source_url": "https://www.tvmaze.com/episodes/3774105/amanpour-co-2026-10-16-episode-207"
+            }
+          ]
+        },
+        {
+          "name": "Fox News Channel",
+          "programmes": [
+            {
+              "time": "18:00",
+              "title": "Special Report",
+              "episode": "Episode 207",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781522/special-report-2026-10-16-episode-207"
+            },
+            {
+              "time": "19:00",
+              "title": "The Ingraham Angle",
+              "episode": "Episode 207",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781406/the-ingraham-angle-2026-10-16-episode-207"
+            },
+            {
+              "time": "20:00",
+              "title": "Jesse Watters Primetime",
+              "episode": "Episode 207",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781589/jesse-watters-primetime-2026-10-16-episode-207"
+            },
+            {
+              "time": "21:00",
+              "title": "Hannity",
+              "episode": "Episode 207",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3781611/hannity-2026-10-16-episode-207"
             }
           ]
         }
