@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T18:29:29+00:00",
+  "generated": "2026-10-18T18:37:50+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -18,25 +18,32 @@
           "name": "BBC One",
           "programmes": [
             {
-              "time": "18:15",
-              "title": "Strictly Come Dancing",
-              "episode": "Week 4",
-              "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3783567/strictly-come-dancing-24x07-week-4"
+              "time": "19:00",
+              "title": "Countryfile",
+              "episode": "Yr Wyddfa",
+              "blurb": "New episode · Nature",
+              "source_url": "https://www.tvmaze.com/episodes/3791470/countryfile-38x42-yr-wyddfa"
             },
             {
-              "time": "20:35",
-              "title": "Wisdom of the Crowd",
-              "episode": "Episode 5",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3787664/wisdom-of-the-crowd-1x05-episode-5"
+              "time": "19:10",
+              "title": "Strictly Come Dancing",
+              "episode": "Week 4 Results",
+              "blurb": "New episode · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3783568/strictly-come-dancing-24x08-week-4-results"
+            },
+            {
+              "time": "20:00",
+              "title": "Antiques Roadshow",
+              "episode": "Valentines Mansion and Gardens 2",
+              "blurb": "New episode · History",
+              "source_url": "https://www.tvmaze.com/episodes/3789876/antiques-roadshow-49x08-valentines-mansion-and-gardens-2"
             },
             {
               "time": "22:30",
               "title": "Match of the Day",
-              "episode": "17/10/2026",
+              "episode": "18/10/2026",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3787683/match-of-the-day-2026-10-17-17102026"
+              "source_url": "https://www.tvmaze.com/episodes/3787684/match-of-the-day-2026-10-18-18102026"
             }
           ]
         },
@@ -44,30 +51,30 @@
           "name": "BBC Two",
           "programmes": [
             {
-              "time": "20:35",
-              "title": "At the BBC",
-              "episode": "Forty Hits of 1986 at the BBC",
+              "time": "22:00",
+              "title": "Later... with Jools Holland",
+              "episode": "Royal Blood, DJ Shygirl, Kingfishr, Ayanna Witter-Johnson, Tony Iommi",
               "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3787681/at-the-bbc-2026-10-17-forty-hits-of-1986-at-the-bbc"
+              "source_url": "https://www.tvmaze.com/episodes/3786596/later-with-jools-holland-69x02-royal-blood-dj-shygirl-kingfishr-ayanna-witter-johnson-tony-iommi"
             }
           ]
         },
         {
-          "name": "ITV1",
+          "name": "Channel 4",
           "programmes": [
             {
-              "time": "19:30",
-              "title": "Win Win with People's Postcode Lottery",
-              "episode": "Episode 4",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3785398/win-win-with-peoples-postcode-lottery-2x04-episode-4"
+              "time": "20:00",
+              "title": "Kevin McCloud's Classic Car Road Trips",
+              "episode": "Episode 1",
+              "blurb": "New series",
+              "source_url": "https://www.tvmaze.com/episodes/3789881/kevin-mcclouds-classic-car-road-trips-1x01-episode-1"
             },
             {
-              "time": "20:35",
-              "title": "The Voice UK",
-              "episode": "The Battles 2",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3787706/the-voice-uk-14x08-the-battles-2"
+              "time": "21:00",
+              "title": "Apocalypse",
+              "episode": "Episode 6",
+              "blurb": "New episode · Adventure",
+              "source_url": "https://www.tvmaze.com/episodes/3782403/apocalypse-1x06-episode-6"
             }
           ]
         },
@@ -77,21 +84,35 @@
             {
               "time": "19:25",
               "title": "5 News Weekend",
-              "episode": "Episode 82",
+              "episode": "Episode 83",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773672/5-news-weekend-2026-10-17-episode-82"
+              "source_url": "https://www.tvmaze.com/episodes/3773673/5-news-weekend-2026-10-18-episode-83"
+            },
+            {
+              "time": "20:00",
+              "title": "22 Kids and Counting",
+              "episode": "22 Lessons About Parenting",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3783068/22-kids-and-counting-9x06-22-lessons-about-parenting"
             }
           ]
         },
         {
-          "name": "BBC Alba",
+          "name": "ITV2",
           "programmes": [
             {
-              "time": "20:00",
-              "title": "An Là",
-              "episode": "Episode 290",
+              "time": "21:00",
+              "title": "Big Brother",
+              "episode": "Episode 31",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774310/an-la-2026-10-17-episode-290"
+              "source_url": "https://www.tvmaze.com/episodes/3785710/big-brother-4x31-episode-31"
+            },
+            {
+              "time": "22:00",
+              "title": "Big Brother: The Group Chat",
+              "episode": "Episode 25",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3785696/big-brother-the-group-chat-1x25-episode-25"
             }
           ]
         }
@@ -100,34 +121,46 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
       "channels": [
         {
+          "name": "ABC",
+          "programmes": [
+            {
+              "time": "19:00",
+              "title": "America's Funniest Home Videos",
+              "episode": "Dorky Dads, Birthday Blunders, and Ka-Ching!",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3787066/americas-funniest-home-videos-37x04-dorky-dads-birthday-blunders-and-ka-ching"
+            }
+          ]
+        },
+        {
           "name": "CBS",
           "programmes": [
             {
-              "time": "20:00",
-              "title": "Things That Matter",
-              "episode": "A Town Hall with Vice President JD Vance I",
+              "time": "19:30",
+              "title": "60 Minutes",
+              "episode": "The Vote | Up in the Air | Sacha Baron Cohen",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3783426/things-that-matter-1x06-a-town-hall-with-vice-president-jd-vance-i"
+              "source_url": "https://www.tvmaze.com/episodes/3790285/60-minutes-59x05-the-vote-up-in-the-air-sacha-baron-cohen"
             },
             {
-              "time": "21:00",
-              "title": "48 Hours",
-              "episode": "The Corn Rake Witness",
-              "blurb": "Series return · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3684677/48-hours-39x01-the-corn-rake-witness"
-            },
-            {
-              "time": "22:00",
-              "title": "48 Hours",
-              "episode": "The Detective and the Chewing Gum Sting",
+              "time": "20:30",
+              "title": "Marshals",
+              "episode": "Falling Sky",
               "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3788654/48-hours-39x02-the-detective-and-the-chewing-gum-sting"
+              "source_url": "https://www.tvmaze.com/episodes/3762942/marshals-2x03-falling-sky"
+            },
+            {
+              "time": "21:30",
+              "title": "Tracker",
+              "episode": "Original Parts",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3769676/tracker-4x03-original-parts"
             }
           ]
         },
@@ -137,9 +170,56 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 17 Sat",
+              "episode": "Oct 18 Sun",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3784288/nbc-nightly-news-2026-10-17-oct-17-sat"
+              "source_url": "https://www.tvmaze.com/episodes/3789957/nbc-nightly-news-2026-10-18-oct-18-sun"
+            },
+            {
+              "time": "19:00",
+              "title": "Football Night in America",
+              "episode": "Week 6",
+              "blurb": "New episode · Sports",
+              "source_url": "https://www.tvmaze.com/episodes/3617925/football-night-in-america-21x07-week-6"
+            },
+            {
+              "time": "20:20",
+              "title": "NBC Sunday Night Football",
+              "episode": "Dallas Cowboys at Green Bay Packers",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3617899/nbc-sunday-night-football-2026-10-18-dallas-cowboys-at-green-bay-packers"
+            }
+          ]
+        },
+        {
+          "name": "FOX",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "The Simpsons",
+              "episode": "Treehouse of Horror Presents: The Revengening",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3773294/the-simpsons-38x03-treehouse-of-horror-presents-the-revengening"
+            },
+            {
+              "time": "20:31",
+              "title": "Animal Control",
+              "episode": "Bugs and Rabid Dogs",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3772081/animal-control-5x03-bugs-and-rabid-dogs"
+            },
+            {
+              "time": "21:00",
+              "title": "Universal Basic Guys",
+              "episode": "Lake Piney",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3776771/universal-basic-guys-3x03-lake-piney"
+            },
+            {
+              "time": "21:31",
+              "title": "Grimsburg",
+              "episode": "Breaking Badly",
+              "blurb": "New episode · Comedy · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3773296/grimsburg-3x03-breaking-badly"
             }
           ]
         },
@@ -147,56 +227,11 @@
           "name": "PBS",
           "programmes": [
             {
-              "time": "23:00",
-              "title": "Austin City Limits",
-              "episode": "Ari Lennox",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3782846/austin-city-limits-52x07-ari-lennox"
-            }
-          ]
-        },
-        {
-          "name": "CNN",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "The Whole Story with Anderson Cooper",
-              "episode": "MAGA Ever After?",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3788660/the-whole-story-with-anderson-cooper-4x14-maga-ever-after"
-            },
-            {
               "time": "21:00",
-              "title": "Have I Got News for You",
-              "episode": "Josh Gondelman, Adam Mockler",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3761736/have-i-got-news-for-you-5x05-josh-gondelman-adam-mockler"
-            },
-            {
-              "time": "22:00",
-              "title": "The Detour with David Chang",
-              "episode": "Miami to Key West with Eric Andre",
-              "blurb": "New episode · Food · Travel",
-              "source_url": "https://www.tvmaze.com/episodes/3747138/the-detour-with-david-chang-1x06-miami-to-key-west-with-eric-andre"
-            }
-          ]
-        },
-        {
-          "name": "Me-TV",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "Svengoolie",
-              "episode": "Invasion Of The Body Snatchers",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3775938/svengoolie-32x45-invasion-of-the-body-snatchers"
-            },
-            {
-              "time": "22:30",
-              "title": "Svengoolie",
-              "episode": "This Island Earth",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3775939/svengoolie-32x46-this-island-earth"
+              "title": "Maigret",
+              "episode": "Episode 1: \"The Hanged Man\" – Part 1\"",
+              "blurb": "Series return · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3681166/maigret-2x01-episode-1-the-hanged-man-part-1"
             }
           ]
         }
