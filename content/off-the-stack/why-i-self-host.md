@@ -1,7 +1,6 @@
 ---
 title: "Why I Self-Host"
-date: 2026-10-26
-draft: true
+date: 2026-10-19
 description: "Self-hosting started as a technical hobby, but ownership, privacy, learning and keeping my own data are why I keep doing it."
 tags:
   - self-hosting
