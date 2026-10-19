@@ -1,7 +1,6 @@
 ---
 title: "From Veoh and Justin.tv to Self-Hosting My Own Media"
-date: 2026-11-02
-draft: true
+date: 2026-10-19
 description: "From hunting for anime on the 2007 web to running Jellyfin and my own media services at home."
 tags:
   - self-hosting
