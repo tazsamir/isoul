@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T19:59:50+00:00",
+  "generated": "2026-10-21T20:09:12+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -19,10 +19,17 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "DIY SOS",
-              "episode": "Building a Future for Macsen",
-              "blurb": "New episode · DIY",
-              "source_url": "https://www.tvmaze.com/episodes/3783635/diy-sos-34x05-building-a-future-for-macsen"
+              "title": "The Repair Shop: Beyond the Barn",
+              "episode": "Episode 8",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3790296/the-repair-shop-beyond-the-barn-1x08-episode-8"
+            },
+            {
+              "time": "22:40",
+              "title": "UEFA Champions League Highlights",
+              "episode": "Match of the Day: Matchday 3",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3784841/uefa-champions-league-highlights-2026-10-21-match-of-the-day-matchday-3"
             }
           ]
         },
@@ -32,28 +39,9 @@
             {
               "time": "18:30",
               "title": "Strictly Come Dancing - It Takes Two",
-              "episode": "Episode 17",
+              "episode": "Episode 18",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3783571/strictly-come-dancing-it-takes-two-24x17-episode-17"
-            },
-            {
-              "time": "21:30",
-              "title": "Saving Lives at Sea",
-              "episode": "Young Surf Hero",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3789923/saving-lives-at-sea-11x10-young-surf-hero"
-            }
-          ]
-        },
-        {
-          "name": "ITV1",
-          "programmes": [
-            {
-              "time": "21:00",
-              "title": "Unbelievable Moments Caught on Camera",
-              "episode": "Episode 3",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3790206/unbelievable-moments-caught-on-camera-2026-10-20-episode-3"
+              "source_url": "https://www.tvmaze.com/episodes/3783572/strictly-come-dancing-it-takes-two-24x18-episode-18"
             }
           ]
         },
@@ -62,24 +50,17 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "The Great British Bake Off",
-              "episode": "Dessert Week",
-              "blurb": "New episode · Food",
-              "source_url": "https://www.tvmaze.com/episodes/3783214/the-great-british-bake-off-17x05-dessert-week"
+              "title": "Location, Location, Location",
+              "episode": "Berkshire",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3791047/location-location-location-46x05-berkshire"
             },
             {
-              "time": "21:15",
-              "title": "Tempting Fortune",
-              "episode": "Episode 5",
-              "blurb": "New episode · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3783215/tempting-fortune-3x05-episode-5"
-            },
-            {
-              "time": "22:15",
-              "title": "The Great British Bake Off: Second Helpings",
-              "episode": "Episode 5",
-              "blurb": "New episode · Food",
-              "source_url": "https://www.tvmaze.com/episodes/3783216/the-great-british-bake-off-second-helpings-1x05-episode-5"
+              "time": "21:00",
+              "title": "Grand Designs",
+              "episode": "Revisit: Bletchley 2026",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3784843/grand-designs-28x06-revisit-bletchley-2026"
             }
           ]
         },
@@ -89,30 +70,49 @@
             {
               "time": "18:55",
               "title": "5 News at 18.55",
-              "episode": "Episode 207",
+              "episode": "Episode 208",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773592/5-news-at-1855-2026-10-20-episode-207"
+              "source_url": "https://www.tvmaze.com/episodes/3773593/5-news-at-1855-2026-10-21-episode-208"
             },
             {
               "time": "19:55",
               "title": "5 News at 19:55",
-              "episode": "Episode 207",
+              "episode": "Episode 208",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773621/5-news-at-1955-2026-10-20-episode-207"
+              "source_url": "https://www.tvmaze.com/episodes/3773622/5-news-at-1955-2026-10-21-episode-208"
             },
             {
               "time": "20:00",
-              "title": "The Motorway Cops: Catching Britain's Speeders",
-              "episode": "Episode 3",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3790204/the-motorway-cops-catching-britains-speeders-11x03-episode-3"
+              "title": "The Incident Room",
+              "episode": "Cop Killer",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3791048/the-incident-room-3x04-cop-killer"
             },
             {
               "time": "21:00",
-              "title": "Ben Fogle: New Lives in the Wild",
-              "episode": "Norway",
-              "blurb": "New episode · Adventure · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3783637/ben-fogle-new-lives-in-the-wild-22x08-norway"
+              "title": "Cause of Death",
+              "episode": "Episode 4",
+              "blurb": "New episode · Medical",
+              "source_url": "https://www.tvmaze.com/episodes/3783641/cause-of-death-4x04-episode-4"
+            }
+          ]
+        },
+        {
+          "name": "ITV2",
+          "programmes": [
+            {
+              "time": "21:00",
+              "title": "Big Brother",
+              "episode": "Episode 34",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3785713/big-brother-4x34-episode-34"
+            },
+            {
+              "time": "22:00",
+              "title": "Big Brother: The Group Chat",
+              "episode": "Episode 28",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3785699/big-brother-the-group-chat-1x28-episode-28"
             }
           ]
         }
@@ -121,7 +121,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -132,23 +132,23 @@
             {
               "time": "18:30",
               "title": "ABC World News Tonight with David Muir",
-              "episode": "Episode 282",
+              "episode": "Episode 283",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3791777/abc-world-news-tonight-with-david-muir-2026-10-20-episode-282"
+              "source_url": "https://www.tvmaze.com/episodes/3791778/abc-world-news-tonight-with-david-muir-2026-10-21-episode-283"
             },
             {
               "time": "20:00",
-              "title": "Dancing with the Stars",
-              "episode": "Dedication Night",
-              "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3710815/dancing-with-the-stars-35x07-dedication-night"
+              "title": "Scrubs",
+              "episode": "My Best Friend's Birthday",
+              "blurb": "New episode · Drama · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3694636/scrubs-2x05-my-best-friends-birthday"
             },
             {
-              "time": "22:01",
-              "title": "R.J. Decker",
-              "episode": "Blame It on the Rain",
-              "blurb": "New episode · Drama · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3770145/rj-decker-2x06-blame-it-on-the-rain"
+              "time": "20:30",
+              "title": "Abbott Elementary",
+              "episode": "Tryouts",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3778667/abbott-elementary-6x03-tryouts"
             }
           ]
         },
@@ -158,30 +158,23 @@
             {
               "time": "18:30",
               "title": "CBS Evening News",
-              "episode": "Episode 209",
+              "episode": "Episode 210",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3790250/cbs-evening-news-2026-10-20-episode-209"
+              "source_url": "https://www.tvmaze.com/episodes/3790251/cbs-evening-news-2026-10-21-episode-210"
             },
             {
               "time": "20:00",
-              "title": "NCIS",
-              "episode": "Sleeping Dogs",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3776713/ncis-24x03-sleeping-dogs"
+              "title": "Survivor",
+              "episode": "Not Here to Get a Pedicure",
+              "blurb": "New episode · Adventure",
+              "source_url": "https://www.tvmaze.com/episodes/3711573/survivor-51x05-not-here-to-get-a-pedicure"
             },
             {
-              "time": "21:00",
-              "title": "NCIS: New York",
-              "episode": "Carousel",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3779724/ncis-new-york-1x03-carousel"
-            },
-            {
-              "time": "22:00",
-              "title": "NCIS: Origins",
-              "episode": "Return of the Mack",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3694626/ncis-origins-3x03-return-of-the-mack"
+              "time": "21:30",
+              "title": "The Amazing Race",
+              "episode": "That's Honestly on Them",
+              "blurb": "New episode · Action · Adventure",
+              "source_url": "https://www.tvmaze.com/episodes/3711579/the-amazing-race-39x05-thats-honestly-on-them"
             }
           ]
         },
@@ -189,32 +182,32 @@
           "name": "NBC",
           "programmes": [
             {
-              "time": "18:00",
+              "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 20 Tue",
+              "episode": "Oct 21 Wed",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3789959/nbc-nightly-news-2026-10-20-oct-20-tue"
+              "source_url": "https://www.tvmaze.com/episodes/3789960/nbc-nightly-news-2026-10-21-oct-21-wed"
             },
             {
-              "time": "19:00",
-              "title": "Coast 2 Coast Tuesday",
-              "episode": "Philadelphia 76ers at New York Knicks",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3710963/coast-2-coast-tuesday-2x02-philadelphia-76ers-at-new-york-knicks"
+              "time": "20:00",
+              "title": "Chicago Med",
+              "episode": "They Call Me Ms. Goodwin",
+              "blurb": "New episode · Drama · Medical",
+              "source_url": "https://www.tvmaze.com/episodes/3781555/chicago-med-12x03-they-call-me-ms-goodwin"
             },
             {
-              "time": "21:30",
-              "title": "Coast 2 Coast Tuesday",
-              "episode": "Oklahoma City Thunder at San Antonio Spurs",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3710964/coast-2-coast-tuesday-2x03-oklahoma-city-thunder-at-san-antonio-spurs"
+              "time": "21:00",
+              "title": "Chicago Fire",
+              "episode": "Take the Hit",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3781570/chicago-fire-15x03-take-the-hit"
             },
             {
-              "time": "23:59",
-              "title": "The Tonight Show Starring Jimmy Fallon",
-              "episode": "Sacha Baron Cohen, KJ Apa, Beck",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3788642/the-tonight-show-starring-jimmy-fallon-2026-10-20-sacha-baron-cohen-kj-apa-beck"
+              "time": "22:00",
+              "title": "Chicago P.D.",
+              "episode": "Under the Surface",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3781553/chicago-pd-14x03-under-the-surface"
             }
           ]
         },
@@ -223,17 +216,17 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "Best Medicine",
-              "episode": "Hare Today, Gone Tomorrow",
-              "blurb": "New episode · Drama · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3768313/best-medicine-2x05-hare-today-gone-tomorrow"
+              "title": "The Floor",
+              "episode": "A Gamble for Glory",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3711563/the-floor-6x05-a-gamble-for-glory"
             },
             {
-              "time": "21:00",
-              "title": "Doc",
-              "episode": "S.O.S",
-              "blurb": "New episode · Drama · Medical",
-              "source_url": "https://www.tvmaze.com/episodes/3743457/doc-3x05-sos"
+              "time": "21:02",
+              "title": "99 to Beat",
+              "episode": "50 Down, 50 to Go!",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3711570/99-to-beat-2x05-50-down-50-to-go"
             }
           ]
         },
@@ -241,18 +234,32 @@
           "name": "PBS",
           "programmes": [
             {
+              "time": "20:00",
+              "title": "Nature",
+              "episode": "Tiger Island, Part I",
+              "blurb": "New episode · Nature",
+              "source_url": "https://www.tvmaze.com/episodes/3647150/nature-45x02-tiger-island-part-i"
+            },
+            {
+              "time": "21:00",
+              "title": "NOVA",
+              "episode": "Evolution: Need to Feed",
+              "blurb": "New episode · Nature · History",
+              "source_url": "https://www.tvmaze.com/episodes/3667106/nova-53x14-evolution-need-to-feed"
+            },
+            {
               "time": "22:00",
-              "title": "Frontline",
-              "episode": "Haiti Deportation Crisis",
-              "blurb": "New episode · Drama",
-              "source_url": "https://www.tvmaze.com/episodes/3784356/frontline-2026-10-20-haiti-deportation-crisis"
+              "title": "Secrets of the Dead",
+              "episode": "Raising Lady Liberty",
+              "blurb": "New episode · Drama · Mystery",
+              "source_url": "https://www.tvmaze.com/episodes/3698078/secrets-of-the-dead-23x06-raising-lady-liberty"
             },
             {
               "time": "23:00",
               "title": "Amanpour & Co.",
-              "episode": "Episode 209",
+              "episode": "Episode 210",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774107/amanpour-co-2026-10-20-episode-209"
+              "source_url": "https://www.tvmaze.com/episodes/3774108/amanpour-co-2026-10-21-episode-210"
             }
           ]
         }
