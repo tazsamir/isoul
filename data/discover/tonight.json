@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T19:02:29+00:00",
+  "generated": "2026-10-26T21:00:12+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,53 +9,41 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
       "channels": [
         {
-          "name": "BBC One",
-          "programmes": [
-            {
-              "time": "19:00",
-              "title": "Countryfile",
-              "episode": "Countryfile Ramble for BBC Children in Need - 2026",
-              "blurb": "New episode · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3791471/countryfile-38x43-countryfile-ramble-for-bbc-children-in-need-2026"
-            },
-            {
-              "time": "19:10",
-              "title": "Strictly Come Dancing",
-              "episode": "Week 5 Results",
-              "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3790901/strictly-come-dancing-24x10-week-5-results"
-            },
-            {
-              "time": "20:00",
-              "title": "Antiques Roadshow",
-              "episode": "Bangor Castle 1",
-              "blurb": "New episode · History",
-              "source_url": "https://www.tvmaze.com/episodes/3789877/antiques-roadshow-49x09-bangor-castle-1"
-            },
-            {
-              "time": "22:30",
-              "title": "Match of the Day",
-              "episode": "25/10/2026",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3793681/match-of-the-day-2026-10-25-25102026"
-            }
-          ]
-        },
-        {
           "name": "BBC Two",
           "programmes": [
             {
-              "time": "22:00",
-              "title": "Later... with Jools Holland",
-              "episode": "Dexys Midnight Runners, Courtney Barnett, Madra Salach, Ibibio Sound Machine, Mulaa Joans, Elkie Brooks",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3791154/later-with-jools-holland-69x03-dexys-midnight-runners-courtney-barnett-madra-salach-ibibio-sound-machine-mulaa-joans-elkie-brooks"
+              "time": "18:30",
+              "title": "Strictly Come Dancing - It Takes Two",
+              "episode": "Episode 21",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3790902/strictly-come-dancing-it-takes-two-24x21-episode-21"
+            },
+            {
+              "time": "19:00",
+              "title": "Global Eye",
+              "episode": "Yemen's Frontline City",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3795757/global-eye-2026-10-26-yemens-frontline-city"
+            },
+            {
+              "time": "19:30",
+              "title": "Mastermind",
+              "episode": "Episode 14",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3790154/mastermind-2026-10-26-episode-14"
+            },
+            {
+              "time": "20:00",
+              "title": "Only Connect",
+              "episode": "Meat and Two Veg v Creepy Crawleys",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3790155/only-connect-22x16-meat-and-two-veg-v-creepy-crawleys"
             }
           ]
         },
@@ -64,17 +52,10 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "Kevin McCloud's Classic Car Road Trips",
-              "episode": "Episode 2",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3793704/kevin-mcclouds-classic-car-road-trips-1x02-episode-2"
-            },
-            {
-              "time": "21:00",
-              "title": "Apocalypse",
-              "episode": "Episode 7",
-              "blurb": "New episode · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3788468/apocalypse-1x07-episode-7"
+              "title": "Jamie's 20 Minute Meals",
+              "episode": "Episode 5",
+              "blurb": "New episode · Food",
+              "source_url": "https://www.tvmaze.com/episodes/3793321/jamies-20-minute-meals-1x05-episode-5"
             }
           ]
         },
@@ -82,11 +63,58 @@
           "name": "Channel 5",
           "programmes": [
             {
-              "time": "19:25",
-              "title": "5 News Weekend",
-              "episode": "Episode 85",
+              "time": "18:55",
+              "title": "5 News at 18.55",
+              "episode": "Episode 211",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773675/5-news-weekend-2026-10-25-episode-85"
+              "source_url": "https://www.tvmaze.com/episodes/3773596/5-news-at-1855-2026-10-26-episode-211"
+            },
+            {
+              "time": "19:55",
+              "title": "5 News at 19:55",
+              "episode": "Episode 211",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3773625/5-news-at-1955-2026-10-26-episode-211"
+            },
+            {
+              "time": "20:00",
+              "title": "Traffic Cops: Elite Squad One",
+              "episode": "Episode 4",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3793778/traffic-cops-elite-squad-one-2x04-episode-4"
+            },
+            {
+              "time": "21:00",
+              "title": "Major Crimes Unit",
+              "episode": "Payback",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3793339/major-crimes-unit-1x05-payback"
+            }
+          ]
+        },
+        {
+          "name": "Crime & Investigation",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "Green Eyed Killers",
+              "episode": "Matyka Brown",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3793858/green-eyed-killers-5x19-matyka-brown"
+            },
+            {
+              "time": "21:00",
+              "title": "Convictions Gone Bad with Will Mellor",
+              "episode": "Sam Hallam",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3776675/convictions-gone-bad-with-will-mellor-1x04-sam-hallam"
+            },
+            {
+              "time": "23:00",
+              "title": "Green Eyed Killers",
+              "episode": "Heather Snively & Baby",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3793859/green-eyed-killers-5x20-heather-snively-baby"
             }
           ]
         },
@@ -96,9 +124,9 @@
             {
               "time": "20:00",
               "title": "An Là",
-              "episode": "Episode 298",
+              "episode": "Episode 299",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774318/an-la-2026-10-25-episode-298"
+              "source_url": "https://www.tvmaze.com/episodes/3774319/an-la-2026-10-26-episode-299"
             }
           ]
         }
@@ -107,7 +135,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -116,11 +144,18 @@
           "name": "ABC",
           "programmes": [
             {
-              "time": "19:00",
-              "title": "America's Funniest Home Videos",
-              "episode": "Halloween, Pets in Costumes, and I'm Not Scared, You're Scared",
-              "blurb": "New episode · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3795772/americas-funniest-home-videos-37x05-halloween-pets-in-costumes-and-im-not-scared-youre-scared"
+              "time": "18:30",
+              "title": "ABC World News Tonight with David Muir",
+              "episode": "Episode 287",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3796363/abc-world-news-tonight-with-david-muir-2026-10-26-episode-287"
+            },
+            {
+              "time": "23:35",
+              "title": "Jimmy Kimmel Live",
+              "episode": "Dave Grohl, Connie Britton, Foo Fighters, Nayanna Holley",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3795441/jimmy-kimmel-live-2026-10-26-dave-grohl-connie-britton-foo-fighters-nayanna-holley"
             }
           ]
         },
@@ -128,25 +163,32 @@
           "name": "CBS",
           "programmes": [
             {
-              "time": "19:00",
-              "title": "60 Minutes",
-              "episode": "Destination: Nowhere | #FreeTinaPeters | Australia's Experiment",
+              "time": "18:30",
+              "title": "CBS Evening News",
+              "episode": "Episode 213",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3795399/60-minutes-59x06-destination-nowhere-freetinapeters-australias-experiment"
+              "source_url": "https://www.tvmaze.com/episodes/3795436/cbs-evening-news-2026-10-26-episode-213"
             },
             {
               "time": "20:00",
-              "title": "Marshals",
-              "episode": "Blast Radius",
+              "title": "FBI",
+              "episode": "Reticence",
               "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3762943/marshals-2x04-blast-radius"
+              "source_url": "https://www.tvmaze.com/episodes/3788656/fbi-9x04-reticence"
             },
             {
               "time": "21:00",
-              "title": "Tracker",
-              "episode": "Purification",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3782659/tracker-4x04-purification"
+              "title": "CIA",
+              "episode": "Black Tie Optional",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3788666/cia-2x04-black-tie-optional"
+            },
+            {
+              "time": "22:00",
+              "title": "Harlan Coben's Final Twist",
+              "episode": "A Recipe for Murder",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3782845/harlan-cobens-final-twist-2x04-a-recipe-for-murder"
             }
           ]
         },
@@ -156,23 +198,30 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 25 Sun",
+              "episode": "Oct 26 Mon",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3794954/nbc-nightly-news-2026-10-25-oct-25-sun"
+              "source_url": "https://www.tvmaze.com/episodes/3794957/nbc-nightly-news-2026-10-26-oct-26-mon"
             },
             {
-              "time": "19:00",
-              "title": "Football Night in America",
-              "episode": "Week 7",
-              "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3617926/football-night-in-america-21x08-week-7"
+              "time": "20:00",
+              "title": "The Voice",
+              "episode": "The Battles Part 4",
+              "blurb": "New episode · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3654222/the-voice-30x10-the-battles-part-4"
             },
             {
-              "time": "20:20",
-              "title": "NBC Sunday Night Football",
-              "episode": "Kansas City Chiefs at Seattle Seahawks",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3617900/nbc-sunday-night-football-2026-10-25-kansas-city-chiefs-at-seattle-seahawks"
+              "time": "22:00",
+              "title": "Line of Fire",
+              "episode": "Cabin Pressure",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3654228/line-of-fire-1x06-cabin-pressure"
+            },
+            {
+              "time": "23:35",
+              "title": "The Tonight Show Starring Jimmy Fallon",
+              "episode": "Billy Crystal, Joe Keery, St. Vincent",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3793221/the-tonight-show-starring-jimmy-fallon-2026-10-26-billy-crystal-joe-keery-st-vincent"
             }
           ]
         },
@@ -180,32 +229,18 @@
           "name": "FOX",
           "programmes": [
             {
+              "time": "19:00",
+              "title": "World Series",
+              "episode": "2026 World Series Pregame II",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3795122/world-series-2026-special-2026-world-series-pregame-ii"
+            },
+            {
               "time": "20:00",
-              "title": "The Simpsons",
-              "episode": "Treehouse of Horror XXXVII",
-              "blurb": "New episode · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3773293/the-simpsons-38x04-treehouse-of-horror-xxxvii"
-            },
-            {
-              "time": "20:31",
-              "title": "Animal Control",
-              "episode": "Tortoises and Billy Goats",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3784340/animal-control-5x04-tortoises-and-billy-goats"
-            },
-            {
-              "time": "21:00",
-              "title": "Universal Basic Guys",
-              "episode": "Oedipus Flex",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3784324/universal-basic-guys-3x04-oedipus-flex"
-            },
-            {
-              "time": "21:30",
-              "title": "Grimsburg",
-              "episode": "How the Other Half Lives",
-              "blurb": "New episode · Comedy · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3773299/grimsburg-3x04-how-the-other-half-lives"
+              "title": "World Series",
+              "episode": "Game 3: Milwaukee Brewers at Tampa Bay Rays",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3790080/world-series-2026-10-26-game-3-milwaukee-brewers-at-tampa-bay-rays"
             }
           ]
         },
@@ -214,10 +249,24 @@
           "programmes": [
             {
               "time": "21:00",
-              "title": "Maigret",
-              "episode": "The Hanged Man – Part Two",
-              "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3697666/maigret-2x02-the-hanged-man-part-two"
+              "title": "Pati Jinich Explores Panamericana",
+              "episode": "Montana & Wyoming - Small Acts, Wide Ripples",
+              "blurb": "Series return · Nature · Travel",
+              "source_url": "https://www.tvmaze.com/episodes/3723588/pati-jinich-explores-panamericana-2x01-montana-wyoming-small-acts-wide-ripples"
+            },
+            {
+              "time": "22:00",
+              "title": "Independent Lens",
+              "episode": "Seeds",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3762927/independent-lens-28x03-seeds"
+            },
+            {
+              "time": "23:00",
+              "title": "Amanpour & Co.",
+              "episode": "Episode 213",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3774111/amanpour-co-2026-10-26-episode-213"
             }
           ]
         }
