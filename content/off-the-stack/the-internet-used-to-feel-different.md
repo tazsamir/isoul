@@ -1,6 +1,6 @@
 ---
 title: "The Internet Used to Feel Different"
-date: 2026-10-12
+date: 2026-10-12T18:40:27Z
 description: "A personal look back at forums, strange streaming sites, discovery and why today's internet feels more convenient but less exploratory."
 tags:
   - internet

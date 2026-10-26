@@ -1,6 +1,6 @@
 ---
 title: "Discovering Anime on the Wild Internet of 2007"
-date: 2026-10-12
+date: 2026-10-12T13:48:02Z
 description: "Naruto, Death Note, fansubs and the run of 2006 and 2007 shows I found when anime moved from television to the old internet."
 tags:
   - anime

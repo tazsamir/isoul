@@ -35,7 +35,7 @@ if [[ -z "$title" ]]; then
   exit 1
 fi
 
-publication_date=$(date -u +%Y-%m-%d)
+publication_date=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 sed -i \
   -e '/^draft: true$/d' \
   -e "s/^date: .*/date: $publication_date/" \
