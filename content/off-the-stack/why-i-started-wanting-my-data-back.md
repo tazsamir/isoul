@@ -1,7 +1,6 @@
 ---
 title: "Why I Started Wanting My Data Back"
-date: 2026-11-09
-draft: true
+date: 2026-10-26T15:54:11Z
 description: "After decades of online accounts, I started moving photos, files, contacts and calendars back into systems I control."
 tags:
   - privacy
