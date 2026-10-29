@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T21:02:55+00:00",
+  "generated": "2026-10-29T21:06:51+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -19,10 +19,17 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "Celebrity Race Across the World",
-              "episode": "Episode 1",
-              "blurb": "Series return · Adventure · Travel",
-              "source_url": "https://www.tvmaze.com/episodes/3789218/celebrity-race-across-the-world-4x01-episode-1"
+              "title": "The Celebrity Traitors",
+              "episode": "Episode 9",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3789372/the-celebrity-traitors-2x09-episode-9"
+            },
+            {
+              "time": "21:05",
+              "title": "The Celebrity Traitors: Uncloaked",
+              "episode": "Episode 9",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3789370/the-celebrity-traitors-uncloaked-2x09-episode-9"
             }
           ]
         },
@@ -32,9 +39,21 @@
             {
               "time": "18:30",
               "title": "Strictly Come Dancing - It Takes Two",
-              "episode": "Episode 23",
+              "episode": "Episode 24",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3790904/strictly-come-dancing-it-takes-two-24x23-episode-23"
+              "source_url": "https://www.tvmaze.com/episodes/3790905/strictly-come-dancing-it-takes-two-24x24-episode-24"
+            }
+          ]
+        },
+        {
+          "name": "ITV1",
+          "programmes": [
+            {
+              "time": "19:15",
+              "title": "The Martin Lewis Money Show Live",
+              "episode": "Budget Special",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3794839/the-martin-lewis-money-show-live-18x14-budget-special"
             }
           ]
         },
@@ -42,18 +61,11 @@
           "name": "Channel 4",
           "programmes": [
             {
-              "time": "20:00",
-              "title": "Location, Location, Location",
-              "episode": "Surrey and Cambridgeshire",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3794827/location-location-location-46x06-surrey-and-cambridgeshire"
-            },
-            {
-              "time": "22:00",
-              "title": "First Dates",
-              "episode": "Episode 1",
-              "blurb": "Series return · Romance",
-              "source_url": "https://www.tvmaze.com/episodes/3794767/first-dates-26x01-episode-1"
+              "time": "21:05",
+              "title": "Taskmaster",
+              "episode": "A Very Televisual Torso",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3791797/taskmaster-22x09-a-very-televisual-torso"
             }
           ]
         },
@@ -63,49 +75,30 @@
             {
               "time": "18:55",
               "title": "5 News at 18.55",
-              "episode": "Episode 213",
+              "episode": "Episode 214",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773598/5-news-at-1855-2026-10-28-episode-213"
+              "source_url": "https://www.tvmaze.com/episodes/3773600/5-news-at-1855-2026-10-29-episode-214"
             },
             {
               "time": "19:55",
               "title": "5 News at 19:55",
-              "episode": "Episode 213",
+              "episode": "Episode 214",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773627/5-news-at-1955-2026-10-28-episode-213"
+              "source_url": "https://www.tvmaze.com/episodes/3773628/5-news-at-1955-2026-10-29-episode-214"
             },
             {
               "time": "20:00",
-              "title": "The Incident Room",
-              "episode": "Honour Killing",
-              "blurb": "New episode · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3794828/the-incident-room-3x05-honour-killing"
+              "title": "The Yorkshire Vet",
+              "episode": "Episode 1",
+              "blurb": "Series return · Nature · Medical",
+              "source_url": "https://www.tvmaze.com/episodes/3794700/the-yorkshire-vet-24x01-episode-1"
             },
             {
               "time": "21:00",
-              "title": "Cause of Death",
-              "episode": "Episode 5",
-              "blurb": "New episode · Medical",
-              "source_url": "https://www.tvmaze.com/episodes/3794829/cause-of-death-4x05-episode-5"
-            }
-          ]
-        },
-        {
-          "name": "ITV2",
-          "programmes": [
-            {
-              "time": "21:00",
-              "title": "Big Brother",
-              "episode": "Episode 40",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3797482/big-brother-4x40-episode-40"
-            },
-            {
-              "time": "22:00",
-              "title": "Big Brother: The Group Chat",
-              "episode": "Episode 33",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3797512/big-brother-the-group-chat-1x33-episode-33"
+              "title": "The Madame Blanc Mysteries",
+              "episode": "Fountain",
+              "blurb": "Series return · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3794688/the-madame-blanc-mysteries-5x01-fountain"
             }
           ]
         }
@@ -114,7 +107,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -125,30 +118,30 @@
             {
               "time": "18:30",
               "title": "ABC World News Tonight with David Muir",
-              "episode": "Episode 289",
+              "episode": "Episode 290",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3796365/abc-world-news-tonight-with-david-muir-2026-10-28-episode-289"
+              "source_url": "https://www.tvmaze.com/episodes/3796366/abc-world-news-tonight-with-david-muir-2026-10-29-episode-290"
             },
             {
               "time": "20:00",
-              "title": "Scrubs",
-              "episode": "My Halloween",
-              "blurb": "New episode · Drama · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3694637/scrubs-2x06-my-halloween"
+              "title": "9-1-1",
+              "episode": "Streets of Fire",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3784752/9-1-1-10x03-streets-of-fire"
             },
             {
-              "time": "20:30",
-              "title": "Abbott Elementary",
-              "episode": "Halloween Party",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3784744/abbott-elementary-6x04-halloween-party"
+              "time": "21:00",
+              "title": "9-1-1: Nashville",
+              "episode": "Let There Be Darkness",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3779725/9-1-1-nashville-2x03-let-there-be-darkness"
             },
             {
-              "time": "21:02",
-              "title": "Who Wants to Be a Millionaire",
-              "episode": "In The Hot Seat: Sarah Jane Nader & Brooks Nader / Colin Jost & Michael Che",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3644158/who-wants-to-be-a-millionaire-2026-10-28-in-the-hot-seat-sarah-jane-nader-brooks-nader-colin-jost-michael-che"
+              "time": "22:00",
+              "title": "Grey's Anatomy",
+              "episode": "It's All Wrong, but It's All Right",
+              "blurb": "New episode · Drama · Romance",
+              "source_url": "https://www.tvmaze.com/episodes/3784751/greys-anatomy-23x03-its-all-wrong-but-its-all-right"
             }
           ]
         },
@@ -158,23 +151,30 @@
             {
               "time": "18:30",
               "title": "CBS Evening News",
-              "episode": "Episode 215",
+              "episode": "Episode 216",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3795438/cbs-evening-news-2026-10-28-episode-215"
+              "source_url": "https://www.tvmaze.com/episodes/3795439/cbs-evening-news-2026-10-29-episode-216"
             },
             {
               "time": "20:00",
-              "title": "Survivor",
-              "episode": "I Love Crying",
-              "blurb": "New episode · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3711574/survivor-51x06-i-love-crying"
+              "title": "Georgie & Mandy's First Marriage",
+              "episode": "The Devil's Interval and a British Stripper",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3778671/georgie-mandys-first-marriage-3x04-the-devils-interval-and-a-british-stripper"
             },
             {
-              "time": "21:30",
-              "title": "The Amazing Race",
-              "episode": "A Fine Line Between Confidence and Stupidity",
-              "blurb": "New episode · Action · Adventure",
-              "source_url": "https://www.tvmaze.com/episodes/3711580/the-amazing-race-39x06-a-fine-line-between-confidence-and-stupidity"
+              "time": "20:31",
+              "title": "Eternally Yours",
+              "episode": "Halloween",
+              "blurb": "New episode · Comedy · Supernatural",
+              "source_url": "https://www.tvmaze.com/episodes/3778637/eternally-yours-1x04-halloween"
+            },
+            {
+              "time": "21:00",
+              "title": "Ghosts",
+              "episode": "Halloween 6: The Mirror – Parts One & Two",
+              "blurb": "New episode · Comedy · Supernatural",
+              "source_url": "https://www.tvmaze.com/episodes/3684533/ghosts-s06-special-halloween-6-the-mirror-parts-one-two"
             }
           ]
         },
@@ -184,30 +184,30 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Oct 28 Wed",
+              "episode": "Oct 29 Thur",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3794960/nbc-nightly-news-2026-10-28-oct-28-wed"
+              "source_url": "https://www.tvmaze.com/episodes/3794961/nbc-nightly-news-2026-10-29-oct-29-thur"
             },
             {
               "time": "20:00",
-              "title": "Chicago Med",
-              "episode": "Tomorrow, and Tomorrow, and Tomorrow",
-              "blurb": "New episode · Drama · Medical",
-              "source_url": "https://www.tvmaze.com/episodes/3781556/chicago-med-12x04-tomorrow-and-tomorrow-and-tomorrow"
+              "title": "The Traitors",
+              "episode": "A Bad Apple Spoils the Whole Bunch",
+              "blurb": "New episode · Action · Adventure",
+              "source_url": "https://www.tvmaze.com/episodes/3772249/the-traitors-5x08-a-bad-apple-spoils-the-whole-bunch"
             },
             {
               "time": "21:00",
-              "title": "Chicago Fire",
-              "episode": "A Perfect Arson",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3781571/chicago-fire-15x04-a-perfect-arson"
+              "title": "Law & Order: Special Victims Unit",
+              "episode": "Arcana",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3768258/law-order-special-victims-unit-28x04-arcana"
             },
             {
               "time": "22:00",
-              "title": "Chicago P.D.",
-              "episode": "My Eye, My Call",
+              "title": "Law & Order",
+              "episode": "Property",
               "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3781554/chicago-pd-14x04-my-eye-my-call"
+              "source_url": "https://www.tvmaze.com/episodes/3773119/law-order-26x04-property"
             }
           ]
         },
@@ -215,18 +215,18 @@
           "name": "FOX",
           "programmes": [
             {
-              "time": "19:00",
-              "title": "World Series",
-              "episode": "2026 World Series Pregame IV",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3797578/world-series-2026-special-2026-world-series-pregame-iv"
+              "time": "20:00",
+              "title": "Hell's Kitchen",
+              "episode": "A Slice Above the Rest",
+              "blurb": "New episode · Food",
+              "source_url": "https://www.tvmaze.com/episodes/3788363/hells-kitchen-25x06-a-slice-above-the-rest"
             },
             {
-              "time": "20:00",
-              "title": "World Series",
-              "episode": "Game 5: Milwaukee Brewers at Tampa Bay Rays",
+              "time": "21:02",
+              "title": "Special Forces: World's Toughest Test",
+              "episode": "Breaking Point",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3797500/world-series-2026-10-28-game-5-milwaukee-brewers-at-tampa-bay-rays"
+              "source_url": "https://www.tvmaze.com/episodes/3791861/special-forces-worlds-toughest-test-5x06-breaking-point"
             }
           ]
         },
@@ -235,24 +235,24 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "Nature",
-              "episode": "Tiger Island, Part II",
-              "blurb": "New episode · Nature",
-              "source_url": "https://www.tvmaze.com/episodes/3647151/nature-45x03-tiger-island-part-ii"
+              "title": "This Old House",
+              "episode": "Bigger Isn't Better",
+              "blurb": "New episode · DIY",
+              "source_url": "https://www.tvmaze.com/episodes/3793729/this-old-house-48x05-bigger-isnt-better"
             },
             {
-              "time": "21:00",
-              "title": "NOVA",
-              "episode": "Evolution: Body Builders",
-              "blurb": "New episode · Nature · History",
-              "source_url": "https://www.tvmaze.com/episodes/3667107/nova-53x15-evolution-body-builders"
+              "time": "20:30",
+              "title": "Ask This Old House",
+              "episode": "Cracked Foundation Skirting",
+              "blurb": "New episode · DIY",
+              "source_url": "https://www.tvmaze.com/episodes/3793244/ask-this-old-house-25x05-cracked-foundation-skirting"
             },
             {
               "time": "23:00",
               "title": "Amanpour & Co.",
-              "episode": "Episode 215",
+              "episode": "Episode 216",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774113/amanpour-co-2026-10-28-episode-215"
+              "source_url": "https://www.tvmaze.com/episodes/3774114/amanpour-co-2026-10-29-episode-216"
             }
           ]
         }
