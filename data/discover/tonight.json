@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T19:58:15+00:00",
+  "generated": "2026-11-01T20:29:33+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,7 +9,7 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -18,44 +18,18 @@
           "name": "BBC One",
           "programmes": [
             {
-              "time": "18:30",
+              "time": "19:10",
               "title": "Strictly Come Dancing",
-              "episode": "Halloween Special",
+              "episode": "Week 6 Results",
               "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3795218/strictly-come-dancing-24x11-halloween-special"
+              "source_url": "https://www.tvmaze.com/episodes/3796153/strictly-come-dancing-24x12-week-6-results"
             },
             {
-              "time": "20:30",
-              "title": "Wisdom of the Crowd",
-              "episode": "Episode 7",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3795217/wisdom-of-the-crowd-1x07-episode-7"
-            },
-            {
-              "time": "22:25",
+              "time": "22:30",
               "title": "Match of the Day",
-              "episode": "31/10/2026",
+              "episode": "01/11/2026",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3795219/match-of-the-day-2026-10-31-31102026"
-            }
-          ]
-        },
-        {
-          "name": "ITV1",
-          "programmes": [
-            {
-              "time": "19:30",
-              "title": "Win Win with People's Postcode Lottery",
-              "episode": "Episode 6",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3795214/win-win-with-peoples-postcode-lottery-2x06-episode-6"
-            },
-            {
-              "time": "20:30",
-              "title": "The Voice UK",
-              "episode": "The Final",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3795213/the-voice-uk-14x10-the-final"
+              "source_url": "https://www.tvmaze.com/episodes/3795220/match-of-the-day-2026-11-01-01112026"
             }
           ]
         },
@@ -64,10 +38,10 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "Griff Across the Alps",
-              "episode": "Ljubljana & Lake Bled",
-              "blurb": "New series · Adventure · Travel",
-              "source_url": "https://www.tvmaze.com/episodes/3795228/griff-across-the-alps-1x01-ljubljana-lake-bled"
+              "title": "Kevin McCloud's Classic Car Road Trips",
+              "episode": "Episode 3",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3801708/kevin-mcclouds-classic-car-road-trips-1x03-episode-3"
             }
           ]
         },
@@ -77,9 +51,28 @@
             {
               "time": "19:25",
               "title": "5 News Weekend",
-              "episode": "Episode 86",
+              "episode": "Episode 87",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773676/5-news-weekend-2026-10-31-episode-86"
+              "source_url": "https://www.tvmaze.com/episodes/3773677/5-news-weekend-2026-11-01-episode-87"
+            }
+          ]
+        },
+        {
+          "name": "ITV2",
+          "programmes": [
+            {
+              "time": "21:00",
+              "title": "Big Brother",
+              "episode": "Episode 43",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3800750/big-brother-4x43-episode-43"
+            },
+            {
+              "time": "22:00",
+              "title": "Big Brother: The Group Chat",
+              "episode": "Episode 35",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3800545/big-brother-the-group-chat-1x35-episode-35"
             }
           ]
         },
@@ -89,9 +82,9 @@
             {
               "time": "20:00",
               "title": "An Là",
-              "episode": "Episode 304",
+              "episode": "Episode 305",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774324/an-la-2026-10-31-episode-304"
+              "source_url": "https://www.tvmaze.com/episodes/3774325/an-la-2026-11-01-episode-305"
             }
           ]
         }
@@ -100,20 +93,53 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
       "channels": [
         {
+          "name": "ABC",
+          "programmes": [
+            {
+              "time": "18:30",
+              "title": "ABC World News Tonight with David Muir",
+              "episode": "Episode 292",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3802817/abc-world-news-tonight-with-david-muir-2026-11-01-episode-292"
+            },
+            {
+              "time": "19:00",
+              "title": "America's Funniest Home Videos",
+              "episode": "Crazy Cats, Pool Fools, and Busted!",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3795773/americas-funniest-home-videos-37x06-crazy-cats-pool-fools-and-busted"
+            }
+          ]
+        },
+        {
           "name": "CBS",
           "programmes": [
             {
-              "time": "22:00",
-              "title": "48 Hours",
-              "episode": "Jade Benning's Final Call",
+              "time": "19:30",
+              "title": "60 Minutes",
+              "episode": "Battleground | Cuba in Crisis | Wemby",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3796406/60-minutes-59x07-battleground-cuba-in-crisis-wemby"
+            },
+            {
+              "time": "20:30",
+              "title": "Marshals",
+              "episode": "Secret Weapon",
               "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3798666/48-hours-39x05-jade-bennings-final-call"
+              "source_url": "https://www.tvmaze.com/episodes/3762944/marshals-2x05-secret-weapon"
+            },
+            {
+              "time": "21:30",
+              "title": "Tracker",
+              "episode": "Need to Know",
+              "blurb": "New episode · Drama · Action",
+              "source_url": "https://www.tvmaze.com/episodes/3787773/tracker-4x05-need-to-know"
             }
           ]
         },
@@ -121,25 +147,58 @@
           "name": "NBC",
           "programmes": [
             {
-              "time": "19:00",
-              "title": "B1G College Countdown",
-              "episode": "From Los Angeles, CA",
-              "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3801170/b1g-college-countdown-4x08-from-los-angeles-ca"
-            },
-            {
-              "time": "19:30",
-              "title": "Big Ten Saturday Night",
-              "episode": "#2 Ohio State at USC Trojans",
+              "time": "18:30",
+              "title": "NBC Nightly News",
+              "episode": "Nov 1 Sun",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3801167/big-ten-saturday-night-4x08-2-ohio-state-at-usc-trojans"
+              "source_url": "https://www.tvmaze.com/episodes/3799934/nbc-nightly-news-2026-11-01-nov-1-sun"
             },
             {
-              "time": "23:29",
-              "title": "Saturday Night Live",
-              "episode": "Inde Navarrette / Gracie Abrams",
-              "blurb": "New episode · Comedy · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3700600/saturday-night-live-52x04-inde-navarrette-gracie-abrams"
+              "time": "19:00",
+              "title": "Football Night in America",
+              "episode": "Week 8",
+              "blurb": "New episode · Sports",
+              "source_url": "https://www.tvmaze.com/episodes/3617927/football-night-in-america-21x09-week-8"
+            },
+            {
+              "time": "20:20",
+              "title": "NBC Sunday Night Football",
+              "episode": "Philadelphia Eagles at Washington Commanders",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3617901/nbc-sunday-night-football-2026-11-01-philadelphia-eagles-at-washington-commanders"
+            }
+          ]
+        },
+        {
+          "name": "FOX",
+          "programmes": [
+            {
+              "time": "20:00",
+              "title": "The Simpsons",
+              "episode": "Testing 1-2-3",
+              "blurb": "New episode · Comedy · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3773295/the-simpsons-38x05-testing-1-2-3"
+            },
+            {
+              "time": "20:31",
+              "title": "Animal Control",
+              "episode": "Sled Dogs and Kitty Litter",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3788381/animal-control-5x05-sled-dogs-and-kitty-litter"
+            },
+            {
+              "time": "21:00",
+              "title": "Universal Basic Guys",
+              "episode": "Termination: Salvation",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3791968/universal-basic-guys-3x05-termination-salvation"
+            },
+            {
+              "time": "21:31",
+              "title": "Grimsburg",
+              "episode": "CrimeShare",
+              "blurb": "New episode · Comedy · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3773300/grimsburg-3x05-crimeshare"
             }
           ]
         },
@@ -147,49 +206,11 @@
           "name": "PBS",
           "programmes": [
             {
-              "time": "23:00",
-              "title": "Austin City Limits",
-              "episode": "Ty Myers",
-              "blurb": "New episode · Music",
-              "source_url": "https://www.tvmaze.com/episodes/3793930/austin-city-limits-52x09-ty-myers"
-            }
-          ]
-        },
-        {
-          "name": "Me-TV",
-          "programmes": [
-            {
-              "time": "19:00",
-              "title": "Svengoolie",
-              "episode": "The Wizard of Oz",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3776745/svengoolie-32x49-the-wizard-of-oz"
-            },
-            {
-              "time": "20:00",
-              "title": "Svengoolie",
-              "episode": "Don't Be Afraid of the Dark",
-              "blurb": "New episode · Comedy · Horror",
-              "source_url": "https://www.tvmaze.com/episodes/3776746/svengoolie-32x50-dont-be-afraid-of-the-dark"
-            }
-          ]
-        },
-        {
-          "name": "REELZ",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "On Patrol: First Shift",
-              "episode": "#528",
-              "blurb": "New episode · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3787129/on-patrol-first-shift-5x28-528"
-            },
-            {
               "time": "21:00",
-              "title": "On Patrol: Live",
-              "episode": "#528",
-              "blurb": "New episode · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3787136/on-patrol-live-5x28-528"
+              "title": "Maigret",
+              "episode": "Maigret's Revolver – Part One",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3697667/maigret-2x03-maigrets-revolver-part-one"
             }
           ]
         }
