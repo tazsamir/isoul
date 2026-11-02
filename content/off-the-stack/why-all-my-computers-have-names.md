@@ -1,7 +1,6 @@
 ---
 title: "Why I Name My Computers"
-date: 2026-11-16
-draft: true
+date: 2026-11-02T19:14:39Z
 description: "Why names borrowed from science fiction and anime make homelab infrastructure feel a little more personal."
 tags:
   - homelab
