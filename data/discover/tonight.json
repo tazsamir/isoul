@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T20:29:33+00:00",
+  "generated": "2026-11-02T23:29:12+00:00",
   "source_name": "TVmaze",
   "source_url": "https://www.tvmaze.com/api",
   "licence": "CC BY-SA 4.0",
@@ -9,27 +9,53 @@
     {
       "code": "GB",
       "label": "United Kingdom",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "timezone": "Europe/London",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
       "channels": [
         {
-          "name": "BBC One",
+          "name": "BBC Two",
           "programmes": [
             {
-              "time": "19:10",
-              "title": "Strictly Come Dancing",
-              "episode": "Week 6 Results",
-              "blurb": "New episode · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3796153/strictly-come-dancing-24x12-week-6-results"
+              "time": "18:00",
+              "title": "House of Games",
+              "episode": "Week 6: Monday",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3800561/house-of-games-10x26-week-6-monday"
             },
             {
-              "time": "22:30",
-              "title": "Match of the Day",
-              "episode": "01/11/2026",
+              "time": "18:30",
+              "title": "Strictly Come Dancing - It Takes Two",
+              "episode": "Episode 26",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3795220/match-of-the-day-2026-11-01-01112026"
+              "source_url": "https://www.tvmaze.com/episodes/3796154/strictly-come-dancing-it-takes-two-24x26-episode-26"
+            },
+            {
+              "time": "19:00",
+              "title": "Global Eye",
+              "episode": "Bangkok Under Pressure",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3795758/global-eye-2026-11-02-bangkok-under-pressure"
+            },
+            {
+              "time": "19:30",
+              "title": "Mastermind",
+              "episode": "Episode 15",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3796784/mastermind-2026-11-02-episode-15"
+            }
+          ]
+        },
+        {
+          "name": "ITV1",
+          "programmes": [
+            {
+              "time": "19:30",
+              "title": "Cooking with the Stars",
+              "episode": "Episode 5",
+              "blurb": "New episode · Food",
+              "source_url": "https://www.tvmaze.com/episodes/3803373/cooking-with-the-stars-6x05-episode-5"
             }
           ]
         },
@@ -38,10 +64,10 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "Kevin McCloud's Classic Car Road Trips",
-              "episode": "Episode 3",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3801708/kevin-mcclouds-classic-car-road-trips-1x03-episode-3"
+              "title": "Jamie's 20 Minute Meals",
+              "episode": "Episode 6",
+              "blurb": "New episode · Food",
+              "source_url": "https://www.tvmaze.com/episodes/3801830/jamies-20-minute-meals-1x06-episode-6"
             }
           ]
         },
@@ -49,11 +75,18 @@
           "name": "Channel 5",
           "programmes": [
             {
-              "time": "19:25",
-              "title": "5 News Weekend",
-              "episode": "Episode 87",
+              "time": "18:55",
+              "title": "5 News at 18.55",
+              "episode": "Episode 216",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3773677/5-news-weekend-2026-11-01-episode-87"
+              "source_url": "https://www.tvmaze.com/episodes/3801941/5-news-at-1855-2026-11-02-episode-216"
+            },
+            {
+              "time": "19:55",
+              "title": "5 News at 19:55",
+              "episode": "Episode 216",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3801966/5-news-at-1955-2026-11-02-episode-216"
             }
           ]
         },
@@ -63,28 +96,16 @@
             {
               "time": "21:00",
               "title": "Big Brother",
-              "episode": "Episode 43",
+              "episode": "Episode 44",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3800750/big-brother-4x43-episode-43"
+              "source_url": "https://www.tvmaze.com/episodes/3800751/big-brother-4x44-episode-44"
             },
             {
               "time": "22:00",
               "title": "Big Brother: The Group Chat",
-              "episode": "Episode 35",
+              "episode": "Episode 36",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3800545/big-brother-the-group-chat-1x35-episode-35"
-            }
-          ]
-        },
-        {
-          "name": "BBC Alba",
-          "programmes": [
-            {
-              "time": "20:00",
-              "title": "An Là",
-              "episode": "Episode 305",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3774325/an-la-2026-11-01-episode-305"
+              "source_url": "https://www.tvmaze.com/episodes/3800756/big-brother-the-group-chat-1x36-episode-36"
             }
           ]
         }
@@ -93,7 +114,7 @@
     {
       "code": "US",
       "label": "United States",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "timezone": "America/New_York",
       "status": "ready",
       "note": "Five selected broadcast channels. This is a discovery view, not a complete TV guide.",
@@ -104,16 +125,23 @@
             {
               "time": "18:30",
               "title": "ABC World News Tonight with David Muir",
-              "episode": "Episode 292",
+              "episode": "Episode 293",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3802817/abc-world-news-tonight-with-david-muir-2026-11-01-episode-292"
+              "source_url": "https://www.tvmaze.com/episodes/3802818/abc-world-news-tonight-with-david-muir-2026-11-02-episode-293"
             },
             {
-              "time": "19:00",
-              "title": "America's Funniest Home Videos",
-              "episode": "Crazy Cats, Pool Fools, and Busted!",
-              "blurb": "New episode · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3795773/americas-funniest-home-videos-37x06-crazy-cats-pool-fools-and-busted"
+              "time": "20:00",
+              "title": "Dancing with the Stars",
+              "episode": "Disney Night",
+              "blurb": "New episode · Family",
+              "source_url": "https://www.tvmaze.com/episodes/3710817/dancing-with-the-stars-35x09-disney-night"
+            },
+            {
+              "time": "23:35",
+              "title": "Jimmy Kimmel Live",
+              "episode": "Bill Hader, Justine Lupe, Bella Hicks, Loren Smith",
+              "blurb": "New episode · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3801660/jimmy-kimmel-live-2026-11-02-bill-hader-justine-lupe-bella-hicks-loren-smith"
             }
           ]
         },
@@ -121,25 +149,32 @@
           "name": "CBS",
           "programmes": [
             {
-              "time": "19:30",
-              "title": "60 Minutes",
-              "episode": "Battleground | Cuba in Crisis | Wemby",
+              "time": "18:30",
+              "title": "CBS Evening News",
+              "episode": "Episode 218",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3796406/60-minutes-59x07-battleground-cuba-in-crisis-wemby"
+              "source_url": "https://www.tvmaze.com/episodes/3801559/cbs-evening-news-2026-11-02-episode-218"
             },
             {
-              "time": "20:30",
-              "title": "Marshals",
-              "episode": "Secret Weapon",
+              "time": "20:00",
+              "title": "FBI",
+              "episode": "Atonement",
               "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3762944/marshals-2x05-secret-weapon"
+              "source_url": "https://www.tvmaze.com/episodes/3788657/fbi-9x05-atonement"
             },
             {
-              "time": "21:30",
-              "title": "Tracker",
-              "episode": "Need to Know",
-              "blurb": "New episode · Drama · Action",
-              "source_url": "https://www.tvmaze.com/episodes/3787773/tracker-4x05-need-to-know"
+              "time": "21:01",
+              "title": "CIA",
+              "episode": "Real Intelligence",
+              "blurb": "New episode · Drama · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3788667/cia-2x05-real-intelligence"
+            },
+            {
+              "time": "22:00",
+              "title": "Harlan Coben's Final Twist",
+              "episode": "Caught On Camera",
+              "blurb": "New episode · Crime",
+              "source_url": "https://www.tvmaze.com/episodes/3788288/harlan-cobens-final-twist-2x05-caught-on-camera"
             }
           ]
         },
@@ -149,23 +184,30 @@
             {
               "time": "18:30",
               "title": "NBC Nightly News",
-              "episode": "Nov 1 Sun",
+              "episode": "Nov 2 Mon",
               "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3799934/nbc-nightly-news-2026-11-01-nov-1-sun"
+              "source_url": "https://www.tvmaze.com/episodes/3799935/nbc-nightly-news-2026-11-02-nov-2-mon"
             },
             {
-              "time": "19:00",
-              "title": "Football Night in America",
-              "episode": "Week 8",
-              "blurb": "New episode · Sports",
-              "source_url": "https://www.tvmaze.com/episodes/3617927/football-night-in-america-21x09-week-8"
+              "time": "20:00",
+              "title": "St. Denis Medical",
+              "episode": "He Ain't Noah Wyle",
+              "blurb": "Series return · Comedy · Medical",
+              "source_url": "https://www.tvmaze.com/episodes/3652149/st-denis-medical-3x01-he-aint-noah-wyle"
             },
             {
-              "time": "20:20",
-              "title": "NBC Sunday Night Football",
-              "episode": "Philadelphia Eagles at Washington Commanders",
-              "blurb": "New episode",
-              "source_url": "https://www.tvmaze.com/episodes/3617901/nbc-sunday-night-football-2026-11-01-philadelphia-eagles-at-washington-commanders"
+              "time": "20:30",
+              "title": "The Fall and Rise of Reggie Dinkins",
+              "episode": "We Keep the Kisses",
+              "blurb": "Series return · Comedy",
+              "source_url": "https://www.tvmaze.com/episodes/3652150/the-fall-and-rise-of-reggie-dinkins-2x01-we-keep-the-kisses"
+            },
+            {
+              "time": "21:00",
+              "title": "The Voice",
+              "episode": "Cut Week",
+              "blurb": "New episode · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3654223/the-voice-30x11-cut-week"
             }
           ]
         },
@@ -174,31 +216,17 @@
           "programmes": [
             {
               "time": "20:00",
-              "title": "The Simpsons",
-              "episode": "Testing 1-2-3",
-              "blurb": "New episode · Comedy · Family",
-              "source_url": "https://www.tvmaze.com/episodes/3773295/the-simpsons-38x05-testing-1-2-3"
+              "title": "Name That Tune",
+              "episode": "Spicy Tunes",
+              "blurb": "New episode · Music",
+              "source_url": "https://www.tvmaze.com/episodes/3793926/name-that-tune-6x08-spicy-tunes"
             },
             {
-              "time": "20:31",
-              "title": "Animal Control",
-              "episode": "Sled Dogs and Kitty Litter",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3788381/animal-control-5x05-sled-dogs-and-kitty-litter"
-            },
-            {
-              "time": "21:00",
-              "title": "Universal Basic Guys",
-              "episode": "Termination: Salvation",
-              "blurb": "New episode · Comedy",
-              "source_url": "https://www.tvmaze.com/episodes/3791968/universal-basic-guys-3x05-termination-salvation"
-            },
-            {
-              "time": "21:31",
-              "title": "Grimsburg",
-              "episode": "CrimeShare",
-              "blurb": "New episode · Comedy · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3773300/grimsburg-3x05-crimeshare"
+              "time": "21:01",
+              "title": "Celebrity Weakest Link",
+              "episode": "Ladies Who Laugh",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3793927/celebrity-weakest-link-2x06-ladies-who-laugh"
             }
           ]
         },
@@ -207,10 +235,24 @@
           "programmes": [
             {
               "time": "21:00",
-              "title": "Maigret",
-              "episode": "Maigret's Revolver – Part One",
-              "blurb": "New episode · Drama · Crime",
-              "source_url": "https://www.tvmaze.com/episodes/3697667/maigret-2x03-maigrets-revolver-part-one"
+              "title": "Pati Jinich Explores Panamericana",
+              "episode": "New Mexico & Colorado - Life Along the Rio",
+              "blurb": "New episode · Nature · Travel",
+              "source_url": "https://www.tvmaze.com/episodes/3723589/pati-jinich-explores-panamericana-2x02-new-mexico-colorado-life-along-the-rio"
+            },
+            {
+              "time": "22:00",
+              "title": "POV",
+              "episode": "Coming Home: From Shadowland to Spiritworld",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3795060/pov-39x07-coming-home-from-shadowland-to-spiritworld"
+            },
+            {
+              "time": "23:00",
+              "title": "Amanpour & Co.",
+              "episode": "Episode 218",
+              "blurb": "New episode",
+              "source_url": "https://www.tvmaze.com/episodes/3802480/amanpour-co-2026-11-02-episode-218"
             }
           ]
         }
