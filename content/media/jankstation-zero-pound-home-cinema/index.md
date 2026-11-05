@@ -90,6 +90,8 @@ Putting speakers farther apart can make a soundtrack feel more spacious, but the
 
 While I was connecting everything, I was reminded of **Serial Experiments Lain**: Lain's room slowly filling with computers, wires and an ever-expanding network.
 
+![Lain surrounded by computers and cables in Serial Experiments Lain](serial-experiments-lain.jpg)
+
 That chaotic, cobbled-together energy fits this little setup perfectly. It's also a nice reminder of what I enjoy about self-hosting and older technology: ownership, curiosity and making hardware do another job rather than throwing it out.
 
 **JANKSTATION // WIRED BUT WORKING.**
