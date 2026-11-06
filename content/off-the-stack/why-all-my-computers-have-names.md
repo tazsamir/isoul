@@ -1,7 +1,7 @@
 ---
 title: "Why I Name My Computers"
 date: 2026-11-02T19:14:39Z
-description: "Why names borrowed from science fiction and anime make homelab infrastructure feel a little more personal."
+description: "Why I name my homelab machines after spaceships instead of their job descriptions."
 tags:
   - homelab
   - self-hosting
@@ -22,7 +22,7 @@ Some people name servers after their function.
 
 That is sensible.
 
-I give my machines names borrowed from science fiction and anime.
+I name my machines after spaceships from stories I love.
 
 This is less sensible.
 
@@ -40,17 +40,13 @@ I wanted names I would actually enjoy seeing.
 
 Science fiction supplied plenty.
 
-## The themes matter more than a scheme
+## The pattern is spaceships
 
-Some names came from *Star Trek*, another from *Mass Effect*, and anime eventually joined the mix.
+I kept seeing TrueNAS examples with storage pools called `tank`, and sometimes `dozer`. In a path such as `/mnt/tank`, that's the pool name, not the name of a dataset inside it. According to a [TrueNAS community account](https://www.truenas.com/community/threads/how-to-first-configuration-for-small-freenas-deployments.27062/), those names came from Tank and Dozer in *The Matrix*: a bit of personality tucked into storage documentation. That stuck with me: if a pool can have a name from a film, why should my computers be `server01`?
 
-There is no perfectly consistent taxonomy. The names accumulated from stories and worlds I liked, then stayed because each one felt right for the machine at the time.
+My own pattern is spaceships. The ships come from different stories I like, including *Star Trek* and *Mass Effect*, but the idea is consistent. I pick a name that feels right for the machine rather than a number that tells me nothing about it.
 
-The computers do not care whether the pattern is consistent.
-
-I do care that the names are memorable and enjoyable.
-
-A good naming scheme should survive contact with things you like.
+I care that the names are memorable and enjoyable. A good naming scheme should survive contact with things you like.
 
 ## Names help more than I expected
 
