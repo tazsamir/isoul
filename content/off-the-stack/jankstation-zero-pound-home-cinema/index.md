@@ -1,6 +1,7 @@
 ---
 title: "JankStation: Building a £0 Home Cinema from Forgotten Tech"
 slug: jankstation-zero-pound-home-cinema
+aliases: ["/media/jankstation-zero-pound-home-cinema/"]
 description: "An old LG TV, Nvidia Shield Pro, rescued batteries and a FiiO DAC became a tiny office cinema—without buying new kit."
 date: 2026-11-05
 comments: true
