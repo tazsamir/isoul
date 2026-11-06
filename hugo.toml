@@ -28,7 +28,7 @@ enableRobotsTXT = true
     showScrollToTop = true
 
   [params.homepage]
-    layout = 'page'
+    layout = 'custom'
     showRecent = true
     showRecentItems = 9
     showMoreLink = true
@@ -94,11 +94,6 @@ enableRobotsTXT = true
     name = 'Media'
     pageRef = '/media'
     weight = 17
-  [[menu.main]]
-    name = 'Discover'
-    identifier = "discover"
-    url = "/discover/"
-    weight = 18
   [[menu.main]]
     name = 'App shelf'
     pageRef = '/app-shelf'

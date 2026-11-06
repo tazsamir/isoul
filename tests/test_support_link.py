@@ -43,7 +43,7 @@ class SupportLinkTests(unittest.TestCase):
                 text=True,
             )
 
-            for relative_page in ("index.html", "discover/index.html"):
+            for relative_page in ("index.html", "media/index.html"):
                 html = (Path(destination) / relative_page).read_text(encoding="utf-8")
                 parser = FooterSupportLinkParser()
                 parser.feed(html)
