@@ -1,7 +1,6 @@
 ---
 title: "The Music That Still Sounds Like Home"
-date: 2026-11-23
-draft: true
+date: 2026-11-09T19:32:22Z
 description: "Nusrat Fateh Ali Khan, Bally Sagoo, Bollywood, music television and the YouTube AMVs that widened what I heard."
 tags:
   - nusrat-fateh-ali-khan
