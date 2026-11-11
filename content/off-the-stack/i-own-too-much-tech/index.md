@@ -10,7 +10,7 @@ tags:
 comments: true
 ---
 
-> **Previously on isoul.uk:** [The Music That Still Sounds Like Home](/off-the-stack/the-music-that-still-sounds-like-home/) — the songs and sounds that followed me from childhood into adulthood.
+> **Previously on isoul.uk:** [Why I Name My Computers](/off-the-stack/why-all-my-computers-have-names/) — the things we loved years ago have a habit of following us into adult life.
 
 ![An illustrated shelf holding a phone, laptop, hard drives, Kindle, tablet and games console, with a small empty space between them.](too-much-tech.svg)
 
