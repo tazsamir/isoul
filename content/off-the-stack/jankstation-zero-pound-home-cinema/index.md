@@ -8,6 +8,8 @@ comments: true
 tags: ["JankStation", "Nvidia Shield", "Jellyfin", "Plex", "Home Cinema", "Retro Gaming", "Repair and Reuse"]
 ---
 
+> **Previously on isoul.uk:** [Why I Name My Computers](/off-the-stack/why-all-my-computers-have-names/) — naming the things I use makes them feel a little more like mine.
+
 *No budget. No upgrades. Just vibes.*
 
 I've spent enough time chasing new gadgets, tuning my homelab and looking for the next thing to configure. This time, I wanted the opposite: a little corner in my office where I could switch off, put on a film, watch some anime or play an old game.

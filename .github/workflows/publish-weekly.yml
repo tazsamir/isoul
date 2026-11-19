@@ -41,6 +41,12 @@ jobs:
         id: article
         run: bash .github/scripts/publish-next-article.sh
 
+      - name: Check the recap against the latest published article
+        if: steps.article.outputs.has_article == 'true'
+        env:
+          ARTICLE_FILE: ${{ steps.article.outputs.article_file }}
+        run: python3 .github/scripts/check-previously-on.py "$ARTICLE_FILE"
+
       - name: Commit and push the publication
         if: steps.article.outputs.has_article == 'true'
         env:

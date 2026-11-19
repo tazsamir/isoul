@@ -26,6 +26,10 @@ done < "$order_file"
 if [[ -z "$article_file" ]]; then
   echo "has_article=false" >> "$GITHUB_OUTPUT"
   echo "No draft article remains in the publication queue."
+  echo "::warning::Weekly publication skipped: no draft remains in the queue."
+  if [[ -n "${GITHUB_STEP_SUMMARY:-}" ]]; then
+    echo 'No article published: the Off the Stack queue has no unpublished draft on main.' >> "$GITHUB_STEP_SUMMARY"
+  fi
   exit 0
 fi
 

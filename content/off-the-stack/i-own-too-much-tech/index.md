@@ -10,7 +10,7 @@ tags:
 comments: true
 ---
 
-> **Previously on isoul.uk:** [Why I Name My Computers](/off-the-stack/why-all-my-computers-have-names/) — the things we loved years ago have a habit of following us into adult life.
+> **Previously on isoul.uk:** [JankStation: Building a £0 Home Cinema from Forgotten Tech](/off-the-stack/jankstation-zero-pound-home-cinema/) — I gave some old kit a job instead of leaving it in a drawer.
 
 ![An illustrated shelf holding a phone, laptop, hard drives, Kindle, tablet and games console, with a small empty space between them.](too-much-tech.svg)
 
