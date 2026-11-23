@@ -1,7 +1,6 @@
 ---
 title: "From a charity-shop DVD to my television"
-date: 2026-11-19T12:13:50Z
-draft: true
+date: 2026-11-23T20:54:57Z
 description: "Buying Shaun of the Dead on DVD, keeping its extras, and making it easy to watch at home."
 tags:
   - physical media
